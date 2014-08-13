@@ -132,25 +132,28 @@ def order(request):
 	productlist=all_info()['product']
 	
 	if request.method == 'POST':
-#		print request.POST['e_mail']
-		order_id=request.POST.getlist('order_id')
-		order_num=request.POST.getlist('order_num')
-		order_name=request.POST.getlist('order_name')
-		cnnt_name=request.POST['name']
-		cnnt_email=request.POST["e_mail"]
-		cnnt_require=request.POST['require']
-		order_info=zip(order_id,order_num)
-		a=''
-		for oname,oqty in zip(order_name,order_num):
-			a += oname + ' : ' + oqty
-		message='this is a email to confirm your require the product & service of \n%s \n%s' % (a,cnnt_require)
-		try:
-			send_mail('Require Comfirme Email', message, 'tonytan748@gmail.com',[ cnnt_email,'115222956@qq.com'],fail_silently=False)
-		except Exception,e:
-			print str(e)
-		print request.POST.getlist('order_id')
-		print request.POST.getlist('order_num')
-		print request.POST['name']
+		if request.POST.has_key('require'):
+#			print request.POST['e_mail']
+			order_id=request.POST.getlist('order_id')
+			order_num=request.POST.getlist('order_num')
+			order_name=request.POST.getlist('order_name')
+			cnnt_name=request.POST['name']
+			cnnt_email=request.POST["e_mail"]
+			cnnt_require=request.POST['require']
+			order_info=zip(order_id,order_num)
+			a=''
+			for oname,oqty in zip(order_name,order_num):
+				a += oname + ' : ' + oqty
+			message='this is a email to confirm your require the product & service of \n%s \n%s' % (a,cnnt_require)
+			try:
+				send_mail('Require Comfirme Email', message, 'tonytan748@gmail.com',[ cnnt_email,'115222956@qq.com'],fail_silently=False)
+			except Exception,e:
+				print str(e)
+			print request.POST.getlist('order_id')
+			print request.POST.getlist('order_num')
+			print request.POST['name']
+		if request.POST.has_key('delall'):
+			
 
 	if 'order' in request.session:
 		order_no = str(request.session['order']).split(',')
