@@ -1,0 +1,98 @@
+{% extends 'index.html' %}
+
+{% block head %}
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="address" content="{{ webinfo.content_address }}">
+	<meta name="phone" content="{{ webinfo.content_phone }}">
+	<meta name="email" content="{{ webinfo.content_email }}">
+	<meta name="address" content="{{ webinfo.content_address }}">
+	<meta name="description" content="{{ webinfo.description }}">
+	<meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development">
+	<meta name="author" content="{{ webinfo.content_name}}">
+	<title>
+		{{ webinfo.name }}
+	</title>
+{% endblock %}
+
+{% block navbar %}
+	<header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
+		<div class="container">
+			<div class="navbar-header">
+			  <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			  <a href="../../" class="navbar-brand">DEENTER.com</a>
+			</div>
+			<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+				  <ul class="nav navbar-nav">
+					  {% for i in classes %}
+					  	<li><a href="/class/{{ i.id }}">{{ i.name }}</a></li>
+					  {% endfor %}
+					  
+				  </ul>
+
+				  <ul class="nav navbar-nav navbar-right">
+					<li><a href="/service/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Expo');">在线服务</a></li>
+					<li><a href="/aboutus/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">关于我们</a></li>
+					<li><a href="/order/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">查询产品：{{order_qty}}项</a></li>
+				  </ul>
+			</nav>
+		</div>
+	</header>
+
+{% endblock %}
+
+
+{%block content%}
+
+<!--head / navbar / content / footer -->
+
+	<div class="jumbotron">
+      <div class="container">
+			<div class="col-sm-6">	
+				<h1>{{classify.title}}</h1>
+				<p>{{classify.introduction}}</p>
+			</div>
+			<div class="col-sm-6">	
+				<!--<iframe width="560" height="315" src={{kinds.vedio_1}} frameborder="0" allowfullscreen></iframe>-->
+				<iframe width="560" height="315" src="{{classify.vedio_1}}" frameborder="0" allowfullscreen></iframe>
+			</div>
+      </div>
+    </div>
+
+
+<div class="container projects">
+	
+	<div class="projects-header page-header">
+        <p>{{classify.description}}</p>
+    </div>
+	<br>
+
+    <div class="row">
+	{%for company in companylist%}
+
+      	<div class="col-sm-6 col-md-4 col-lg-3 ">
+          <div class="thumbnail">
+            <a href="/company/{{ company.id }}" title="{{ company.name }}" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'codeguide'])"><img class="lazy" src="#" width="300" height="150" data-src="../static/img/company_1.gif" alt="{{company.title}}"></a>
+            <div class="caption">
+              <h3> 
+                <a href="/company/{{ company.id }}" title="{{company.introduction}}" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'codeguide'])">{{ company.name }}</a>
+              </h3>
+              <p>
+				{{ company.introduction | truncatewords:5}}
+              </p>
+            </div>
+          </div>
+        </div>
+
+	
+	{%endfor%}
+	</div>
+</div>
+{%endblock%}

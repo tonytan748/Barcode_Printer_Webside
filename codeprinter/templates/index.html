@@ -1,0 +1,142 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="address" content="{{ webinfo.content_address }}">
+	<meta name="phone" content="{{ webinfo.content_phone }}">
+	<meta name="email" content="{{ webinfo.content_email }}">
+	<meta name="address" content="{{ webinfo.content_address }}">
+	<meta name="description" content="{{ webinfo.description }}">
+	<meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development">
+	<meta name="author" content="{{ webinfo.content_name}}">
+	<title>
+		{{ webinfo.name }}
+	</title>
+{% endblock %}
+
+{% block navbar %}
+	<header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
+		<div class="container">
+			<div class="navbar-header">
+			  <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			  <a href="../../" class="navbar-brand">DEENTER.com</a>
+			</div>
+			<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+				  <ul class="nav navbar-nav">
+					  {% for i in classify %}
+					  	<li><a href="/class/{{ i.id }}">{{ i.name }}</a></li>
+					  {% endfor %}
+					  
+				  </ul>
+
+				  <ul class="nav navbar-nav navbar-right">
+					<li><a href="/service/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Expo');">在线服务</a></li>
+					<li><a href="/aboutus/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">关于我们</a></li>
+					<li><a href="/order/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">查询产品：{{order_qty}}项</a></li>
+				  </ul>
+			</nav>
+		</div>
+	</header>
+
+{% endblock %}
+
+
+
+{% block content%}
+<main class="bs-docs-masthead" id="content" role="main">
+	<div class="container">
+		<br/>
+		<br/>
+		<h1 class="lead">{{webinfo.title}}</h1>
+		<br/>
+		<p class="lead" >{{webinfo.introduction}}</p>
+		<br/>
+		<br/>
+		<p class="lead">{{webinfo.description}}</p>
+		<p class="lead">
+		  <a href="getting-started#download" class="btn btn-outline-inverse btn-lg" onclick="ga('send', 'event', 'Jumbotron actions', 'Download', 'Download 3.2.0');">关于我们</a>
+		</p>
+		<br/>
+		<br/>
+		<br/>
+		<!--
+		<div id="carbonads-container"><div class="carbonad">
+			<div id="azcarbon"></div>
+				<script>var z = document.createElement("script"); z.async = true; z.src = "http://engine.carbonads.com/z/32341/azcarbon_2_1_0_HORIZ"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script>
+			</div>
+		</div>
+		-->
+	</div>
+</main>
+	
+<div class="page-header">
+
+			<form class="form-inline" role="form" method="POST" action="">
+				{%csrf_token%}
+  				<div class="form-group">
+					<label class="form-control" for="formGroupInputLarge">Select Production</label>
+							<select class="form-control" name="p">
+								{% for i in productlist %}
+									<option>{{ i.name }}</option>
+								{% endfor %}
+							</select>
+					<button type="submit" class="btn btn-default">Search</button>
+				</div>
+			</form>
+
+
+</div>
+
+
+	<div class="bs-docs-featurette">
+		<div class="container">
+			<h2 class="bs-docs-featurette-title">服务</h2>
+			<p class="lead">Deenter致力于向客户提供优质的打印机产品和服务，信守承诺，勇于创新，客户至上是我们一贯的宗旨，我们拥有高效的技术团队为您提供专业的服务与支持。</p>
+
+			<hr class="half-rule">
+
+			<div class="row">
+			{% for i in classify %}
+				<div class="col-sm-4">
+					<img src="/static/img/bg-archea.jpg" alt="Sass and Less support" class="img-responsive">
+					<h3>{{i.name}}</h3>
+					<p>{{i.introduction}}</p>
+			  	</div>
+			{% endfor %}
+			</div>
+			<hr class="half-rule">
+			<p class="lead">感谢您对我们的支持。</p>
+		</div>
+	</div>
+			  
+	<div class="bs-docs-featurette other-bar">
+		<div class="container">
+			<h2 class="bs-docs-featurette-title" style="color:#fff;">产品</h2>
+			<p class="lead">我们提供全方位的条码技术支持，从硬件设备，售后维护，条码打印，以及各类适合您公司运作的管理系统，您都可以在我们这里得到最满意的服务与支持。</p>
+
+			<hr class="half-rule">
+
+			<div class="row bs-docs-featured-sites">
+				{% for p in productlist %}
+					<div class="col-sm-3">
+						<a href="/product/{{ p.id }}" target="_blank" title="{{p.name}}">
+						  <img src="/static/img/{{ p.pic_1 }}" alt="{{ p.name }}" class="img-responsive">
+						</a>
+					  </div>
+				{%endfor%}
+
+			</div>
+			<hr class="half-rule">
+		<a href="#" class="btn btn-outline btn-lg" style="color: #fff;">查看更多</a>
+		</div>
+	</div>
+
+{% endblock %}

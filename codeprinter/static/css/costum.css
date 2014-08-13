@@ -1,0 +1,24 @@
+.jumbotron {
+/*    background-color: #0a677e;*/
+	background-image:url(../img/bg-archea.jpg);
+	background-repeat: no-repeat;
+	color: #fff;
+}
+/*.jumbotron h1,p{
+	color: #fff;
+}
+*/
+.bs-docs-masthead {
+	background-image:url(../img/bg-archea.jpg);
+	background-repeat: no-repeat;
+	background-position:left;
+/*	background-size: 100%;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+*/	
+}
+
+.other-bar {
+	background-color: #336666;
+	color:#FFFFFF;
+}
