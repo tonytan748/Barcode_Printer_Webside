@@ -39,7 +39,9 @@
 				  <ul class="nav navbar-nav navbar-right">
 					<li><a href="/service/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Expo');">在线服务</a></li>
 					<li><a href="/aboutus/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">关于我们</a></li>
+					{% if order_qty %}
 					<li><a href="/order/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">查询产品：{{order_qty}}项</a></li>
+					{% endif %}
 				  </ul>
 			</nav>
 		</div>

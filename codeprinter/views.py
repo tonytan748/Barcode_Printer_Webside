@@ -41,8 +41,9 @@ def index(request):
 	companylist=all_info()['company'][:6]
 	productlist=all_info()['product'][:4]
 	
-	print request.session['order']
-	order_qty=len(set(str(request.session['order']).split(',')))
+	if request.session.has_key('order') and str(request.session['order']) != '':
+		order_qty=len(set(str(request.session['order']).split(',')))
+
 	
 	if request.method == 'POST':
 		#p=request.POST['p']
@@ -60,15 +61,16 @@ def products(request):
 	webinfo=web_info()
 	classify=all_info()['navbar']
 	
-	print request.session['order']
-	order_qty=len(set(str(request.session['order']).split(',')))
+	if request.session.has_key('order') and str(request.session['order']) != '':
+		order_qty=len(set(str(request.session['order']).split(',')))
+
 	try:
 		product=Product.objects.get(pk=product_id)
 	except Product.DoesNotExist:
 		raise Http404
 	if request.method == 'POST':
 		#request.session['order']=product_id
-		if request.session['order']:
+		if request.session.has_key('order') and str(request.session['order']) != '':
 			m=str(request.session['order'])
 			request.session['order']=m + ',' + str(product_id)
 		else:
@@ -81,8 +83,9 @@ def classify(request,kinds_id):
 	webinfo=web_info()
 	classes=all_info()['navbar']
 	
-	print request.session['order']
-	order_qty=len(set(str(request.session['order']).split(',')))
+	if request.session.has_key('order') and str(request.session['order']) != '':
+		order_qty=len(set(str(request.session['order']).split(',')))
+
 	try:
 		classify=Classify.objects.get(pk=kinds_id)
 		companylist=Company.objects.filter(classify=kinds_id)[:5]
@@ -95,8 +98,9 @@ def company(request,company_id):
 	webinfo=web_info()
 	classify=all_info()['navbar']
 	
-	print request.session['order']
-	order_qty=len(set(str(request.session['order']).split(',')))
+	if request.session.has_key('order') and str(request.session['order']) != '':
+		order_qty=len(set(str(request.session['order']).split(',')))
+
 	try:
 		company=Company.objects.get(pk=company_id)
 		productlist=Product.objects.filter(company=company_id)
@@ -109,14 +113,15 @@ def product(request,product_id):
 	webinfo=web_info()
 	classify=all_info()['navbar']
 	
-	print request.session['order']
-	order_qty=len(set(str(request.session['order']).split(',')))
+	if request.session.has_key('order') and str(request.session['order']) != '':
+		order_qty=len(set(str(request.session['order']).split(',')))
+		
 	try:
 		product=Product.objects.get(pk=product_id)
 	except Product.DoesNotExist:
 		raise Http404
 	if request.method == 'POST':
-		if request.session['order']:
+		if request.session.has_key('order') and str(request.session['order']) != '':
 			m=str(request.session['order'])
 			request.session['order']=m + ',' + str(product_id)
 		else:
@@ -128,40 +133,45 @@ def order(request):
 	context=RequestContext(request)
 	webinfo=web_info()
 	classify=all_info()['navbar']
-	
 	productlist=all_info()['product']
 	
-	if request.method == 'POST':
-		if request.POST.has_key('require'):
-#			print request.POST['e_mail']
-			order_id=request.POST.getlist('order_id')
-			order_num=request.POST.getlist('order_num')
-			order_name=request.POST.getlist('order_name')
-			cnnt_name=request.POST['name']
-			cnnt_email=request.POST["e_mail"]
-			cnnt_require=request.POST['require']
-			order_info=zip(order_id,order_num)
-			a=''
-			for oname,oqty in zip(order_name,order_num):
-				a += oname + ' : ' + oqty
-			message='this is a email to confirm your require the product & service of \n%s \n%s' % (a,cnnt_require)
-			try:
-				send_mail('Require Comfirme Email', message, 'tonytan748@gmail.com',[ cnnt_email,'115222956@qq.com'],fail_silently=False)
-			except Exception,e:
-				print str(e)
-			print request.POST.getlist('order_id')
-			print request.POST.getlist('order_num')
-			print request.POST['name']
-		if request.POST.has_key('delall'):
-			
+	if 'order' in request.session and str(request.session['order']) == '':
+		del request.session['order']
 
-	if 'order' in request.session:
+	if request.method == 'POST':
+		if "delall" in request.POST:
+			try:
+				del request.session['order']
+			except KeyError,e:
+				print str(e)
+			return HttpResponseRedirect('/order/')
+		elif "require_info" in request.POST:
+			if 'order' in request.session:
+				del request.session['order']
+			request.session['order']=(','.join(request.POST.getlist('order_id'))).decode()
+			print request.session['order']
+#			subject='Thank you send the require.'
+#			messages='thank you for your interesting about our product and service. we will content with you as soon as possible.'
+#			from_email='tonytan748@gmail.com'
+#			recipient_list=[request.POST.get('e_mail')]
+			
+#			send_mail(subject, messages, from_email, recipient_list, fail_silently=False)
+			
+			print "dsfsfasdsfasdf   require_info"
+		else:
+			pass
+	
+	if 'order' in request.session and str(request.session['order']) != '':
 		order_no = str(request.session['order']).split(',')
 		order_products=Product.objects.filter(pk__in=order_no)
 		if order_products:
 			return render_to_response('order.html',{'order_products':order_products},context)
 		else:
 			return HttpResponseRedirect('/')
+	elif str(request.session['order']) == '':
+		del request.session['order']
+		return render_to_response('order.html',{'order_products':''},context)
 	else:
-		return HttpResponseRedirect('/')
+		return render_to_response('order.html',{'order_products':''},context)
+
 	

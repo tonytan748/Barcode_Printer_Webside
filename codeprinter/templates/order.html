@@ -48,15 +48,28 @@
 
 {%block content%}
 
+<!--Delete one row-->
 <script language="javascript">
 	function deleterow(btn){
 		var tr=btn.parentNode.parentNode;
 		var table=document.getElementById('mytable');
 		table.deleteRow(tr.rowIndex);
 	}
-	function deleteall(btn){
-		
+</script>
+<!--Delete All Rows-->
+<script type="text/javascript">
+    function deleteallrow(){
+		var table=document.getElementById('mytable');
+		trs=table.gerElementsByTagName('tr');
+		for(var i=trs.length-1; i>0 ; i--){
+			table.deleteRow(i);
+		}
 	}
+</script>
+<script type="text/javascript">
+	$('#required').click(function(){
+		
+	});
 </script>
 
 
@@ -70,16 +83,19 @@
 				<tr><td>Product Class</td><td>Product Name</td><td>Number</td><td></td></tr>
 				{% for i in order_products %}
 					<tr><td>{{ i.classify }}</td>
-						<td>{{ i.name }}<input type="hidden" value="{{i.name}}" name='order_name'></td>
+						<td>{{ i.name }}<input type="hidden" value="{{i.name}}" name='order_name'>
+										<input type="hidden" value="{{i.id}}" name='order_id'>
+						</td>
 						<td><input type="text" value="1" name="order_num"></td>
 						<td>
-							<input type="hidden" value="{{i.id}}" name='order_id'>
 							<input class="btn btn-info" type="button" value="Delete" onclick="deleterow(this);">
 						</td>
 					</tr>
 				{% endfor %}
-				<tr><td></td><td></td><td></td><td><input class="btn btn-info" type="button" value="Delete All" name="delall" onclick="deleteall(this);"></td></tr>
 			</table>
+			{% if order_products %}
+				<button type="submit" class="btn btn-default" name="delall"  onclick="deleteallrows()">Delete All</button>
+			{% endif %}
 		</div>
 	</div>
 
@@ -116,7 +132,7 @@
 	<div class="row">
 	  <div class="form-group">
 		<div class="col-sm-offset-2 col-sm-8">
-		  <button type="submit" class="btn btn-default" name="require">Require</button>
+		  <button type="submit" class="btn btn-default" name="require_info" id="request_this">Require</button>
 		</div>
 	  </div>
 	</div>
