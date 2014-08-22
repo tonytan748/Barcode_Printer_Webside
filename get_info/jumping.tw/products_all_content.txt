@@ -1,0 +1,1142 @@
+URL:http://www.jumping.tw/upload/prd_pic1/46_2a8c4686117de0024efb8c6b0ffd6725_2.jpg
+NAME:熱感機  Argox OS-2130D/2130DE
+注意事項:Argox條碼機保固兩年，印字頭(TPH)保固六個月
+商品詳細介紹:&nbsp;Argox OS-2130D/OS-2130DE條碼機為一款體積小巧的桌上型標籤條碼機。&nbsp;Argox OS-2130D/OS-2130DE條碼機提供熱感式標籤列印，主要的傳輸介面為USB 2.0，可連接筆記型電腦執行列印，適合各種服務業使用，例如:收銀櫃檯、秤重、郵件收發、銀行、票務、病患追蹤、店面零售等等。&nbsp;Argox OS-2130D/OS-2130DE條碼機具備4MB快閃記憶體與8MB SDRAM，並內建RTC卡(Real Time Clock)，讓使用者不需透過電腦即可印製時間、日期等資訊於標籤上，警鈴警示功能則可提醒使用者紙捲用盡或卡紙等狀況。&nbsp;Argox OS-2130D/OS-2130DE條碼機除了USB之外，傳輸介面還包括RS-232、RJ11(連接錢櫃用)以及內建式乙太網路選配(OS-2130DE)。操作簡單、符合小型工作平台使用的特性與需求，並貼心改良介面接孔的設計，可防止潑水等突發狀況引起的損壞，是服務業列印工作最實用的好夥伴。
+規格說明:等級桌上型解析度200dpi記憶體8 MB DRAM 4MB Flash ROM列印模式熱感式列印速度2~4ips列印寬度3 吋通訊介面RS-232, USB, Cash Drawer, Ethernet(選配)紙張感測器反射式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0O ~270O，可由軟體下載 Windows 字形指令集PPLA, PPLB體積尺寸134 毫米(寬)*163 毫米(高)*228 毫米(長)重量1.2公斤碳帶長度N/A碳帶寬度N/A碳帶軸心N/A紙張寬度2.54~7.7公分紙張厚度0.0635~0.254毫米紙張軸心1/2 吋建議紙捲容量40M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13,UPC-A,UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128,
+UCC/EAN-128 K-MART, UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 DataBar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with human readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on),
+UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on), Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5,
+UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar二維條碼PPLA/PPLB:
+MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code, Composite codes安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.200 Driver v5.04│Argox 200DPI 系列條碼機│1.24MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox桌上型條碼機OS 系列機器型錄II│Argox桌上型條碼機OS系列│2.1MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/41_0e42b7884f41aac02850980290a85156_2.jpg
+NAME:熱感機 Argox OS-203DT
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:Argox OS-203DT 熱感式列印條碼機， 體積輕巧、經濟實惠。Argox OS-203DT熱感式列印條碼機使用方便的設計，更容易安裝紙張與列印，降低員工使用成本，工作更省時、有效率。Argox OS-203DT熱感式列印條碼機可應用於餐飲飲料業、零售業價格標、辦公室自動化、貨運物流到一般性的標籤、貼紙等。
+規格說明:等級桌上型解析度200 dpi記憶體512KB DRAM 512KB Flash ROM列印模式熱感式列印速度2~3.5ips列印寬度3 吋通訊介面Parallel, RS-232 Mini Din 6P紙張感測器反射式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~ 270°，可由軟體下載 Windows 字形指令集PPLA, PPLB體積尺寸228 毫米(長)*134 毫米(寬)*163 毫米(高)重量1.2公斤碳帶長度N/A碳帶寬度N/A碳帶軸心N/A紙張寬度2.54~7.9公分紙張厚度0.0635~0.254毫米紙張軸心1.3公分建議紙捲容量40M一維條碼PPLA: Code39, Code93, Code128/subset A, B and C, Codabar, Interleaved 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, UCC/EAN 128 random weight,
+Postnet, Plessey, HIBC, Telepen, FIM
+PPLB: Code39, Code93, Code128/subset A, B and C, Codabar, Interleaved 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, Postnet, Matrix 2 of 5, Code-128UCC二維條碼PPLA: PDF-417, MaxiCode, Data Matrix
+(ECC200 only)
+PPLB: PDF-417, MaxiCode安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.200 Driver v5.04│Argox 200DPI 系列條碼機│1.24MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox桌上型條碼機OS系列 機器型錄│Argox桌上型條碼機OS系列│1.04MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/189_d2a9d7ca058990dd8f4d97e55e293df2_2.jpg
+NAME:熱感機 TSC TDP-225
+注意事項:
+
+TSC: 全系列條碼機皆為機器本體保固1年，印字頭保固半年或25公里先到為準。
+商品詳細介紹:TSC 2英吋寬桌上型熱感式條碼機TDP-225全新上市！相較於市場上其他同等級桌上型機種，TDP-225桌上型熱感式條碼機領先推出液晶顯示螢幕之選配，讓您即時掌握列印機狀態，使人機溝通更為簡單。
+
+您曾經發生遍尋不著印表機零配件的不愉快經驗嗎？TDP-225桌上型熱感式條碼機採用固定式機構件設計，讓您遠離配件遺失的困擾！TDP-225桌上型熱感式條碼機的人性化設計還包
+括：每秒5英吋快速列印；配備高效能200 MHz微處理器；內建4 MB Flash、8 MB
+SDRAM及一組MicroSD卡插槽，記憶體容量最高可擴充至 4GB；同時可支援模擬其他品牌條碼機之程式語言，提供最佳的軟體相容環境。TSC
+TDP-225桌上型熱感式條碼機以最小空間發揮最大可能，以最低成本為您創造最大價值！
+規格說明:等級桌上型解析度203dpi記憶體8MB SDRAM 4MB Flash ROM列印模式熱感式列印速度5ips列印寬度2 吋通訊介面Serial / USB紙張感測器穿透式/反射式內建字型8種點陣英數字型
+1套 Monotype Image® CG Triumvirate Bold Condensed 向量字型及 True Type Font
+字型產生器可透過軟體下載 Windows 字型使用指令集TSPL-EZ™體積尺寸209毫米(長) x 109毫米(寬) x 171毫米(高)重量碳帶長度碳帶寬度碳帶軸心紙張寬度15-60mm紙張厚度0.06~0.19mm紙張軸心1 吋建議紙捲容量40M一維條碼Code 39, Code 93, Code 128UCC, Code 128 subsets A, B, C, Codabar,
+Interleave 2 of 5, EAN-8, EAN-13, EAN-128, UPC-A, UPC-E, EAN and
+UPC 2 (5) digits add-on, MSI, PLESSEY, POSTNET, China POST,
+RSS-14, Code 11二維條碼PDF-417, Maxicode, DataMatrix, QR code, Aztec安規認證FCC Class B, CE Class B , C-Tick CLass B, UL, CUL,T0V/Safety, CCC                           
+下載專區:軟體名稱適用機型下載TSC熱感條碼機TDP-225 機器型錄│TDP-225│0.83MBTSC Seaguall Driver v7.1.9(WinXP)│TSC 全系列條碼機│7.25MBTSC Seaguall Driver v7.3.1(Win7) │TSC 全系列條碼機 │7.96MBTSC Bartender 10.0UL│TSC全系列 │176.05MB
+URL:http://www.jumping.tw/upload/prd_pic1/51_7d3637e5e49005285f3f6ab990a20d67_2.jpg
+NAME:熱感機 Godex EZ-DT-2
+注意事項:Godex: 機器本體保固1年，印字頭保固3個月或25公里先到為準
+商品詳細介紹:一台可讓您輕鬆列印的熱感式條碼機 EZ DT-2 在此推薦給您&nbsp;。 可供您快速大量且不須保存太久的標籤印製 , 不用安裝碳帶 更可節省耗材的費用 適用於餐飲業 或各行業有需要出單功能使用
+規格說明:等級桌上型解析度200dpi記憶體8 MB SDRAM 4MB Flash ROM列印模式熱感式列印速度4ips列印寬度2 吋通訊介面USB, RS-232紙張感測器反射式/穿透式內建字型Bitmap字體: 6, 8, 10, 12, 14, 18, 24, 30, 16X26 and OCR A & B
+Bitmap字體列印方向可旋轉角度為0°, 90°, 180°, 270°，字體可單獨旋轉角度為0°, 90°, 180°, 270°，並可水平或垂直放大8倍
+向量字體(scalable font)，可旋轉角度為0°, 90°, 180°, 270°指令集EZPL, GEPL體積尺寸218毫米(長)*100毫米(寬)*172毫米(高)重量1.2公斤碳帶長度N/A碳帶寬度N/A碳帶軸心N/A紙張寬度1.5~6公分紙張厚度0.06~0.20毫米紙張軸心1 吋建議紙捲容量40M一維條碼1-D Bar codes:
+Code 39, Code 93, Code 128 (subset A, B, C), UCC/EAN-128 K-Mart, UCC/EAN-128, UPC A / E (add on 2 & 5), I 2 of
+5, I 2 of 5 with Shipping Bearer Bars, EAN 8 / 13 (add on 2 & 5), Codabar, Post NET, EAN 128, DUN 14, HIBC, MSI (1
+Mod 10), Random Weight, Telepen, FIM, China Postal Code, RPS 128 and GS1 DataBar二維條碼2-D Bar codes:
+PDF417, Datamatrix code, MaxiCode, QR code and Micro QR code安規認證                           
+下載專區:軟體名稱適用機型下載Godex Golabel│Godex全系列│29.97MBGodex Seaguall Driver v7.1.9(WinXP)│Godex 全系列條碼機│9.49MBGodex Qlabel4 1.31│Godex 全系列機種│32.38MBGodex Seaguall Driver v7.3.1(Win7)│Godex 全系列條碼機 │12.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/330_09a2c33c33a13d85470645e11641e731_2.jpg
+NAME:條碼機 GT-3230
+注意事項:條碼機保固一年 ;&nbsp; 印字頭保固 6 個月 或 25公里
+商品詳細介紹:GT-3230&nbsp; -&nbsp; 新一代條碼機指標強大的規格及不容忽視的配備，讓 GT-3230成為桌上型條碼機的首選-&nbsp; 203 dpi 的解析度 :&nbsp; 精簡版面，超清楚呈現。- 一鍵測紙功能 : 就連國外機種都沒有的一鍵測紙功能，大大提升使用者的方便性- 高達10顆的紙張感測器 : 前所未有的高規格配備，精準偵測紙張規格，&nbsp;&nbsp; 讓您不再只受限於列印四四方方的貼紙，&nbsp;&nbsp; 諸如: 打孔吊牌、透明貼紙、圓形標籤等都能精確列印。- 剝紙模組、裁刀模組 等選配模組 ，擴充應用不設限- 強大且免費的編輯軟體 : 多達 23 項的列印功能，讓使用者輕鬆完成列印工作。- 貼心的人機介面燈號 :&nbsp; 解決傳統條碼機難以理解的簡陋燈號指示。&nbsp;GT-3230 和 GT-3330&nbsp; 能讓使用者輕鬆完成列印工作，讓列印條碼不再是一件難事。
+&nbsp;&nbsp;
+規格說明:等級解析度203 dpi 記憶體RAM: 8MB SDRAM、ROM: 4MB Flash ROM列印模式熱轉式/熱感式列印速度1 to 3 ips列印寬度0.6吋-4吋通訊介面RS-232、USB master port、USB slave port、乙太網路模組 10/100Mbps (選配)紙張感測器穿透式/反射式內建字型5種內建可擴充bitmap字型 (字母-數字)、2種內建可擴充bitmap字型(僅數字)、可下載的soft font
+4種旋轉角度: 0, 90, 180, 270指令集體積尺寸寬度: 200.00mm (7.83吋) 長度: 263.19mm (10.36吋) 高度: 188.29mm (7.41吋)重量2 KG2 KG碳帶長度100M碳帶寬度1.0吋(25.4mm) to 4.3吋 (110mm)碳帶軸心0.5吋(12.7mm)紙張寬度0.59吋(15mm)~4.33吋(110mm)紙張厚度0.002吋(0.06mm) to 0.0075吋(0.2mm)紙張軸心1 吋心建議紙捲容量40M一維條碼Code39 standard or extended, Code39 with check digit, Code93, Code128 UCC,
+Code128 auto A,B,C modes, Codabar, EAN8, EAN8/13 2&5 digit add-on, EAN13,
+Interleaved 2 of 5, Interleaved 2 of 5 with check digit, Interleaved 2 of 5 with human readable check digit,
+UCC/EAN 128, UPC A, UPC A 2&5 digit add-on, UPC E, UPC E 2&5 digit add-on, UPC Interleaved 2 of 5二維條碼Data Matrix, MaxiCode, PDF417, QR code安規認證                           
+下載專區:軟體名稱適用機型下載GT-3230 DM│GT-3230│3.46MBBardrawer+│GT 全系列機種│7.14MB
+URL:http://www.jumping.tw/upload/prd_pic1/329_21318aa6a9d49260fc7bd3fa0db0110d_2.jpg
+NAME:條碼機 GT-3330
+注意事項:條碼機保固一年 ; 印字頭保固6個月 或 25公里
+商品詳細介紹:GT-3330&nbsp; -&nbsp; 新一代條碼機指標強大的規格及不容忽視的配備，讓 GT-3330成為桌上型條碼機的首選-&nbsp; 300 dpi 的解析度 :&nbsp; 將您設計的版面，不管是圖標、文字 或是公司商標都能完整呈現- 一鍵測紙功能 : 就連國外機種都沒有的一鍵測紙功能，大大提升使用者的方便性- 高達10顆的紙張感測器 : 前所未有的高規格配備，精準偵測紙張規格，讓您不再只受&nbsp;&nbsp;&nbsp; 限於四四方方的貼紙，諸如: 打孔吊牌、透明貼紙、圓形標籤等都能精確列印。- 剝紙模組、裁刀模組 等選配模組 ，擴充應用不設限- 強大且免費的編輯軟體 : 多達 23 項的列印功能，讓使用者輕鬆完成列印工作。- 人機介面燈號指示 :&nbsp; 解決傳統條碼機簡陋難理解的困擾。&nbsp;GT-3330 的問市，不僅展現研發者用心，更是將軍條碼經營多年以來累積的心得。一款最符合目前中小企業使用的條碼印表機，最物超所值的投資。
+規格說明:等級解析度300 dpi記憶體RAM: 8MB SDRAM、ROM: 4MB Flash ROM列印模式熱轉式/熱感式列印速度1 to 3 ips列印寬度0.6吋-4吋通訊介面RS-232、USB master port、USB slave port、乙太網路模組 10/100Mbps (選配)紙張感測器穿透式/反射式內建字型5種內建可擴充bitmap字型 (字母-數字)、2種內建可擴充bitmap字型(僅數字)、可下載的soft font
+4種旋轉角度: 0, 90, 180, 270指令集體積尺寸寬度: 200.00mm (7.83吋) 長度: 263.19mm (10.36吋) 高度: 188.29mm (7.41吋)重量2 KG碳帶長度100M碳帶寬度1.0吋(25.4mm) to 4.3吋 (110mm)碳帶軸心0.5吋(12.7mm)紙張寬度0.59吋(15mm)~4.33吋(110mm)紙張厚度0.002吋(0.06mm) to 0.0075吋(0.2mm)紙張軸心1吋心建議紙捲容量40M一維條碼Code39 standard or extended, Code39 with check digit, Code93, Code128 UCC,
+Code128 auto A,B,C modes, Codabar, EAN8, EAN8/13 2&5 digit add-on, EAN13,
+Interleaved 2 of 5, Interleaved 2 of 5 with check digit, Interleaved 2 of 5 with human readable check digit,
+UCC/EAN 128, UPC A, UPC A 2&5 digit add-on, UPC E, UPC E 2&5 digit add-on, UPC Interleaved 2 of 5二維條碼Data Matrix, MaxiCode, PDF417, QR code安規認證                           
+下載專區:軟體名稱適用機型下載GT 3330 DM│GT-3330│3.12MBBardrawer+│GT 全系列機種│7.14MB
+URL:http://www.jumping.tw/upload/prd_pic1/40_03eb26d85cba4c9a4e3470327fbb88c1_2.jpg
+NAME:條碼機  Argox OS-214 Plus
+注意事項:Argox條碼機保固兩年，印字頭(TPH)保固六個月
+商品詳細介紹:ARGOX OS-214plus 條碼機是ARGOX精益求精的嶄新條碼機產品，繼承了暢銷條碼機型ARGOX OS-214TT條碼機種的所有特點，更加大記憶體4MB Flash ROM、8MB DRAM，及32位元中央處理器，可以處理及儲存更大的資料量，多種通訊介面（並列埠、串列埠 和USB介面）可選擇，使用方便靈活運用。ARGOX OS-214plus完美的列印功能及品質要求，適用於圖書館、醫院、政府機關公文追蹤、辦公室自動化、零售業條碼化的條碼機應用。
+規格說明:等級桌上型解析度200dpi記憶體8 MB DRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度2~3ips列印寬度4 吋通訊介面Parallel, RS-232, USB紙張感測器反射式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~ 270°，可由軟體下載 Windows 字形指令集PPLA, PPLB體積尺寸278 毫米(長)*186 毫米(寬)*153 毫米(高)重量1.9 公斤碳帶長度91公尺碳帶寬度2.54~11公分碳帶軸心1/2 吋紙張寬度2.54~10.8公分紙張厚度0.0635~0.254毫米紙張軸心1.3公分 (2.54公分可選配)建議紙捲容量40M一維條碼PPLA: Code 39, Code 93,Code 128/subset A/B/C, Codabar, Interleave 2 of 5, UPC A/E/2/5 add-on, EAN-13/8, UCC/EAN 128, Postnet, Plessey, Interleaved 2 of 5, Interleaved 2 of 5 with a modulo 10 checksum, Interleaved 2 of 5 with a
+modulo 10 checksum and shipping bearer bars , Code 128, UCC/EAN Code 128 Random Weight, HBIC, Telepen , FIM
+PPLB: Code 39, Code 93, Code 128/ subset A,B,C, Codabar, Interleave 2 of 5, Interleave 2 of 5 with check sum digit, Interleave 2 of 5 with human readable check digit, Matrix 2 of 5, UPC A/E 2 and 5 add-on, EAN-8/13, Code 128UCC,
+UCC/EAN, Postnet二維條碼PPLA: PDF-417, MaxiCode, Data Matrix (ECC200 only) ,QR Code,
+Composite codes
+PPLB: MaxiCode, PDF-417, QR Code, Composite codes安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.200 Driver v5.04│Argox 200DPI 系列條碼機│1.24MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox桌上型條碼機OS系列 機器型錄│Argox桌上型條碼機OS系列│1.04MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/47_4a22882ee73770c340bb0425b3edb2d9_2.jpg
+NAME:條碼機 Argox OS-2140
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:Argox OS-2140 熱轉式標籤條碼機，為Argox OS-214plus條碼機種的升級版，性能提升，降低列印噪音，每秒列印速度4 ips，最大列印長度可達254公分(100吋)，加大的記憶體空間，4MB快閃記憶體與8MB DRAM滿足更多樣化的應用，並可輕鬆下載所需的Windows true type字型。Argox OS-2140 熱轉式標籤條碼機在現行條碼標準方面，可列印1D的GS1 Databar、2D的composite及QR Code。兼具美觀輕巧、操作簡便、高性價比三大優點。Argox OS-2140條碼機可應用於郵務、庫存管理、商品標籤以及小型商店，是您選購桌上型條碼機的最佳選擇。
+規格說明:等級桌上型解析度200dpi記憶體8 MB DRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度4ips列印寬度4 吋通訊介面RS-232, USB, Ethernet紙張感測器反射式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0O ~ 270°，可由軟體下載 Windows 字形指令集PPLA / PPLB / PPLZ體積尺寸186 毫米(寬)*153 毫米(高)*278 毫米(長)重量2.0公斤碳帶長度91公尺碳帶寬度2.54~11公分碳帶軸心1/2 吋紙張寬度2.54~11公分紙張厚度0.0635~0.254毫米紙張軸心1.3公分 (2.54公分可選配)建議紙捲容量40M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128,
+UCC/EAN-128 K-MART, UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with human readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on),
+UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on), Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5,
+UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13, UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, Code 128 Auto,
+UPC/EAN-Extension, Plessey, Industrial 2 of 5 , Standard 2 of 5, Logmars, MSI, Code 11, GS1 DataBar二維條碼PPLA/PPLB/PPLZ: MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code,
+Composite codes安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.200 Driver v5.04│Argox 200DPI 系列條碼機│1.24MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox桌上型條碼機OS 系列機器型錄II│Argox桌上型條碼機OS系列│2.1MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/335_79cf7fc4f88604dab3cfa36095e5006e_2.jpg
+NAME:條碼機 Argox A-2240/A-2240E
+注意事項:Argox條碼機保固兩年，印字頭(TPH)保固六個月
+商品詳細介紹:● 32位元中央處理器與5吋列印速度提供絕佳列印品質，可列印標籤、布標、硬紙卡
+規格說明:等級桌上型解析度203dpi記憶體8MB DRAM(6MB使用者可用)，4MB Flash ROM(2MB使用者可用)列印模式熱感式&熱轉式列印速度最快5吋(每秒)列印寬度4.1吋通訊介面串列埠 ( RS-232 )、USB、Ethernet ( 選配 )紙張感測器反射式/穿透式各一，置中穿透式x1內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270°，可由軟體下載 Windows 字形指令集PPLA / PPLB / PPLZ體積尺寸201 毫米(寬) x 179 毫米(高) x 245 毫米(長)重量2.2 公斤碳帶長度100公尺碳帶寬度2.54~11公分碳帶軸心1.3公分 (須有notch安裝凹洞)紙張寬度11公分紙張厚度0.0635~0.254毫米紙張軸心1吋建議紙捲容量40M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13,UPC-A,
+UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128, UCC/EAN-128 K-MART, UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2,
+UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with human readable check digit), EAN-8 (standard/2 digit
+add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on), UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on),
+Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5, UCC/EAN 128,
+UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13, UPC-A,
+UPC-E, Postnet, Codabar, Code 128 subset A/B/C, Code 128 Auto, UPC/EAN-Extension, Plessey, Industrial 2 of 5 , Standard 2 of 5, Logmars, MSI, Code 11, GS1 DataBar二維條碼PPLA/PPLB/PPLZ: MaxiCode, PDF417,Data Matrix (ECC 200 only), QR code,Composite codes安規認證CE, FCC, cTUVus, CCC                           
+下載專區:軟體名稱適用機型下載Argox printer  utility││3.84MB
+URL:http://www.jumping.tw/upload/prd_pic1/336_1a0d1278b273efc2fdb761f28f37cd6c_2.jpg
+NAME:條碼機 Argox A-3140/A-3140Z
+注意事項:Argox條碼機保固兩年，印字頭(TPH)保固六個月
+商品詳細介紹:● 203dpi與300dpi(解析度)可滿足不同列印需求選擇● 32位元中央處理器與4~5吋列印速度提供絕佳列印品質● 設計有可移動反射式與穿透式紙張偵測裝置，另外增加置中的穿透式紙張偵測裝置，可偵測多種不同型態紙張● 新增印字頭抬起偵測裝置，可方便設定紙張自動校正模式● 提供串列埠、USB等通訊介面，A-2240機種有內建式乙太網路選配● 可容納5吋紙捲● 連桿式列印頭開關，方便耗材更換，操作簡單● 支援1D/GS1 Data bar 、2D/Composite codes與QR Code● 可應用如厚標籤、布標、硬紙卡的印製● 列印模組置中設計可避免碳帶產生皺摺● 方便更換紙捲與碳帶安裝設計● 多種選購配件：裁紙器、剝紙器、紙捲架、RTC卡、專利ArgoKee外接式鍵盤● 網路伺服器選購：乙太網路、無線網路或藍芽
+規格說明:等級桌上型解析度300dpi記憶體8MB DRAM (5MB使用者可用) 8MB Flash ROM (6MB使用者可用)列印模式熱感式&熱轉式列印速度4吋(每秒)列印寬度4.1吋通訊介面串列埠(RS-232)、USB紙張感測器移動反射式x1，移動穿透式x1，置中固定穿透式x1，印字頭抬起x1內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0O ~270O，可由軟體下載 Windows True Type 字形指令集PPLA, PPLB, PPLZ(選購 需另外註明)體積尺寸201毫米(寬)x179毫米(高)x250毫米(長)重量2.2公斤碳帶長度100公尺碳帶寬度2.54~11公分碳帶軸心1.3公分 (須有notch固定凹槽)紙張寬度11公分紙張厚度0.0635~0.254毫米紙張軸心1吋建議紙捲容量40M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13,UPC-A, UPC-E, Postnet,Codabar, Code 128 subset A/B/C, UCC/EAN-128, UCC/EAN-128 K-MART, UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 Data Bar二維條碼PPLA/PPLB: MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code, Composite codes, Composite codes安規認證CE, FCC, UL, CUL, CCC, RoHS                           
+下載專區:軟體名稱適用機型下載Argox printer  utility││3.84MB
+URL:http://www.jumping.tw/upload/prd_pic1/65_7f3badf9367beee18cd6cb53421270a2_2.jpg
+NAME:條碼機 TSC TTP-244 Plus
+注意事項:
+
+TSC: 全系列條碼機皆為機器本體保固2年，印字頭保固1年或25公里先到為準。
+商品詳細介紹:
+
+規格說明:等級桌上型解析度200dpi記憶體8 MB SDRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度1.5~4ips列印寬度4 吋通訊介面RS-232C, USB紙張感測器反射式/穿透式內建字型八種點陣英數字型一套Monotype® CG Triumvirate Bold Condensed向量字型及True Type Font字型產生器可透過軟體下載Windows字型使用指令集TSPL-EZTM體積尺寸232 毫米(長)*288 毫米(寬)*156 毫米(高)重量碳帶長度300M碳帶寬度11公分碳帶軸心1 吋紙張寬度2.54~11.4公分紙張厚度0.06~0.25毫米紙張軸心1 吋建議紙捲容量40M一維條碼Code 39, Code 93, Code 128UCC, Code 128 subsets A, B, C, Codabar, Interleave 2of 5, EAN-8, EAN-13, EAN-128, UPC-A, UPC-E, EAN and UPC 2 (5) digits add-on,MSI, PLESSEY, POSTNET, China Post二維條碼PDF-417, Maxicode, DataMatrix, QR code安規認證                           
+下載專區:軟體名稱適用機型下載TSC Bartender 9.4UL│TSC全系列│146.53MBTSC熱感條碼機TTP-244 Plus 機器型錄│TTP-244 Plus│0.82MBTSC Seaguall Driver v7.1.9(WinXP)│TSC 全系列條碼機│7.25MBTSC Seaguall Driver v7.3.1(Win7) │TSC 全系列條碼機 │7.96MBTSC Bartender 10.0UL│TSC全系列 │176.05MB
+URL:http://www.jumping.tw/upload/prd_pic1/53_1675e54651675adb88c8b4059b245a45_2.jpg
+NAME:條碼機 Godex EZ-1105
+注意事項:機器保固二年 ; 印字頭保固一年&nbsp;&nbsp; - 保固延長優惠中
+商品詳細介紹:條碼機&nbsp; EZ-1105&nbsp; 為新一代推出的經濟型桌上條碼機 。採用原廠新設計技術針對 入門型 、日印量不多的客戶群所研發製造的條碼機 ，它輕巧的外型，只要帶著一台筆電就可輕鬆帶著走，達到隨時列印標籤的效果 !
+規格說明:等級桌上型解析度200dpi記憶體8 MB SDRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度4ips列印寬度4 吋通訊介面USB紙張感測器反射式/穿透式內建字型Bitmap字體: 6, 8, 10, 12, 14, 18, 24, 30, 16X26 and OCR A & B
+Bitmap字體列印方向可旋轉角度為0°, 90°, 180°, 270°，字體可單獨旋轉角度為0°, 90°, 180°, 270°，並可水平或垂直放
+大8倍
+向量字體(scalable font)，可旋轉角度為0°, 90°, 180°, 270°指令集EZPL, GEPL體積尺寸254 毫米(長)*224毫米(寬)*170毫米(高)重量2.5公斤碳帶長度91M碳帶寬度3~11公分碳帶軸心1/2 吋紙張寬度2.54~11.8公分紙張厚度0.06~0.20毫米紙張軸心1 吋建議紙捲容量40M一維條碼1-D Bar codes:
+Code 39, Code 93, Code 128 (subset A, B, C), UCC/EAN-128 K-Mart, UCC/EAN-128, UPC A / E (add on 2 & 5),
+I 2 of 5, I 2 of 5 with Shipping Bearer Bars, EAN 8 / 13 (add on 2 & 5), Codabar, Post NET, EAN 128, DUN 14,
+HIBC, MSI (1 Mod 10), Random Weight, Telepen, FIM, China Postal Code, RPS 128 and GS1 DataBar二維條碼2-D Bar codes:
+PDF417, Datamatrix code, MaxiCode, QR code and Micro QR code安規認證                           
+下載專區:軟體名稱適用機型下載Godex Golabel│Godex全系列│29.97MBGodex Seaguall Driver v7.1.9(WinXP)│Godex 全系列條碼機│9.49MBGodex桌上型條碼機EX-1105, 1305 機器型錄│Godex桌上型條碼機EX-1105, 1305│1.96MBGodex Qlabel4 1.31│Godex 全系列機種│32.38MBGodex Seaguall Driver v7.3.1(Win7)│Godex 全系列條碼機 │12.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/43_e2424b5a352f23968b0c1ef884a5cb63_2.jpg
+NAME:條碼機 Argox X-1000VL
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:Argox X-1000VL 新款經濟型的條碼機，耐用金屬外殼設計，列印速度達每秒4吋，可滿足中印量需求。Argox X-1000VL 具32位元中央處理器，及加大記憶體容量4MB Flash ROM及8MB DRAM，能處理及儲存更大資料量。Argox X-1000VL 的8吋大紙捲容量，穿透式(See-through)與反射式(Reflective)兩種紙張感測裝置，可滿足不同類型紙張應用。Argox X-1000VL 適用於工廠作業環境，為經濟實惠的條碼機選擇。
+規格說明:等級商業型解析度200dpi記憶體8 MB SDRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度2~4ips列印寬度4 吋通訊介面Parallel, RS-232, USB紙張感測器反射式/穿透式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270° ，可由軟體下載 Windows 字形指令集PPLA, PPLB體積尺寸263 毫米(長)*250 毫米(寬)*418 毫米(高) 重量10 公斤碳帶長度360公尺(蠟質)碳帶寬度2.54~11公分碳帶軸心1 吋紙張寬度2.54~11.2公分紙張厚度0.0635~0.254毫米紙張軸心3.8~7.6公分建議紙捲容量100M一維條碼PPLA: Code 39 , Code 93, Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8,
+EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128, UCC/EAN-128 K-MART,
+UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93, Interleaved 2 of 5 (standard/with checksum digit/with human
+readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on),
+UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on), Postnet, Codabar,
+Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5,
+UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code 39 (standard/with checksum digit), Code 93, Interleaved 2of 5 (standard/with checksum digit/with human
+readable check digit), EAN-8, EAN-13, UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, Code 128 Auto,
+UPC/EAN-Extension, Plessey, Industrial 2 of 5, Standard 2 of 5, Logmars, MSI, Code 11二維條碼PPLA/PPLB: MaxiCode, PDF417, Data Matrix (ECC200 only), QR code, Composite codes
+PPLZ: MaxiCode, PDF417, Data Matrix (ECC200 only), QR code安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.200 Driver v5.04│Argox 200DPI 系列條碼機│1.24MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox工業級條碼機X & G series 機器型錄│Argox工業級條碼機X & G series│0.96MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/327_d7e6058e5544b4fc8ba46563197ae6f7_2.jpg
+NAME:條碼機 Argox CP-3140L
+注意事項:Argox條碼機保固兩年，印字頭(TPH)保固六個月
+商品詳細介紹:Argox CP-3140L/CP-3140E系列條碼機提供300dpi的解析度，每秒列印速度為4ips，內建4MB快閃記憶體與8MB SDRAM供存取字型與圖形，支援Window 7作業系統與一維條碼、二維條碼、QR code等，並可下載所需要的Windows True Type中文字型。Argox CP-3140/CP-3140E系列條碼機提供多樣化的通訊介面，包括並列埠(CP-3140)、RS-232、USB以及選配的內建式乙太網路(CP-3140E) 亦可連接ArgoKee單機操作鍵盤與掃描器的單機掃描列印作業。Argox CP-3140/CP-3140E系列條碼機碳帶與紙捲安裝相當簡易，超大的空間可容納300米的碳帶，也可依需求選擇內碳帶或外碳帶；獨特的感測器設計包括置中穿透式、可移動反射式的感測器配置。Argox CP-3140/CP-3140E系列條碼機贏在創新、價格與效能，以小巧的體積、具競爭力的價格，實現大台條碼機的優點，適用產業包括服飾吊牌、郵務輸出、零售業、物流貨運、倉儲管理與醫療管理。
+規格說明:等級商業級解析度300 dpi 記憶體8 MB DRAM 4MB Flash ROM列印模式熱感式 /熱轉式列印速度4 ips列印寬度通訊介面紙張感測器穿透式/反射式內建字型指令集PPLA, PPLB體積尺寸273 mm(長)*225 mm(寬)*186 mm(高)重量2.1 KG碳帶長度300M碳帶寬度最大寬度110mm碳帶軸心1 吋紙張寬度2.54~11公分紙張厚度0.0635~0.254毫米紙張軸心1 吋建議紙捲容量40M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with
+human readable check digit), EAN-8, EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C,
+UCC/EAN-128, UCC/EAN-128 K-MART, UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2,
+UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with
+human readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5
+digit add-on), UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on),
+Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German,
+Postcode, Matrix 2 of 5, UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code39, UPC-A, UPC-E, Postnet, Code128 subset A/B/C, Interleave 2 of 5, Interleaved 2 of 5 with check sun,
+Interleaved 2 of 5 with human readable check digit, Code 93, Code 39 with check sun digit, EAN-8, Codabar, EAN-13,
+Plessey, GS1 Data bar二維條碼PPLA/PPLB/PPLZ: MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code, Composite codes安規認證                           
+下載專區:軟體名稱適用機型下載Argox桌上型條碼機CP series 機器型錄│Argox桌上型條碼機CP series│1.79MB
+URL:http://www.jumping.tw/upload/prd_pic1/45_a2a882d3fb18130bf15f3098c6c049fc_2.jpg
+NAME:條碼機 Argox X-3200
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:Argox X-3200 條碼印表機是最新上市的300dpi高解析度旗艦條碼機機種，結合X-1000VL與X-2000V的多重優點之外，記憶體加大到8MB Flash ROM及16MB SDRAM，原廠專利的降噪設計，讓使用者舒適的印製音量是其他品牌無法做到的特點，且能直接下載多種二位元組亞洲字型，內建的RTC功能，客戶列印時間與日期不需要另外安裝RTC卡，並加入紙張自動校對功能，使用更方便，列印工作提升到最簡化的境界，堅固耐用同時具備亮眼的表現，Argox X-3200 條碼印表機能將客戶的投資無限加值!
+規格說明:等級商業型解析度300dpi記憶體16 MB SDRAM 8MB Flash ROM列印模式熱感式    熱轉式列印速度1~5ips列印寬度4 吋通訊介面Parallel, RS-232, USB, PS/2鍵盤孔紙張感測器反射式/穿透式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270°，可由軟體下載 Windows True Type 字形指令集PPLA, PPLB體積尺寸263 毫米(長)*250 毫米(寬)*418 毫米(高) 重量11公斤碳帶長度360公尺(蠟質)、300公尺(樹脂)碳帶寬度2.54~10.16公分碳帶軸心1 吋紙張寬度2.54~11.2公分紙張厚度0.0635~0.254毫米紙張軸心3.8~7.6公分建議紙捲容量100M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128, UCC/EAN-128 K-MART,UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with human readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on), UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5
+digit add-on), Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5, UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13, UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, Code 128 Auto, UPC/EAN-Extension, Plessey, Industrial 2 of 5 , Standard 2 of 5, Logmars, MSI, Code 11, GS1 DataBar二維條碼PPLA/PPLB: MaxiCode, PDF417, Data Matrix (ECC200 only), QR code, Composite codes
+PPLZ: MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code安規認證                           
+下載專區:軟體名稱適用機型下載Argox Label DR.300 Driver│Argox 300DPI系列條碼機│0.51MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MBArgox X3200 系列DM│X-3200 / X-3200E│4.89MB
+URL:http://www.jumping.tw/upload/prd_pic1/48_78d84c3710027ee39ad4c9d8f9cd1e12_2.jpg
+NAME:條碼機 Argox CP-2140/CP-2140E
+注意事項:Argox條碼機保固兩年，印字頭(TPH)保固六個月
+商品詳細介紹:Argox CP-2140/CP-2140E系列條碼機提供203dpi的解析度，每秒列印速度為4ips，內建4MB快閃記憶體與8MB SDRAM供存取字型與圖形，支援Window 7作業系統與一維條碼、二維條碼、QR code等，並可下載所需要的Windows True Type中文字型。Argox CP-2140/CP-2140E系列條碼機提供多樣化的通訊介面，包括並列埠(CP-2140)、RS-232、USB以及選配的內建式乙太網路(CP-2140E) 亦可連接ArgoKee單機操作鍵盤與掃描器的單機掃描列印作業。Argox CP-2140/CP-2140E系列條碼機碳帶與紙捲安裝相當簡易，超大的空間可容納300米的碳帶，也可依需求選擇內碳帶或外碳帶；獨特的感測器設計包括置中穿透式、可移動反射式的感測器配置。Argox CP-2140/CP-2140E系列條碼機贏在創新、價格與效能，以小巧的體積、具競爭力的價格，實現大台條碼機的優點，適用產業包括服飾吊牌、郵務輸出、零售業、物流貨運、倉儲管理與醫療管理。
+規格說明:等級商業型解析度200dpi記憶體8 MB DRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度2~4ips列印寬度4 吋通訊介面Parallel, RS-232, USB紙張感測器反射式/穿透式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270O，可由軟體下載 Windows True Type 字形指令集PPLA, PPLB體積尺寸273 mm(長)*225 mm(寬)*186 mm(高)重量2.1 KG碳帶長度300M碳帶寬度最大寬度110mm碳帶軸心1 吋紙張寬度2.54~11公分紙張厚度0.0635~0.254毫米紙張軸心1 吋建議紙捲容量40M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with
+human readable check digit), EAN-8, EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C,
+UCC/EAN-128, UCC/EAN-128 K-MART, UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2,
+UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with
+human readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5
+digit add-on), UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on),
+Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German,
+Postcode, Matrix 2 of 5, UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code39, UPC-A, UPC-E, Postnet, Code128 subset A/B/C, Interleave 2 of 5, Interleaved 2 of 5 with check sun,
+Interleaved 2 of 5 with human readable check digit, Code 93, Code 39 with check sun digit, EAN-8, Codabar, EAN-13,
+Plessey, GS1 Data bar二維條碼PPLA/PPLB/PPLZ: MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code, Composite codes安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox桌上型條碼機CP series 機器型錄│Argox桌上型條碼機CP series│1.79MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/337_758dd1be28fb9444ac8e2f3207180595_2.jpg
+NAME:條碼機 R-400Plus
+注意事項:
+商品詳細介紹:● 每日印量符合商業應用需求，使用介面操作更容易、簡單的桌上型印表機● 32位元中央處理器與6吋列印速度，展現優異列印品質● 更高品質列印的桌上型標籤印表機● 可調式反射紙張感測裝置●工業級紙張容量規格，可容納360米長6吋寬的紙捲● 可應用如厚標籤、布標、硬紙卡的印製● 印字頭置中設計可避免碳帶產生皺摺● 方便更換紙捲與碳帶安裝設計● 多種選購配件:裁紙器、剝紙器、紙捲架、字型卡、RTC卡、專利ArgoKee外接式鍵盤● 網路伺服器選購:乙太網路、無線網路或藍芽
+規格說明:等級商業型解析度203dpi記憶體2M DRAM 2M Flash ROM列印模式熱感式&熱轉式列印速度2~6 吋(/每秒)列印寬度4.25 吋通訊介面並列埠 ( Parallel )、串列埠 ( RS-232 )、USB紙張感測器反射式 ( 可調式 )內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270°，可由軟體下載 Windows 字形指令集PPLA / PPLB / PPLZ體積尺寸314 毫米(長) x 231 毫米(寬) x 218 毫米(高)重量4.2 公斤碳帶長度300M碳帶寬度2.54~11公分碳帶軸心2.54公分紙張寬度11.8公分紙張厚度0.0635~0.254毫米紙張軸心1吋建議紙捲容量40M一維條碼PPLA: Code39, Code93, Code128/subset A, B and C, Codabar, Interleaved 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, UCC/EAN-128 Random Weight, Postnet, Plessey, HIBC, Telepen, FIM
+PPLB: Code39, Code93, Code128/subset A, B and C, Codabar, Interleaved 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, Postnet, Matrix 2 of 5, Code-128UCC
+PPLZ: Code11, Interleaved 2 of 5, Code39, Code93, EAN 13/8, UPCA/E, Code128/subset A, B and C, Industrial 2 of 5, Standard 2 of 5, Codabar, UPC/EAN Extensions, MSI, Plessey, PostNet二維條碼PPLA: PDF-417, MaxiCode, Data Matrix (ECC200 only)
+PPLB: PDF-417, MaxiCode
+PPLZ: PDF-417, MaxiCode, Data Matrix (ECC200 only), QR Code安規認證CE, cTUVus, FCC class A                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/42_eda45bae0af245b232071a4015923483_2.jpg
+NAME:條碼機 4吋 Argox R-600S
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:Argox R-600 是款設計精巧且使用上相當人性化的商用型條碼機產品，印字頭置中結構的設計，可以靈活應用輸出25毫米到118毫米不同規格的標籤。Argox R-600 的300dpi高解析度印字頭可滿足精細列印需求，是特別針對圖形、微小列印需求而設計的商用型條碼機，尤其適合電子業、藥品業、服裝業的高標準條碼機要求。
+規格說明:等級商業型解析度300dpi記憶體2 MB DRAM 1MB Flash ROM列印模式熱感式    熱轉式列印速度2~4ips列印寬度4 吋通訊介面Parallel, RS-232紙張感測器反射式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270O，可由軟體下載 Windows 字形指令集PPLA, PPLB體積尺寸314 毫米(長)*231 毫米(寬)*218 毫米(高)重量4.2公斤碳帶長度360公尺碳帶寬度2.54~11公分碳帶軸心1 吋紙張寬度2.54~11.8公分紙張厚度0.0635~0.254毫米紙張軸心1 吋建議紙捲容量50M一維條碼PPLA: Code39, Code93, Code128/subset A, B and C, Codabar, Interleaved 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, UCC/EAN-128 Random Weight, Postnet, Plessey, HIBC, Telepen, FIM
+PPLB: Code39, Code93, Code128/subset A, B and C, Codabar, Interleaved 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, Postnet, Matrix 2 of 5, Code-128UCC二維條碼PPLA: PDF-417, MaxiCode, Data Matrix (ECC200 only)
+PPLB: PDF-417, MaxiCode安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.300 Driver│Argox 300DPI系列條碼機│0.51MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox桌上型條碼機A & R series 機器型錄│Argox桌上型條碼機A & R series│3.69MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/340_4c471b3bcbef5c98198337f1eaabb55b_2.jpg
+NAME:條碼機 T43R
+注意事項:
+商品詳細介紹:推出新款的水洗標整合專用機-T43R。T43R配備了專屬的裁刀，紙架及夾紙器，這些專屬的配備讓水洗標無論是在列印或是裁切上更為準確，並且有在列印時不位移及不沾黏的特性。最小的裁切長度可到達10mm。300點的解析度在列印極細緻的文字、圖形和條碼更是餘刃有餘。
+規格說明:等級商業機解析度300dpi (12 dots/mm)記憶體8MB SDRAM 4MB Flash ROM SD卡記憶體擴充槽，最高支援4GB列印模式熱感式 / 熱轉式列印速度1, 2, 3 IPS列印寬度4.01” (104 mm)通訊介面串列埠、並行埠、USB Master/Slave、乙太網路列印伺服器（選配）紙張感測器反射式感測器  標籤感測器  碳帶結束感測器  印字頭開啟感測器內建字型5種內建的Bitmap字體(字母及數字)
+2種內建的Bitmap字體(數字)指令集體積尺寸寬度	7.83” (200.00 mm) 長度10.36” (263.19 mm) 高度7.41” (188.29 mm)重量3.7公斤碳帶長度110公尺碳帶寬度1”~4.3” (25.4 mm~110 mm)碳帶軸心0.5” (12.7 mm)紙張寬度0.59”~4.33” (15 mm~110 mm)紙張厚度0.0059” (0.15 mm)紙張軸心1吋建議紙捲容量40M一維條碼Code39 stand or extended, Code39 with check digit, Code93, Code128 UCC, Code128 Auto A,B,C mode, EAN8, EAN8/13 2&5 digit add-on, EAN13, Interleaved 2 of 5, Interleaved 2 of 5 with check digit, Interleaved with human readable check digit, UCC/EAN 128, UPC-A, UPC-A 2&5 digit add-on, UPC-E, UPC-E 2&5 digit add-on, UPC Interleaved 2 of 5二維條碼PDF417, Maxicode, Data Matrix, QR code安規認證                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/325_6151637fab7d98768e3aa1e5b2fa9f03_2.jpg
+NAME:條碼機 SBARCO T4
+注意事項:條碼機保固一年，印字頭保固半年或25公里
+商品詳細介紹:頂級功能 精巧外型 T4&nbsp; 203點桌上標籤印表機 T4 203點印表機是一台具有經濟效益的桌上型印表機，它不僅擁有商業級精巧的新穎外型，更提供使用者工業等級的強大功能。誠如我們所訴求的『頂級功能，精巧外型』。圖形操作界面LCD，提供友善的選單給用戶;四個LED按鈕，讓操作更簡單;多種通信介面可以適合不同的接口;USB介面的鍵盤或掃描器可與LCD進行單機操作;SD卡插槽增加資料儲存的空間;出廠內建的計時器可在單機操作時直接列印時間和日期;蜂鳴警告聲能讓用戶在嘈雜的工作場所知道錯誤訊息;可移動的穿透和反射式感測器能夠精確無誤的偵測標籤。堅持高品質的列印、擁有可靠性和耐用性，T4的是您最佳的選擇！
+規格說明:等級解析度300 dpi記憶體8MB SDRAM, 4MB Flash ROM, SD slot(4GB)列印模式熱感式/熱轉式列印速度4 ips列印寬度104mm通訊介面LPT1/RS232/USB/USB host紙張感測器可移透穿透式/可移動反射式內建字型5 種內建可擴充Bitmap字型 (字母-數字)
+2 種內建可擴充Bitmap字型 (數字)
+可下載的soft font
+4種旋轉角度: 0, 90, 180, 270度指令集--體積尺寸200(W) x 263(L) x 188(H) mm重量2KG碳帶長度最大長度 100M碳帶寬度最大寬度 110mm碳帶軸心1/2紙張寬度15mm~110mm紙張厚度0.06mm ~ 0.2mm紙張軸心1建議紙捲容量40M一維條碼Code39,Code93,Code128 UCC, Code128auto,Codabar,EAN13,Interleaved 2of5,UCC/EAN 128,UPC A, UPC E,UPC Interleaved 2of5二維條碼Data Matrix, MaxiCode, PDF417, QR Code安規認證CE, FCC cLass B , CCC, CB                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/44_99cc5c6d4ea615629e9fe82fa5bdde2c_2.jpg
+NAME:工業型條碼機  Argox X-2000V
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:X-2000V 條碼機是ARGOX新推出的一款工業級、多功能條碼機，每秒6吋列印速度，提供並列埠、串列埠以及USB通訊介面，另外PS/2鍵盤口介面可連接PC或掃描器，即可獨立作業。加大記憶體容量4MB Flash ROM及8MB DRAM，可儲存更多圖像、條碼及文字。搭配LCD螢幕，提供安裝、設定與簡單容易的操作環境。此外使用便利上還提供許多貼心設計，包含:內外碳帶切換與印字頭的壓力調整、方便更換及維護印字頭與滾輪等。X-2000V條碼機以性能可靠、操作簡便、易於維護的設計理念，實現卓越的列印效能表，充分滿足工業高品質列印的要求，是工業應用領域首選條碼機。
+規格說明:等級工業型解析度200dpi記憶體8 MB SDRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度2~6ips列印寬度4 吋通訊介面Parallel, RS-232, USB, PS/2鍵盤孔紙張感測器反射式/穿透式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270° ，可由軟體下載 Windows 字形指令集PPLA, PPLB體積尺寸263 毫米(長)*250 毫米(寬)*418 毫米(高) 重量11公斤碳帶長度360公尺(蠟質)碳帶寬度2.54~11公分碳帶軸心1 吋紙張寬度2.54~11.2公分紙張厚度0.0635~0.254毫米紙張軸心3.8~7.6公分建議紙捲容量100M一維條碼PPLA: Code 39 , Code 93, Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8,
+EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128, UCC/EAN-128 K-MART,
+UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93, Interleaved 2 of 5 (standard/with checksum digit/with human
+readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on),
+UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5 digit add-on), Postnet, Codabar,
+Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5,
+UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code 39 (standard/with checksum digit), Code 93, Interleaved 2of 5 (standard/with checksum digit/with human
+readable check digit), EAN-8, EAN-13, UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, Code 128 Auto,
+UPC/EAN-Extension, Plessey, Industrial 2 of 5, Standard 2 of 5, Logmars, MSI, Code 11二維條碼PPLA/PPLB: MaxiCode, PDF417, Data Matrix (ECC200 only), QR code, Composite codes
+PPLZ: MaxiCode, PDF417, Data Matrix (ECC200 only), QR code安規認證                           
+下載專區:軟體名稱適用機型下載Argox Seaguall Driver 7.1.9 ( WinXP )│Argox 全系列條碼機型│12.38MBArgox Label DR.200 Driver v5.04│Argox 200DPI 系列條碼機│1.24MBArgobar Pro Pro V2.03│Argox 全系列機型│7.24MBArgox工業級條碼機X & G series 機器型錄│Argox工業級條碼機X & G series│0.96MBArgox Seaguall Driver 7.3.1 ( Win7 )│Argox 全系列條碼機型 │12.8MB
+URL:http://www.jumping.tw/upload/prd_pic1/338_330d4e7e25450658a9c5f41f947351e9_2.jpg
+NAME:條碼機 Argox X-2300E/X-2300ZE
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:X-2300E內建乙太網路伺服器，使用者可運用網路伺服器傳送列印指令及檔案；或透過SNMP設定即時訊息回傳等功能，來提升印製效率並簡化流程。不論內碳帶或外碳帶可依需求自行切換，紙張感測裝置則包含可調反射式與穿透式兩種，符合多樣化的紙材應用。除了容易操作、性能穩定之外，加大的記憶體8MB Flash ROM/16 MB SDRAM更是一大優點，讓資料處理保有更大的彈性與便利性。X-2300E提供多語系LCD視窗，方便手動設定參數，或於單機作業時利用視窗確認列印內容，X-2300E亦內建RTC功能，不需透過電腦即可列印時間資訊。通訊介面包括串列埠、並列埠，USB、PS/2 鍵盤口以及Ethernet接孔，為使用者打造最便利友善的作業環境，X-2300E是企業用戶最超值經濟的選擇!
+規格說明:等級工業機解析度203dpi記憶體16MB DRAM(13MB使用者可用) 8MB Flash ROM(6MB使用者可用)列印模式熱感式&熱轉式列印速度2~6吋(每秒)列印寬度4.09吋 (10.4公分)通訊介面並列埠(Parallel) 串列埠(RS-232) USB PS/2鍵盤口、內建式乙太網路(Ethernet)紙張感測器紙張偵測器(移動反射式x1、移動穿透式x1)、印字頭抬起感測器；碳帶用盡感測器內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270°，可由軟體下載 Windows True Type 字形指令集X-2300E: PPLA, PPLB X-2300ZE: PPLZ體積尺寸250毫米(寬)x418毫米(高)x263毫米(長)重量11公斤碳帶長度360公尺(蠟質)、300公尺(樹脂)碳帶寬度1吋~4吋(2.54公分至10.16公分)碳帶軸心1吋(2.54 公分)紙張寬度11.2公分紙張厚度0.0635~0.254毫米紙張軸心7.6公分可容紙捲外徑20.3公分建議紙捲容量100M一維條碼PPLA: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13,UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, UCC/EAN-128, UCC/EAN-128 K-MART,UCC/EAN-128 , Random Weight, Plessey, HBIC, Telepen, FIM, UPC2, UPC5, GS1 Data Bar
+PPLB: Code 39 (standard/with checksum digit),Code 93 Interleaved 2 of 5 (standard/with checksum digit/with human readable check digit), EAN-8 (standard/2 digit add-on/5 digit add-on), EAN-13 (standard/2 digit add-on/5 digit add-on), UPC-A (standard/2 digit add-on/5digit add-on), UPC-E (standard/2 digit add-on/5
+digit add-on), Postnet, Codabar, Code 128 subset A/B/C, Code 128 UCC (Shipping Container Code), Code 128 Auto, German, Postcode, Matrix 2 of 5, UCC/EAN 128, UPC Interleaved 2 of 5, GS1 Data Bar
+PPLZ: Code 39 (standard/with checksum digit), Code 93 Interleaved 2of 5 (standard/with checksum digit/with human readable check digit), EAN-8, EAN-13, UPC-A, UPC-E, Postnet, Codabar, Code 128 subset A/B/C, Code 128 Auto, UPC/EAN-Extension, Plessey, Industrial 2 of 5 , Standard 2 of 5, Logmars, MSI, Code 11, GS1 DataBar二維條碼PPLA/PPLB: MaxiCode, PDF417, Data Matrix (ECC200 only), QR code, Composite codes
+PPLZ: MaxiCode, PDF417, Data Matrix (ECC 200 only), QR code安規認證CE, FCC, UL, CUL, CCC, RoHS                           
+下載專區:軟體名稱適用機型下載Argox printer  utility││3.84MB
+URL:http://www.jumping.tw/upload/prd_pic1/339_0eeee87630bd555e8efca7b17ddb9b89_2.jpg
+NAME:條碼機 Argox F1
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:32位元中央處理器、加大記憶體容量、360公尺碳帶與8吋紙捲容量的工業級規格。印字頭置中結構的設計可避免碳帶產生皺摺，且遇到卡紙問題能避免浪費紙張與快速排除困難，更換新尺寸大小紙張時也能輕鬆透過一個按鍵來判別並變更紙張列印尺寸的大小。此外，其他還有讓使用者更能方便操作的貼心設計，包含：Twin-eyed system紙張感測系統、內碳帶/外碳帶自動切換、Auto-Form簡易格式列印，裁紙器與撥紙器模組設計讓安裝與維護更容易，內建警示音系統等。F1可應用多樣化的標籤列印，如辦公室自動化、貨運物流、倉儲管理、醫院、服裝業等。
+規格說明:等級工業機解析度203 dpi (8點/毫米)記憶體8MB DRAM (6M使用者可使用) 4MB Flash ROM (3M使用者可使用)列印模式熱感式&熱轉式列印速度6吋(152毫米)列印寬度4.09吋 (104毫米)通訊介面並列埠(Parallel) 串列埠(RS-232) (鮑率 2400 ~ 115200 bps) USB PS/2鍵盤口紙張感測器反射式(可調整) x 1，穿透式 x 2，紙張用盡感測器，碳帶用盡感測器，印字頭抬起感測器內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270°，可由軟體下載 Windows 字形(最大可達72點)指令集PPLB體積尺寸寬390毫米x 高255毫米x 長309毫米重量7.5公斤碳帶長度360公尺(蠟質)碳帶寬度4~11公分碳帶軸心1吋紙張寬度11.8公分紙張厚度0.0635~0.254毫米紙張軸心3吋建議紙捲容量100M一維條碼PPLB: Code 128 UCC, Code 128 auto, Code 128 subset A/B/C, UCC/EAN 128, Interleaved 2 of 5, Interleaved 2 of 5 with check sum digit & human readable check digit, German Postcode, Matrix 2 of 5, UPC Interleaved 2 of 5, Code 39, Code 39 with check sum digit, Code 93, EAN-8 & EAN-13, 2&5 digit add-on, Codabar, Postnet, UPC-A 2&5 digit add-on, UPC-E 2&5 digit add-on, GS1 Data Bar二維條碼PPLB: Maxicode, PDF-417, Data Matrix (ECC 200 only), QR code, Composite code安規認證CE, UL, CUL, FCC class A, CCC                           
+下載專區:軟體名稱適用機型下載Argox printer  utility││3.84MB
+URL:http://www.jumping.tw/upload/prd_pic1/167_981815927225b4d08d28bbf6bd9da24c_2.jpg
+NAME:工業型條碼機 Zebra ZM400 200dpi/300dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:&nbsp;Zebra ZM400 200DPI條碼印表機為受青睞的Z Series平台帶來了新的靈活性。&nbsp;Zebra ZM400 200DPI條碼印表機在性能和價格方面更具有優勢，因而能在激烈市場競爭中脫穎而出。&nbsp;Zebra ZM400 200DPI條碼印表機靠著其10英寸/秒的列印速度、業界領先的處理效率、極高的可靠性以及豐富的選配，即使在惡劣環境和苛刻的應用條件下，這些金屬材質的列印機依
+然能夠確保較高的列印速度。此外， Zebra ZM400 200DPI條碼印表機更能廣泛地適用各種應用場合，提供提供RFID升級服務的選項，在使用條碼的同時也能與RFID接軌，結合高科技應用。支持XML的列
+印選項更方便與ERP應用。為了更滿足您的需求， Zebra ZM400 200DPI條碼印表機還採用寬大易讀的顯示螢幕。耗材的裝入簡單便捷，在列印現場即可輕鬆、快速地更換印字頭和滾軸，方便設備的使用與維護。
+規格說明:等級工業型解析度200dpi/300dpi記憶體16MB DRAM、8MB FLASH 、64MB FLASH(選配)列印模式熱感式    熱轉式列印速度10ips列印寬度4 吋通訊介面ZebraNet Wireless Plus ZebraNet 10/100 列印服務器 ZebraNet PrintServer II RS-232C 串行接口 高速IEEE1284雙向 USB2.0紙張感測器反射式/穿透式內建字型7種各國字體、1種平華可縮放字體支持OpenType字體 多語言支持-符合Unicode標準，可直接進行快速的多語言熱感應式列印 包含Monotype Imaging Inc的UFST®
+指令集ZPL, ZPL II, EPL, XML體積尺寸475 毫米(長)*278 毫米(寬)*338 毫米(高)重量15公斤碳帶長度450M碳帶寬度5.1~11公分碳帶軸心1 吋紙張寬度11.4公分紙張厚度0.058~0.25毫米紙張軸心3 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 128 with subsets A/B/C and UCC case codes Code 39 Code 93 EAN-13 EAN-8 Industrial 2-of-5 Interleaved 2-of-5 Logmars MSI Planet Code Plessey Postnet RSS (reduced space symbology) Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-A UPC-E
+二維條碼 Aztec Codablock Code 49 Data Matrix MaxiCode QR Code PDF417 MicroPDF417 RSS / GS1 DataBar family (12 barcodes)
+安規認證BSMI、IEC60950-1、EN55024                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/159_8e023908fadc6321a7e120a7a404b525_2.jpg
+NAME:工業型條碼機 Zebra 105SL 200dpi/300dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra 105SL 200dpi印表機結合了增強的儲存與處理能力，並具有堅固耐用、性能可靠的金屬結構。是一部擁有多項功能且物超所值的優良產品，其高穩定度，高生產力以及快速列印，讓您更便利、更有效率。Zebra 105SL 200dpi條碼列印機新增以下功能:‧Dual 32 Bit Processer, RISC(精簡指令集),運算速度快，而CISC(複雜指令集),相容性高； Zebra 105SL 200dpi集合兩種運算器的優點,因此運算效能更高‧Flash Firmware 更新版本更方便‧Standard DRAM 提昇到 4 MB(2MB User available)‧Standard 4MB Flash Memory(750K User available)‧Standard LCD Display‧Serial &amp; Parallel 雙介面並存‧列印速度提昇至 8" /sec‧Zebra 105SL 200dpi由於穩定度高且價格便宜，非常適合於產品標示、資產管理、文件追蹤、物料管理、進出貨品管理及庫存盤點等標籤列印。 
+規格說明:等級工業型解析度200dpi/300dpi記憶體6 MB  SDRAM、4MB FLSH   32 MB(PCMCIA卡選配)列印模式熱感式    熱轉式列印速度8ips列印寬度4 吋通訊介面Centronics® RS-232、RS-422* 與RS-485* 串列 埠；IEEE 1284 雙向併列埠紙張感測器傳送式、反射式（備選）內建字型標準字體：7 種點陣字，1 種平滑縮放式 （CG Triumvirate™粗體壓縮字） 字元集：IBM®代碼體第850頁國際字元集 可選擇歐洲與亞洲字體集 包含Agfa Monotype Corp. 公司的UFST®
+指令集ZPL， ZPL II體積尺寸495 毫米(長)*283 毫米(寬)*394 毫米(高)重量25公斤碳帶長度450M碳帶寬度2~11.4公分碳帶軸心1 吋紙張寬度2~11.5公分紙張厚度0.076~0.305毫米紙張軸心3 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 39 Code 93 EAN-13 EAN-8 Interleaved 2-of-5 Industrial 2-of-5 Logmars MSI Planet Code Plessey Postnet Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-E UPC-A Code 128 with subsets A/B/C and UCC case codes ISBT-128
+二維條碼Codablock Code 49 Data Matrix MaxiCode PDF417 QR Code RSS / GS1 DataBar family (12 barcodes) TLC 39 MicroPDF Aztec
+安規認證UL 1950；CISPR 22（B級）；CSA 950；IEC 950； 801-2、-3 與-4 標準；Canadian Doc.（A級）； FCC（A級）；CE 規範                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/181_f0c34c57f2d2b295f88d38d10cedff42_2.jpg
+NAME:工業型條碼機 Zebra 110Xi4  200dpi/300dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra 110Xi4 擁有最大4"的列印寬度及200DPI的列印解析度。Zebra
+110Xi4 特殊的紙張感測器設計，在4"的列印範圍內迅速準確的輸出無論是出貨麥頭甚至微小零件之標籤，通過UL/CSA安規認證的Zebra
+110Xi4 無論是因應電信業之TLC39或 FDA(美國食品暨藥物管理局)要求之RSS
+Code，它皆遊刃有餘。Zebra 110XiIV讓您在零售、醫療、電子、電信…..等精密工業皆可如虎添翼。新一代的Zebra 110Xi4 &nbsp;條碼列印機
+，在性能及速度上都超越了前一代Zebra 110Xi3，記憶體也加大至8MB，大幅增加使用的彈性。堪稱是結合工藝與精緻的典範。
+
+產品特色
+1.240 x 128 pixel LCD
+2.up to 64MB memory
+3.up to 14”/sec (203 dpi)
+4.RFID option
+規格說明:等級工業型解析度200dpi/300dpi記憶體16MB SDRAM、8MB FLASH、64MB FLASH(選配)列印模式熱感式    熱轉式列印速度14ips列印寬度4吋通訊介面USB 2.0, RS-232C/422/485（可选适配器）, 高速双向 IEEE 1284 並行接口ZebraNet 無線伺服器, ZebraNet 10/100 列印伺服器, IBM Twinax 接口, IBM Coax 接口, 貼標機界面IPV6 列印伺服器紙張感測器反射式/穿透式內建字型點陣式字體 A 至 H 和 GS 符號，高度和寬度可分别放大高達 10 倍平滑可伸縮字體（CG Triumvirate™ 粗體壓縮字體），高度與寬度可分别按點放大IBM® Code Page 850 國際字符
+指令集XML、ZPL、ZPL II體積尺寸517.5 毫米(長)*261.9 毫米(寬)*393.7 毫米(高)重量22.7公斤碳帶長度450M碳帶寬度2~8.7公分碳帶軸心1吋紙張寬度10.2公分紙張厚度0.058~0.25毫米紙張軸心3吋建議紙捲容量100M一維條碼Codabar, Code 11, Code 39, Code 93, Code 128 with subsets A/B/C and UCC Case C Codes, EAN-8, EAN-13, Industrial 2 of 5, Interleaved 2 of 5, ISBT-128, Logmars, MSI, Planet
+Code, Plessey, Postnet, Standard 2 of 5, UPC-A, UPC-E, UPC and EAN 2 or 5 digital extensions二維條碼Codablock, Code 49, Data Matrix, GS1 DataBar (RSS), MaxiCode, MicroPDF417, PDF417, QR Code, TLC 39安規認證Bi-National UL 60950 Third Edition/CSA CAN/ CSA-C22.2 No. 60950-00 Third Edition; IEC 950/ EN 60950: 1992 w/amendments 1 to 4 (CB Scheme); EN 55022: 1998 Class B; EN 55024: 1998; EN 61000-3-2, 3 w/amendment A12; Canadian ICES-003, Class B, FCC Class B; Argentina 92/98 Phase 3; Australia AS/NZS 3548; R.O.C. CNS 13438; BSMI; CCC                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/62_0573666b0017a0dc2e6f8aee291d654b_2.jpg
+NAME:工業型條碼機 SATO CL-412e
+注意事項:
+
+SATO條碼機保固一年，印字頭(TPH)保固三個月或25先到為準。
+商品詳細介紹:SATO GL408e，GL412e 智慧模擬條碼機是工業與商業型機的整合機型，提供模擬它牌條碼機如(Zebra，Intermec，Datamax，Toshiba TEC，Printronix)，提供網路管理，SATOnet Connect 可控制群組下的印表機群，支援設定檔的儲存與呼叫，供隨時切換不同的標籤列印設定 。
+
+
+
+
+規格說明:等級工業型解析度300dpi記憶體18 MB RAM  4MB Flash ROM (選購)  16MB PCMCIA卡(選購))列印模式熱感式    熱轉式列印速度6ips列印寬度4 吋通訊介面¡Serial - RS232 (最快可達 57.6K bps)/Parallel - IEEE1284 印表機 ( ECP模式 )/Universal Serial Bus - USB/選購式介面模組:Ethernet - 10/100BaseT (含WPCPlus )/Wireless 802.11b 及 Twinax / Coax 紙張感測器反射式/穿透式內建字型文字可按比例縮放至12 倍,列印標準/中空字型 (Code table 850)
+機器內建 CG Triumvirate® 及 CG Times® 字型亦可使用外載之 TrueType® 字型 , 級數一般為8 至72 級指令集體積尺寸430 毫米(長)* 271 毫米(寬)*321 毫米(高)重量13公斤碳帶長度300M碳帶寬度11公分碳帶軸心1 吋紙張寬度2.2~13.1公分紙張厚度0.06~0.25毫米紙張軸心3 吋建議紙捲容量100M一維條碼UPC-A, UPC-E, EAN-8, EAN-13,Code 39 , Code 93 , Code 128 , Codabar,MSI, Bookland, Industrial 2/5, Interleaved2/5, Matrix 2/5 , Postnet , UCC/EAN 128二維條碼PDF417 , Micro PDF417 ,Truncated PDF417, Maxicode, Data Matrix,QR Code安規認證                           
+下載專區:軟體名稱適用機型下載Sato Seaguall Driver│SATO 全系列條碼機│7.79MBSATO工業型條碼機CL4 Series 機器型錄│SATO工業型條碼機CL4 Series│0.61MBSATO Seaguall Driver 7.3.1 ( Win7)│SATO 全系列條碼機│8.04MB
+URL:http://www.jumping.tw/upload/prd_pic1/58_3b154c3eca288995f650601147c56e34_2.jpg
+NAME:工業型條碼機 Godex EZ-2200 Plus
+注意事項:Godex: 機器本體保固1年，印字頭保固3個月或25公里先到為準
+商品詳細介紹:Godex 2200 Plus 條碼機 是一台功能眾多 , 價格較低的工業型機種 , 其除了內建印表機埠 , 序列埠 ,USB埠外
+另外提供了網路埠 可以單獨連接網路線而成為一台獨立的網路條碼機 . 各台電腦均可透過網路以及標籤軟體來對Godex 2200 Plus
+條碼機下達列印標籤的指令 , 以增進公司的生產效率 .
+規格說明:等級工業型解析度200dpi記憶體16 MB SDRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度7ips列印寬度4 吋通訊介面Serial port: RS-232 (DB-9)/USB port: 預設為開啟/CF Card socket/內建Print Server的Ethernet網路連接埠(預設為關閉，須與USB埠擇一使用)紙張感測器反射式/穿透式內建字型Bitmap字體: 6, 8, 10, 12, 14, 18, 24, 30, 16X26 and OCR A & B
+Bitmap字體列印方向可旋轉角度為0°, 90°, 180°, 270°，字體可單獨旋轉角度為0°, 90°, 180°, 270°，並可水平或垂直放大8倍
+向量字體(scalable font)，可旋轉角度為0°, 90°, 180°, 270°指令集EZPL體積尺寸512毫米(長)*274毫米(寬)*291毫米(高)重量15公斤碳帶長度450M碳帶寬度3~11公分碳帶軸心1 吋紙張寬度2.54~11.8公分(裁刀11.7公分)紙張厚度0.06~0.25毫米紙張軸心1.5 吋建議紙捲容量100M一維條碼1-D Bar codes:
+Code 39, Code 93, Code 128 (subset A, B, C), UCC/EAN-128 K-Mart, UCC/EAN-128, UPC A / E (add on 2 & 5), I 2 of
+5, I 2 of 5 with Shipping Bearer Bars, EAN 8 / 13 (add on 2 & 5), Codabar, Post NET, EAN 128, DUN 14, HIBC, MSI (1
+Mod 10), Random Weight, Telepen, FIM, China Postal Code, RPS 128 and GS1 DataBar二維條碼2-D Bar codes:
+PDF417, Datamatrix code, MaxiCode, QR code and Micro QR code安規認證                           
+下載專區:軟體名稱適用機型下載Godex Golabel│Godex全系列│29.97MBGodex Seaguall Driver v7.1.9(WinXP)│Godex 全系列條碼機│9.49MBGodex工業型條碼機EZ-2000Plus Series 機器型錄│Godex工業型條碼機EZ-2000Plus Series│1.67MBGodex Qlabel4 1.31│Godex 全系列機種│32.38MBGodex Seaguall Driver v7.3.1(Win7)│Godex 全系列條碼機 │12.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/172_9e3666878c5447398ec5249544c0d192_2.jpg
+NAME:工業型條碼機  Zebra ZM400 600dpi
+注意事項:
+
+Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:&nbsp;Zebra ZM400 600DPI條碼印表機為受青睞的Z Series平台帶來了新的靈活性。Zebra ZM400 600DPI條碼印表機在性能和價格方面更具有優勢，因而能在激烈市場競爭中脫穎而出。Zebra ZM400 600DPI條碼印表機靠著其4英寸/秒的列印速度、業界領先的處理效率、極高的可靠性以及豐富的選配，即使在惡劣環境和苛刻的應用條件下，這些金屬材質的列印機依
+然能夠確保較高的列印速度。Zebra ZM400 600DPI條碼印表機更能廣泛地適用各種應用場合，提供提供RFID升級服務的選項，在使用條碼的同時也能與RFID接軌，結合高科技應用。支持XML的列
+印選項更方便與ERP應用。為了更滿足您的需求，Zebra ZM400 600DPI條碼印表機還採用寬大易讀的顯示螢幕。耗材的裝入簡單便捷，在列印現場即可輕鬆、快速地更換印字頭和滾軸，方便設備的使用與維護。
+規格說明:等級工業型解析度600dpi記憶體16MB DRAM、8MB FLASH 、64MB FLASH(選配)列印模式熱感式    熱轉式列印速度4ips列印寬度4 吋通訊介面ZebraNet Wireless Plus ZebraNet 10/100 列印服務器 ZebraNet PrintServer II RS-232C 串行接口 高速IEEE1284雙向 USB2.0紙張感測器反射式/穿透式內建字型7種各國字體、1種平華可縮放字體支持OpenType字體 多語言支持-符合Unicode標準，可直接進行快速的多語言熱感應式列印 包含Monotype Imaging Inc的UFST®
+指令集ZPL, ZPL II, EPL, XML體積尺寸475 毫米(長)*278 毫米(寬)*338 毫米(高)重量15公斤碳帶長度450M碳帶寬度5.1~11公分碳帶軸心1 吋紙張寬度11.4公分紙張厚度0.058~0.25毫米紙張軸心3 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 128 with subsets A/B/C and UCC case codes Code 39 Code 93 EAN-13 EAN-8 Industrial 2-of-5 Interleaved 2-of-5 Logmars MSI Planet Code Plessey Postnet RSS (reduced space symbology) Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-A UPC-E
+二維條碼 Aztec Codablock Code 49 Data Matrix MaxiCode QR Code PDF417 MicroPDF417 RSS / GS1 DataBar family (12 barcodes)
+安規認證BSMI、IEC60950-1、EN55024                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/183_433d8d9603c626887ba859f67c76d9e2_2.jpg
+NAME:工業型條碼機 Zebra 110Xi4  600dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra 110Xi4 條碼印表機擁有最大4"的列印寬度及600DPI的列印解析度。Zebra 110Xi4 條碼印表機特殊的紙張感測器設計，在4"的列印範圍內迅速準確的輸出無論是出貨麥頭甚至微小零件之標籤，通過UL/CSA安規認證的Zebra 110XiIV條碼印表機無論是因應電信業之TLC39或 FDA(美國食品暨藥物管理局)要求之RSS
+Code，它皆遊刃有餘。Zebra 110Xi4 條碼印表機讓您在零售、醫療、電子、電信…..等精密工業皆可如虎添翼。新一代的Zebra 110Xi4 條碼印表機
+，在性能及速度上都超越了前一代Zebra 110Xi3，記憶體也加大至8MB，大幅增加使用的彈性。堪稱是結合工藝與精緻的典範。
+規格說明:等級工業級解析度600 DPI記憶體16MB SDRAM、12MB SDRAM(選配)、4MB FLASH、2MB FLASH(選配)列印模式 熱感式    熱轉式列印速度4ips列印寬度4 吋通訊介面USB 2.0, RS-232C/422/485（可选适配器）, 高速双向 IEEE 1284 並行接口ZebraNet 無線伺服器, ZebraNet 10/100 列印伺服器, IBM Twinax 接口, IBM Coax 接口, 貼標機界面IPV6 列印伺服器紙張感測器反射式/穿透式內建字型點陣式字體 A 至 H 和 GS 符號，高度和寬度可分别放大高達 10 倍平滑可伸縮字體（CG Triumvirate™ 粗體壓縮字體），高度與寬度可分别按點放大IBM® Code Page 850 國際字符
+指令集XML、ZPL、ZPL II體積尺寸495 毫米(長)*264 毫米(寬)*394 毫米(高)重量22.7公斤碳帶長度300M碳帶寬度2~8.7公分碳帶軸心1 吋紙張寬度紙張厚度0.058~0.25毫米紙張軸心3 吋建議紙捲容量100M一維條碼"Code 11, Code 39, Code 93, 帶有A/B/C子集的Code 128和UCC case codes, UPC-A, UPC-E, EAN-8, EAN-13, UPC and EAN 2 or 5 digit extensions, Plessey, Postnet, Standard 2-of-5, Industrial 2-of-5, Interleaved 2-of-5
+Logmars
+MSI
+Planet Code
+Codabar"
+二維條碼Codablock, PDF417, Code 49, Data Matrix, MaxiCode, QR Code, TLC 39, MicroPDF, Aztec, RSS / GS1 DataBar family
+安規認證BSMI CCC C-Tick cUL EN55022 Class B EN55024 EN61000-3-2,3 FCC Class B GOST-R ICES-003 Class B IEC 60950-1 / EN60950 MIC NOM S Mark VCCI ZIK                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/148_68365508101049a0c0162870e17eb985_2.jpg
+NAME:工業型條碼機 TSC TTP-644M
+注意事項:TSC: 全系列條碼機皆為機器本體保固2年，印字頭保固1年或25公里先到為準。
+商品詳細介紹:機身結構係一體成型鋁合金鑄造而成TSC TTP-644M工業級條碼印表機，其列印速度高達每秒4英吋是同等級機種中最高速的條碼機碳帶容量最大長度可達600公尺。您正在尋找一部中階工業型機種嗎?&nbsp;TSC TTP-644M工業級條碼印表機絕對是您物超所值的選擇！最高可達每秒4英吋的列印速度結合TSC TTP-644M工業級條碼印表機 紮實穩固的機構設計，以更低的成本提供給您一部操作簡易、經濟耐用的工業型條碼列印機。人性化的高階印表機語言，除了讓您輕鬆撰寫程式，還提供檔案管理等多種功能。TSC TTP-644M工業級條碼印表機提供最佳的軟體相容環境，內建可以調整大小的向量字體，可模擬其他品牌條碼機之程式語言。隨機附贈世界級條碼標籤編輯軟體 BarTender UltraLite ，讓您的標籤製作更加得心應手。
+規格說明:等級工業型解析度600dpi記憶體32 MB SDRAM 8MB Flash ROM列印模式熱感式    熱轉式列印速度4ips列印寬度4 吋通訊介面Parallel, RS-232C, USB , PS/2 , Ethernet紙張感測器反射式/穿透式內建字型"八種點陣英數字型
+一套Monotype® CG Triumvirate Bold Condensed向量字型及True Type Font字型產生器可透過軟體下載Windows字型使用"
+指令集TSPL-EZTM體積尺寸270 毫米(長)*308 毫米(寬)*505 毫米(高)重量15公斤碳帶長度600M碳帶寬度2.54~11.4公分碳帶軸心1 吋紙張寬度2.54~11.8公分紙張厚度0.06~0.30毫米紙張軸心1 吋建議紙捲容量100M一維條碼Code 39, Code 93,Code 128UCC,Code 128 subsets A.B.C, Codabar, Interleave 2 of 5, EAN-8, EAN-13,EAN-128, UPC-A, UPC-E, EAN and UPC 2(5) digits add-on, MSI, PLESSEY, POSTNET, China POST
+二維條碼PDF-417, Maxicode, DataMatrix, QR Code
+安規認證FCC Class A, CE Class A, C-Tick Class A, UL, CUL, TUV/Safety, CCC, CB                           
+下載專區:軟體名稱適用機型下載TSC Bartender 9.4UL│TSC全系列│146.53MBTSC熱感條碼機TTP-2410M &  346M & 644M 機器型錄│TTP-2410M &  346M & 644M│0.92MBTSC Seaguall Driver v7.1.9(WinXP)│TSC 全系列條碼機│7.25MBTSC Seaguall Driver v7.3.1(Win7) │TSC 全系列條碼機 │7.96MBTSC Bartender 10.0UL│TSC全系列 │176.05MB
+URL:http://www.jumping.tw/upload/prd_pic1/63_c55791c763d6cb3fa9e13747e1d8cdac_2.jpg
+NAME:工業型條碼機 SATO GT-424e
+注意事項:
+
+SATO條碼機保固一年，印字頭(TPH)保固三個月或25先到為準。
+商品詳細介紹:SATO GT-424e工業級條碼機列印速度高達每秒
+12吋,為當前市面上最列印速度最快的機器，只要更換印字頭,即可提供 200dpi,300dpi,600dpi
+解析度的列印切換,GT4xx系列機型提供RFID寫印機型的型號. &nbsp;&nbsp;&nbsp;
+規格說明:等級工業型解析度600dpi記憶體列印模式熱感式    熱轉式列印速度2~6ips列印寬度4 吋通訊介面RS232C, LAN, USB, IEEE 1284 or High Speed RS232C, Mini LAN, Wireless LAN紙張感測器反射式/穿透式內建字型指令集體積尺寸271 毫米(長)*455 毫米(寬)*305 毫米(高)重量15公斤碳帶長度450M碳帶寬度11公分碳帶軸心1 吋紙張寬度0.06~0.26毫米紙張厚度紙張軸心3 吋建議紙捲容量100M一維條碼Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec二維條碼QR Code, PDF417, Veri Code, Maxi Code, Data Matrix, RSS-14安規認證                           
+下載專區:軟體名稱適用機型下載Sato Seaguall Driver│SATO 全系列條碼機│7.79MBSATO工業型條碼機GT Series 機器型錄│SATO工業型條碼機GT Series│1.96MBSATO Seaguall Driver 7.3.1 ( Win7)│SATO 全系列條碼機│8.04MB
+URL:http://www.jumping.tw/upload/prd_pic1/328_af80931f96917cf8357f6e0f7babd648_2.jpg
+NAME:寬幅工業條碼機 Argox G-6000 200dpi
+注意事項:Argox條碼機保固一年，印字頭(TPH)保固三個月
+商品詳細介紹:G-6000 為專門針對6英吋寬幅列印需求而設計的高性能工業型機種，操作簡單方便的LCD螢幕，可搭配專利ArgoKee外接式鍵盤，或電腦鍵盤，能即插即用、單機操作。絕佳耐用的金屬構造，G-6000即便在混亂的作業環境中使用，仍能提供高品質的列印效果。&nbsp;● 滿足高印量工業級的需求 ● 32位元中央處理器，LCD螢幕，以及6吋列印速度 ● 可調反射式與穿透式兩種紙張感測裝置，提升列印有效度，符合多樣化的紙材應用 ● 提供並列埠、串列埠兩種通訊介面 ● 可容納360米碳帶與8吋紙捲的工業級規格 ● 方便更換紙捲與碳帶安裝設計 ● 內碳帶與外碳帶兩種模式切換裝置 ● 裁紙器及剝紙器模組設計安裝更容易 ● 多種選購配件:裁紙器、剝紙器、紙捲架、記憶卡、字型卡、RTC卡、專利ArgoKee外接式鍵盤 ● 網路伺服器選購:乙太網路、無線網路或藍芽
+規格說明:等級解析度203dpi記憶體2MB DRAM/1MB Flash ROM 列印模式熱感式/熱轉式列印速度2~6 ips (最快每秒6吋)列印寬度16cm (裁紙模式: 15.2cm)通訊介面串列埠(RS232)/並列埠(LPT1)紙張感測器可調反射式/可調穿透式內建字型5種國際標準字形(1.25毫米~ 6毫米)，最大可達 24x24，四方向旋轉0° ~270°，可由軟體下載 Windows 字形 指令集PPLA體積尺寸310 毫米(寬) x 445 毫米(高) x 260 毫米(長)重量14.5公斤碳帶長度300M碳帶寬度15.3cm碳帶軸心1吋 (2.54cm)紙張寬度6.3吋(16公分)/裁紙模式6吋(15.2公分)紙張厚度0.0635mm~0.254mm紙張軸心3吋 (7.6cm)建議紙捲容量100M一維條碼PPLA: Code39, Code93, Code128/subset A, B and C, Codabar, Interleave 2 of 5, UPC A/E/2 and 5 add-on, EAN 13/8, UCC/EAN-128, UCC/EAN 128 random weight, Postnet, Plessey, HIBC, Telepen, FIM二維條碼PPLA: MaxiCode, PDF-417,
+Data Matrix(ECC 200 only)安規認證CE, FCC, UL, CUL, CCC                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/180_df30837378607e348536211814ba4539_2.jpg
+NAME:工業型條碼機 Zebra 140 Xi4 200dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra 140Xi4 工業級條碼機擁有最大5"的列印寬度及200DPI的列印解析度。Zebra 140Xi4 工業級條碼機特殊的紙張感測器設計，在5"的列印範圍內迅速準確的輸出無論是出貨麥頭甚至微小零件之標籤，通過UL/CSA安規認證的Zebra 140Xi4 工業級條碼機無論是因應電信業之TLC39或 FDA(美國食品暨藥物管理局)要求之RSS
+Code，它皆遊刃有餘。Zebra 140Xi4 工業級條碼機讓您在零售、醫療、電子、電信…..等精密工業皆可如虎添翼。新一代的Zebra 140Xi4 工業級條碼機
+，在性能及速度上都超越了前一代Zebra&nbsp; 140Xi3，記憶體也加大至8MB，大幅增加使用的彈性。堪稱是結合工藝與精緻的典範。
+規格說明:等級工業型解析度200 DPI記憶體16MB SRAM , 8MB Flash ,  64MB(選配)列印模式熱感式    熱轉式列印速度14ips列印寬度5吋通訊介面串行RS-232(DB9) Centronics 並行(36pins) USB V1.1 任選內置乙太網路接口(ZebraNet PrintServerII)紙張感測器反射式/穿透式內建字型(EPL桌面系列) 標準字體 : 5種點陣式、可擴展8倍、在Flash中儲存字體。 (ZPL桌面系列) 標準字體 : 16種點陣式、1種平滑縮放式 (CG Triumvirate粗體壓縮字) 支持用戶定義字體和圖形-包括用戶標誌 IBM第850頁國際字符
+指令集ZPL 和ZPLII體積尺寸287.3 毫米(長)*517.5 毫米(寬)*393.7 毫米(高)重量25公斤碳帶長度450M碳帶寬度2~8公分碳帶軸心3 紙張寬度20.3公分紙張厚度0.076~0.305毫米紙張軸心3 建議紙捲容量100M一維條碼Codabar, Code 11, Code 39, Code 93, Code 128 with subsets A/B/C and UCC Case C Codes, EAN-8, EAN-13, Industrial 2 of 5, Interleaved 2 of 5, ISBT-128, Logmars, MSI, Planet
+Code, Plessey, Postnet, Standard 2 of 5, UPC-A, UPC-E, UPC and EAN 2 or 5 digital extensions
+二維條碼Codablock, Code 49,Data Matrix, GS1 DataBar (RSS), MaxiCode, MicroPDF417, PDF417, QR Code, TLC 39安規認證                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/179_8a2505ad826a78956ebf9380fdc294d5_2.jpg
+NAME:工業型條碼機 Zebra 170Xi4 200dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:&nbsp;Zebra 170Xi4 工業級條碼印表機擁有最大6"的列印寬度及200DPI的列印解析度。Zebra 170Xi4 &nbsp;工業級條碼印表機特殊的紙張感測器設計，在6"的列印範圍內迅速準確的輸出無論是出貨麥頭甚至微小零件之標籤，通過UL/CSA安規認證的Zebra 170Xi4 因應電信業之TLC39或 FDA(美國食品暨藥物管理局)要求之RSS Code，它皆遊刃有餘。Zebra 170Xi4 &nbsp;工業級條碼印表機讓您在零售、醫療、電子、電信…..等精密工業皆可如虎添翼。新一代的Zebra 170XiIV 工業級條碼印表機，在性能及速度上都超越了前一代Zebra 170Xi3，記憶體也加大至8MB，大幅增加使用的彈性。Zebra 170Xi4 工業級條碼印表機堪稱是結合工藝與精緻的典範。
+規格說明:等級工業型解析度200dpi記憶體16MB DRAM、8MB FLASH 、64MB FLASH(選配)列印模式熱感式    熱轉式列印速度12ips列印寬度6 吋通訊介面Parallel, RS-232C, USB , Zebranet紙張感測器反射式/穿透式內建字型標準字體：7種點陣式、1種平滑縮放式 （CG Triumvirate™ 粗體壓縮字） 包含Agfa Monotype公司的UFST ® 字元集：IBM ®代碼第850頁國際字元集 圖形功能 支持用戶定義的字體與圖形—包括定製圖示
+指令集ZPL， ZPL II體積尺寸517.5 毫米(長)*338 毫米(寬)*394 毫米(高)重量30.5公斤碳帶長度450M碳帶寬度5.1~17公分碳帶軸心1 吋紙張寬度5.1~18公分紙張厚度0.076~0.305毫米紙張軸心3 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 93 Code 39 EAN-8 EAN-13 Industrial 2-of-5 Interleaved 2-of-5 Logmars MSI Planet Code Plessey Postnet Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-A UPC-E Code 128 with subsets A/B/C and UCC case codes ISBT-128
+二維條碼Codablock Code 49 Data Matrix MaxiCode PDF417 QR Code RSS / GS1 DataBar family (12 barcodes) TLC 39 MicroPDF Aztec
+安規認證BSMI CCC CE C-Tick cUL EN55022 Class B EN55024 EN6100-3-2,3 FCC Class B GOST-R ICES-003 Class B IEC 60950-1 / EN60950 NOM S Mark VCCI ZIK                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/175_09a9600fbc7b796e6b752d7d1ab98fb3_2.jpg
+NAME:工業寬幅型條碼機 Zebra ZM600 200dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra ZM600 200dpi工業級條碼機為受青睞的Z Series平台帶來了新的靈活性。Zebra ZM600 200dpi工業級條碼機在性能和價格方面更具有優勢6吋的列印寬度能應付更多樣性的列印工作，因而能在激烈市場競爭中脫穎而出。Zebra ZM600 200dpi工業級條碼機靠著其10英寸/秒的列印速度、業界領先的處理效率、極高的可靠性以及豐富的選配，即使在惡劣環境和苛刻的應用條件下，這些金屬材質的列印機依
+然能夠確保較高的列印速度。此外，Zebra ZM600 200dpi工業級條碼機更能廣泛地適用各種應用場合，提供提供RFID升級服務的選項，在使用條碼的同時也能與RFID接軌，結合高科技應用。Zebra ZM600 200dpi工業級條碼機支持XML的列
+印選項更方便與ERP應用。為了更滿足您的需求，Zebra ZM600 200dpi工業級條碼機還採用寬大易讀的顯示螢幕。耗材的裝入簡單便捷，在列印現場即可輕鬆、快速地更換印字頭和滾軸，方便設備的使用與維護。
+規格說明:等級工業型解析度200dpi記憶體16MB DRAM、8MB FLASH 、64MB FLASH(選配)列印模式熱感式    熱轉式列印速度10ips列印寬度6 吋通訊介面ZebraNet Wireless Plus ZebraNet 10/100 列印服務器 ZebraNet PrintServer II RS-232C 串行接口高速IEEE1284雙向 USB2.0紙張感測器反射式/穿透式內建字型7種各國字體、1種平華可縮放字體支持OpenType字體 多語言支持-符合Unicode標準，可直接進行快速的多語言熱感應式列印 包含Monotype Imaging Inc的UFST®
+指令集ZPL， ZPL II， EPL， XML體積尺寸475 毫米(長)*341 毫米(寬)*338 毫米(高)重量16公斤碳帶長度450M碳帶寬度5.1~11公分碳帶軸心1 吋紙張寬度11.4公分紙張厚度0.058~0.25毫米紙張軸心3 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 128 with subsets A/B/C and UCC case codes Code 39 Code 93 EAN-13 EAN-8 Industrial 2-of-5 Interleaved 2-of-5 Logmars MSI Planet Code Plessey Postnet RSS (reduced space symbology) Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-A UPC-E
+二維條碼Aztec Codablock Code 49 Data Matrix MaxiCode QR Code PDF417 MicroPDF417 RSS / GS1 DataBar family (12 barcodes)
+安規認證BSMI、IEC60950-1、EN55024                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/154_f92a232a622263f66e75bb16ecadc0cd_2.jpg
+NAME:工業寬幅型條碼機  TSC TTP-268M
+注意事項:
+
+TSC: 全系列條碼機皆為機器本體保固2年，印字頭保固1年或25公里先到為準。
+商品詳細介紹:TSC再度推出可列印6英吋寬標籤的全新工業機型－ TSC TTP-268M工業級條碼機，讓您對於寬幅標籤列印設備能有更多樣化的選擇，並徹底滿足您於各類不同的寬幅標籤之列印需求。
+
+繼承典型的TSC風格，TSC TTP-268M工業級條碼機的標準即配備完整功能，但價格卻是如此實惠。TTP-268M系列條碼機的標準配備包含大尺吋LCD顯示面板、串
+列埠、並列埠、內建乙太網路列印伺服器、USB 2.0、PS/2鍵盤連接介面；內建記憶體規格為32MB SDRAM、8MB
+FLASH，同時配備SD卡擴充槽，讓使用者能以最低成本將記憶體充至4GB。
+
+TSC TTP-268M工業級條碼機 最快列印速度於203DPI解析度可達每秒8英吋，如您需求較高解析度之標籤列印，可選擇300DPI解析度的TSC TTP-366M工業級條碼機機型， 其度可達每秒6英吋，幫助您快速完成各種高品質的列印工作。
+
+TSC TTP-268M工業級條碼機的應用範圍包含警告標籤、物流運輸、倉儲管理及各類規範性標籤，其6英吋的列印寬度可同時列印多排標籤，不需分次處理，或是需求轉向列印的標籤，在符合列印寬度的範圍內皆可作正向列印，大幅提升工作效率與列印品質，降低作業成本。
+TSC TTP-268M工業級條碼機均內建8MB FLASH和32 MB SDRAM及一組SD卡插槽，記憶體容量最高可擴充至4GB，同時可支援模擬其它品牌（Eltron® 與 Zebra®）條碼機之程式語言，提供最佳的軟體相容與字型儲存之環境與空間。
+規格說明:等級工業型解析度200dpi記憶體32 MB SDRAM (可選配擴充至4GB)  8 MB Flash ROM列印模式熱感式    熱轉式列印速度8ips列印寬度6 吋通訊介面RS-232C, Parallel, USB, PS/2,                                                                                                                                                                                                    內建式乙太網路伺服器紙張感測器反射式/穿透式內建字型八種點陣英數字型                                                                                                                                                                                                          1 套 Monotype® CG Triumvirate Bold Condensed 向量字型及 True Type Font 字型產生器可透過軟體下載 Windows 字型使用
+指令集TSPL-EZTM體積尺寸505 毫米(長)*355 毫米(寬)*338 毫米(高)重量23公斤碳帶長度450M碳帶寬度5.08~17.8公分碳帶軸心1 吋紙張寬度5.08~17.27公分紙張厚度0.06~0.254毫米紙張軸心3 吋建議紙捲容量100M一維條碼Code 39, Code 93, Code128UCC, Code 128 subsets A.B.C, Codabar,Interleave2 of 5, EAN-8, EAN-13, EAN-128, UPC-A, UPC-E, EAN and UPC 2(5) digitsadd-on, MSI, PLESSEY, POSTNET, China POST, GSI Data Bar, Code 11
+二維條碼PDF-417, Maxicode, DataMatrix, QR code, Aztec
+安規認證FCC Class A, CE Class A, CCC                           
+下載專區:軟體名稱適用機型下載TSC Bartender 9.4UL│TSC全系列│146.53MBTSC熱感條碼機TTP-268M & 366M 機器型錄│TTP-268M & 366M│1.16MBTSC Seaguall Driver v7.1.9(WinXP)│TSC 全系列條碼機│7.25MBTSC Seaguall Driver v7.3.1(Win7) │TSC 全系列條碼機 │7.96MBTSC Bartender 10.0UL│TSC全系列 │176.05MB
+URL:http://www.jumping.tw/upload/prd_pic1/60_5f88edf7e65b50f1e3fbf4dd0ccf30ab_2.jpg
+NAME:工業寬幅型條碼機 Godex EZ-6200 Plus
+注意事項:Godex: 機器本體保固1年，印字頭保固3個月或25公里先到為準
+商品詳細介紹:
+
+Godex&nbsp; 推出的新一代六吋寬幅條碼機 Godex
+EZ 6200 Plus 工業級條碼機,可列印更寬的標籤條碼方便應用於倉儲貨運抑或是各行業的標籤應用 . 再搭配上200 DPI的解析度 . 字體可列印更清晰分明 . 
+Godex EZ 6200 Plus 工業級條碼機搭配了網路技術 , 可連接網路線後成為獨立的網路印表機 , 各台電腦可輕鬆透過網際網路來列印標籤 , 增進公司的生產速度 . 在此推薦使用 Godex EZ 6200 Plus 工業級條碼機
+
+
+規格說明:等級工業型解析度200dpi記憶體16 MB SDRAM 4MB Flash ROM列印模式熱感式    熱轉式列印速度6ips列印寬度6 吋通訊介面Serial port: RS-232 (DB-9)/USB port: 預設為開啟/CF Card socket/內建Print Server的Ethernet網路連接埠(預設為關閉，須與USB埠擇一使用)紙張感測器反射式/穿透式內建字型Bitmap字體: 6, 8, 10, 12, 14, 18, 24, 30, 16X26 and OCR A & B
+Bitmap字體列印方向可旋轉角度為0°, 90°, 180°, 270°，字體可單獨旋轉角度為0°, 90°, 180°, 270°，並可水平或垂直放大8倍
+向量字體(scalable font)，可旋轉角度為0°, 90°, 180°, 270°指令集EZPL體積尺寸516 毫米(長)*345 毫米(寬)*285 毫米(高)重量16.7公斤碳帶長度450M碳帶寬度6~17.4公分碳帶軸心1 吋紙張寬度5.08~17.8公分(裁刀16.5公分)紙張厚度0.06~0.25毫米紙張軸心1.5 吋建議紙捲容量100M一維條碼1-D Bar codes:
+Code 39, Code 93, Code 128 (subset A, B, C), UCC/EAN-128 K-Mart, UCC/EAN-128, UPC A / E (add on 2 & 5), I 2 of
+5, I 2 of 5 with Shipping Bearer Bars, EAN 8 / 13 (add on 2 & 5), Codabar, Post NET, EAN 128, DUN 14, HIBC, MSI (1
+Mod 10), Random Weight, Telepen, FIM, China Postal Code, RPS 128 and GS1 DataBar二維條碼2-D Bar codes:
+PDF417, Datamatrix code, MaxiCode, QR code and Micro QR code安規認證                           
+下載專區:軟體名稱適用機型下載Godex Golabel│Godex全系列│29.97MBGodex Seaguall Driver v7.1.9(WinXP)│Godex 全系列條碼機│9.49MBGodex工業型條碼機EZ-6000Plus Series 機器型錄│Godex工業型條碼機EZ-6000Plus Series│2.09MBGodex Qlabel4 1.31│Godex 全系列機種│32.38MBGodex Seaguall Driver v7.3.1(Win7)│Godex 全系列條碼機 │12.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/184_4b69b752deb0f062cef586ef9509ec8e_2.jpg
+NAME:工業寬幅型條碼機 Zebra 220Xi4  200dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra 220Xi4 200dpi工業級條碼機擁有最大8"的列印寬度及200DPI的列印解析度。Zebra 220Xi4 &nbsp;200dpi工業級條碼機特殊的紙張感測器設計，在8"的列印範圍內迅速準確的輸出無論是出貨麥頭甚至微小零件之標籤，通過UL/CSA安規認證的Zebra
+110Xi4 無論是因應電信業之TLC39或 FDA(美國食品暨藥物管理局)要求之RSS
+Code，它皆遊刃有餘。Zebra 220Xi4 &nbsp;200dpi工業級條碼機讓您在零售、醫療、電子、電信…..等精密工業皆可如虎添翼。新一代的Zebra 220Xi4 &nbsp;200dpi工業級條碼機 條碼列印機
+，在性能及速度上都超越了前一代Zebra 220Xi3，記憶體也加大至8MB，大幅增加使用的彈性。Zebra 220Xi4 200dpi工業級條碼機堪稱是結合工藝與精緻的典範。
+規格說明:等級工業型解析度200dpi記憶體16MB SDRAM、12MB SDRAM(選配)、4MB FLASH、2MB FLASH(選配)列印模式熱感式 熱轉式列印速度10 ips列印寬度8 吋通訊介面USB 2.0, RS-232C/422/485（可选适配器）, 高速双向 IEEE 1284 並行接口ZebraNet 無線伺服器, ZebraNet 10/100 列印伺服器, IBM Twinax 接口, IBM Coax 接口, 貼標機界面IPV6 列印伺服器紙張感測器反射式/穿透式內建字型標準字體：7種點陣式、1種平滑縮放式（CG Triumvirate™ 粗體壓縮字）包含Agfa Monotype公司的UFST ® 字元集：IBM ®代碼第850頁國際字元集圖形功能支持用戶定義的字體與圖形—包括定製圖示 指令集ZPL， ZPL II體積尺寸 495 毫米(長)*397.5 毫米(寬)*393.7 毫米(高)重量32.7 kg碳帶長度450M碳帶寬度10.8~22 公分碳帶軸心1 吋紙張寬度10.8~22 公分紙張厚度0.076 ~ 0.305 mm紙張軸心1 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 39 Code 93 EAN-13 EAN-8 Interleaved 2-of-5 Industrial 2-of-5 Logmars MSI Planet Code Plessey Postnet Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-E UPC-A Code 128 with subsets A/B/C and UCC case codes ISBT-128二維條碼Codablock Code 49 Data Matrix MaxiCode PDF417 QR Code RSS / GS1 DataBar family (12 barcodes) TLC 39 MicroPDF Aztec 安規認證CCC CE C-Tick cUL EN55022 Class B EN55024 EN61000-3-2,3 FCC Class B GOST-R ICES-003 Class B IEC 60950-1 / EN60950 NOM S Mark VCCI ZIK                            
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/155_70ed1799e651d6d3612a64d604763afb_2.jpg
+NAME:工業寬幅型條碼機 TSC TTP-366M
+注意事項:
+
+TSC: 全系列條碼機皆為機器本體保固1年，印字頭保固半年或25公里先到為準。
+商品詳細介紹:TSC再度推出可列印6英吋寬標籤的全新工業機型－TSC TTP-366M工業級條碼機，讓您對於寬幅標籤列印設備能有更多樣化的選擇，並徹底滿足您於各類不同的寬幅標籤之列印需求。
+
+規格說明:等級工業型解析度300dpi記憶體32 MB SDRAM (可選配擴充至4GB) 8MB Flash ROM 列印模式熱感式    熱轉式列印速度6ips列印寬度6 吋通訊介面RS-232C, Parallel, USB, PS/2,                                                                                                                                                                                                    內建式乙太網路伺服器紙張感測器反射式/穿透式內建字型八種點陣英數字型                                                                                                                                                                                                          1 套 Monotype® CG Triumvirate Bold Condensed 向量字型及 True Type Font 字型產生器可透過軟體下載 Windows 字型使用
+指令集TSPL-EZTM體積尺寸505 毫米(長)*355 毫米(寬)*338 毫米(高)重量23公斤碳帶長度450M碳帶寬度5.08~17.8公分碳帶軸心1 吋紙張寬度5.08~17.27公分紙張厚度0.06~0.254毫米紙張軸心3 吋建議紙捲容量100M一維條碼Code 39, Code 93, Code128UCC, Code 128 subsets A.B.C, Codabar,Interleave2 of 5, EAN-8, EAN-13, EAN-128, UPC-A, UPC-E, EAN and UPC 2(5) digitsadd-on, MSI, PLESSEY, POSTNET, China POST, GSI Data Bar, Code 11
+二維條碼PDF-417, Maxicode, DataMatrix, QR code, Aztec
+安規認證FCC Class A, CE Class A, CCC                           
+下載專區:軟體名稱適用機型下載TSC Bartender 9.4UL│TSC全系列│146.53MBTSC熱感條碼機TTP-268M & 366M 機器型錄│TTP-268M & 366M│1.16MBTSC Seaguall Driver v7.1.9(WinXP)│TSC 全系列條碼機│7.25MBTSC Seaguall Driver v7.3.1(Win7) │TSC 全系列條碼機 │7.96MBTSC Bartender 10.0UL│TSC全系列 │176.05MB
+URL:http://www.jumping.tw/upload/prd_pic1/61_1341948c6b5d1f6820ec72e2b8e3b85e_2.jpg
+NAME:工業寬幅型條碼機 Godex EZ-6300 Plus
+注意事項:Godex: 機器本體保固1年，印字頭保固3個月或25公里先到為準
+商品詳細介紹:
+
+Godex&nbsp; 推出的新一代六吋寬幅條碼機 - Godex EZ 6300 Plus 工業級條碼機可列印更寬的標籤條碼方便應用於倉儲貨運抑或是各行業的標籤應用。再搭配上300 DPI的解析度 ，
+字體可列印更清晰分明也可於標籤內置放更多的圖文以供使用&nbsp;。 
+
+
+
+規格說明:等級工業型解析度300dpi記憶體16 MB SDRAM 4MB Flash列印模式熱感式    熱轉式列印速度4ips列印寬度6 吋通訊介面Serial port: RS-232 (DB-9)/USB port: 預設為開啟/CF Card socket/內建Print Server的Ethernet網路連接埠(預設為關閉，須與USB埠擇一使用)紙張感測器反射式/穿透式內建字型Bitmap字體: 6, 8, 10, 12, 14, 18, 24, 30, 16X26 and OCR A & B
+Bitmap字體列印方向可旋轉角度為0°, 90°, 180°, 270°，字體可單獨旋轉角度為0°, 90°, 180°, 270°，並可水平或垂直放大8倍
+向量字體(scalable font)，可旋轉角度為0°, 90°, 180°, 270°指令集EZPL體積尺寸516 毫米(長)*345 毫米(寬)*285 毫米(高)重量16.7公斤碳帶長度450M碳帶寬度6~17.4公分碳帶軸心1 吋紙張寬度5.08~17.8公分(裁刀16.5公分)紙張厚度0.06~0.25毫米紙張軸心1.5 吋建議紙捲容量100M一維條碼1-D Bar codes:
+Code 39, Code 93, Code 128 (subset A, B, C), UCC/EAN-128 K-Mart, UCC/EAN-128, UPC A / E (add on 2 & 5), I 2 of
+5, I 2 of 5 with Shipping Bearer Bars, EAN 8 / 13 (add on 2 & 5), Codabar, Post NET, EAN 128, DUN 14, HIBC, MSI (1
+Mod 10), Random Weight, Telepen, FIM, China Postal Code, RPS 128 and GS1 DataBar二維條碼PPLA: PDF-417, MaxiCode, Data Matrix
+(ECC200 only)
+PPLB: PDF-417, MaxiCode安規認證                           
+下載專區:軟體名稱適用機型下載Godex Golabel│Godex全系列│29.97MBGodex Seaguall Driver v7.1.9(WinXP)│Godex 全系列條碼機│9.49MBGodex工業型條碼機EZ-6000Plus Series 機器型錄│Godex工業型條碼機EZ-6000Plus Series│2.09MBGodex Qlabel4 1.31│Godex 全系列機種│32.38MBGodex Seaguall Driver v7.3.1(Win7)│Godex 全系列條碼機 │12.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/64_7f6ac449fbce08fdd6b9255826509451_2.jpg
+NAME:工業寬幅型條碼機 SATO CL-612e
+注意事項:
+
+
+
+SATO條碼機保固一年，印字頭(TPH)保固三個月或25先到為準。
+商品詳細介紹:SATO CL-612e工業級條碼機, 是最耐用的經典款型條碼機,提供6吋寬200dpi/300dpi 解析度的列印品質,Ext
+控制埠能連接條碼列印應用檢測器,自動貼控制,CL6xx系列,提供UHF/HF RFID模組選購配件的安裝與寫印.最穩定的機型。&nbsp;&nbsp;
+規格說明:等級工業型解析度300dpi記憶體18 MB 4MB Flash ROM(選購) 16MB PCMCIA記憶卡(選購)列印模式熱感式    熱轉式列印速度8ips列印寬度6 吋通訊介面標準介面 :¡Serial - RS232 (最快可達 57.6K bps)Parallel - IEEE1284 印表機 ( ECP模式 )Universal Serial Bus - USB/選購式介面模組:Ethernet - 10/100BaseT (含WPCPlus )Wireless 802.11b 及 Twinax / Coax紙張感測器反射式/穿透式內建字型文字可按比例縮放至12 倍,列印標準/中空字型 (Code table 850)機器內建 CG Triumvirate® 及 CG Times® 字型亦可使用外載之 TrueType® 字型 , 級數一般為8 至72 級指令集體積尺寸429 毫米(長)*352 毫米(寬)*298 毫米(高)重量19公斤碳帶長度300M碳帶寬度11公分碳帶軸心1 吋紙張寬度5~17.8公分紙張厚度0.25 mm紙張軸心3 吋建議紙捲容量100M一維條碼UPC-A, UPC-E, EAN-8, EAN-13,Code 39 , Code 93 , Code 128 , Codabar,MSI, Bookland, Industrial 2/5, Interleaved2/5, Matrix 2/5 , Postnet , UCC/EAN 128二維條碼PDF417 , Micro PDF417 ,Truncated PDF417, Maxicode, Data Matrix,QR Code安規認證                           
+下載專區:軟體名稱適用機型下載Sato Seaguall Driver│SATO 全系列條碼機│7.79MBSATO工業型條碼機CL6 Series 機器型錄│SATO工業型條碼機CL6 Series│0.61MBSATO Seaguall Driver 7.3.1 ( Win7)│SATO 全系列條碼機│8.04MB
+URL:http://www.jumping.tw/upload/prd_pic1/185_de3d4d9f53351e881dab0ef1a71018a0_2.jpg
+NAME:工業寬幅型條碼機 Zebra 220Xi4  300dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:Zebra 220Xi4 300dpi工業級條碼機擁有最大8"的列印寬度及300DPI的列印解析度。Zebra 220Xi4 &nbsp;300dpi工業級條碼機特殊的紙張感測器設計，在8"的列印範圍內迅速準確的輸出無論是出貨麥頭甚至微小零件之標籤，通過UL/CSA安規認證的Zebra
+110Xi4 無論是因應電信業之TLC39或 FDA(美國食品暨藥物管理局)要求之RSS
+Code，它皆遊刃有餘。Zebra 220Xi4 300dpi工業級條碼機讓您在零售、醫療、電子、電信…..等精密工業皆可如虎添翼。新一代的Zebra 220Xi4 300dpi工業級條碼機
+，在性能及速度上都超越了前一代Zebra 220Xi3，記憶體也加大至8MB，大幅增加使用的彈性。Zebra 220Xi4 300dpi工業級條碼機堪稱是結合工藝與精緻的典範。
+規格說明:等級工業型解析度200dpi記憶體16MB SDRAM、12MB SDRAM(選配)、4MB FLASH、2MB FLASH(選配)列印模式熱感式 熱轉式列印速度6ips列印寬度8 吋通訊介面USB 2.0, RS-232C/422/485（可选适配器）, 高速双向 IEEE 1284 並行接口ZebraNet 無線伺服器, ZebraNet 10/100 列印伺服器, IBM Twinax 接口, IBM Coax 接口, 貼標機界面IPV6 列印伺服器紙張感測器反射式/穿透式內建字型標準字體：7種點陣式、1種平滑縮放式（CG Triumvirate™ 粗體壓縮字）包含Agfa Monotype公司的UFST ® 字元集：IBM ®代碼第850頁國際字元集圖形功能支持用戶定義的字體與圖形—包括定製圖示 指令集ZPL， ZPL II體積尺寸495 毫米(長)*397.5 毫米(寬)*393.7 毫米(高)重量32.7 kg碳帶長度450M碳帶寬度10.8~22 公分碳帶軸心1 吋紙張寬度10.8~22 公分紙張厚度0.076 ~ 0.305 mm紙張軸心1 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 39 Code 93 EAN-13 EAN-8 Interleaved 2-of-5 Industrial 2-of-5 Logmars MSI Planet Code Plessey Postnet Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-E UPC-A Code 128 with subsets A/B/C and UCC case codes ISBT-128二維條碼Codablock Code 49 Data Matrix MaxiCode PDF417 QR Code RSS / GS1 DataBar family (12 barcodes) TLC 39 MicroPDF Aztec 安規認證CCC CE C-Tick cUL EN55022 Class B EN55024 EN61000-3-2,3 FCC Class B GOST-R ICES-003 Class B IEC 60950-1 / EN60950 NOM S Mark VCCI ZIK                            
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/151_1c89d9837ed1b6172e8a159f4920cf4e_2.jpg
+NAME:工業寬幅型條碼機  TSC TTP-384M
+注意事項:
+
+TSC: 全系列條碼機皆為機器本體保固1年，印字頭保固半年或25公里先到為準。
+商品詳細介紹:&nbsp;TSC TTP-384M工業級條碼機是TSC針對許多特殊市場需求大尺寸標籤、寬幅標示列印所開發的多功能工業等級條碼機，可使用的紙張寬度最大可達9.5英吋，於300 dpi高解析度下列印寬度可達8.64英吋，最高列印速度可達每秒4英吋。
+
+規格說明:等級工業型解析度300dpi記憶體32 MB (可選配擴充至4GB)  8MB Flash ROM列印模式熱感式    熱轉式列印速度2~4ips列印寬度8 吋通訊介面RS-232C, Parallel, USB, PS/2,                                                                                                                                                                                                    內建式乙太網路伺服器紙張感測器反射式/穿透式內建字型八種點陣英數字型                                                                                                                                                                                                      一套Monotype® CG Triumvirate Bold Condensed向量字型及True Type Font字型產生器可透過軟體下載Windows字型使用
+指令集TSPL-EZTM體積尺寸504 毫米(長)*440 毫米(寬)*336 毫米(高)重量23.2公斤碳帶長度600M碳帶寬度11~25.4公分碳帶軸心1 吋紙張寬度10.16~24.13公分紙張厚度0.06~0.025毫米紙張軸心3 吋建議紙捲容量127M一維條碼Code 39, Code 93, Code 128UCC, Code 128 subsets A, B, C, Codabar, Interleave2 of 5, EAN-8, EAN-13, EAN-128, UPC-A, UPC-E, EAN and UPC 2(5) digitsadd-on, MSI, PLESSEY, POSTNET, China Post, RSS-Stacked, RSS14, Code 11
+二維條碼PDF-417, Maxicode, DataMatrix, QR code, Aztec
+安規認證FCC Class A, CE Class A, UL, CUL, TUV/Safety                           
+下載專區:軟體名稱適用機型下載TSC Bartender 9.4UL│TSC全系列│146.53MBTSC熱感條碼機TTP-384M 機器型錄│TTP-384M│2.09MBTSC Seaguall Driver v7.1.9(WinXP)│TSC 全系列條碼機│7.25MBTSC Seaguall Driver v7.3.1(Win7) │TSC 全系列條碼機 │7.96MB
+URL:http://www.jumping.tw/upload/prd_pic1/178_f4a5decd8434f0c55b19d7ab7d27d6a5_2.jpg
+NAME:工業寬幅型條碼機 Zebra ZM600 300dpi
+注意事項:Zebra條碼機保固一年，印字頭(TPH)保固六個月
+商品詳細介紹:&nbsp;Zebra ZM600 300DPI工業級條碼機為受青睞的Z Series平台帶來了新的靈活性。Zebra ZM600 300DPI工業級條碼機在性能和價格方面更具有優勢6吋的列印寬度能應付更多樣性的列印工作，因而能在激烈市場競爭中脫穎而出。&nbsp;Zebra ZM600 300DPI工業級條碼機靠著其8英寸/秒的列印速度、業界領先的處理效率、極高的可靠性以及豐富的選配，即使在惡劣環境和苛刻的應用條件下，這些金屬材質的列印機依然能夠確保較高的列印速度。此外， Zebra ZM600 300DPI工業級條碼機列印機更能廣泛地適用各種應用場合，提供提供RFID升級服務的選項，在使用條碼的同時也能與RFID接軌，結合高科技應用。支持XML的列印選項更方便與ERP應用。為了更滿足您的需求，Zebra ZM600 300DPI工業級條碼機還採用寬大易讀的顯示螢幕。&nbsp;Zebra ZM600 300DPI工業級條碼機耗材的裝入簡單便捷，在列印現場即可輕鬆、快速地更換印字頭和滾軸，方便設備的使用與維護。
+規格說明:等級工業型解析度300dpi記憶體16MB DRAM、8MB FLASH 、64MB FLASH(選配)列印模式熱感式    熱轉式列印速度8ips列印寬度6 吋通訊介面ZebraNet Wireless Plus ZebraNet 10/100 列印服務器 ZebraNet PrintServer II RS-232C 串行接口高速IEEE1284雙向 USB2.0紙張感測器反射式/穿透式內建字型7種各國字體、1種平華可縮放字體支持OpenType字體 多語言支持-符合Unicode標準，可直接進行快速的多語言熱感應式列印 包含Monotype Imaging Inc的UFST®
+指令集ZPL， ZPL II， EPL， XML體積尺寸475 毫米(長)*341 毫米(寬)*338 毫米(高)重量16公斤碳帶長度450M碳帶寬度5.1~11公分碳帶軸心1 吋紙張寬度11.4公分紙張厚度0.058~0.25毫米紙張軸心3 吋建議紙捲容量100M一維條碼Codabar Code 11 Code 128 with subsets A/B/C and UCC case codes Code 39 Code 93 EAN-13 EAN-8 Industrial 2-of-5 Interleaved 2-of-5 Logmars MSI Planet Code Plessey Postnet RSS (reduced space symbology) Standard 2-of-5 UPC and EAN 2 or 5 digit extensions UPC-A UPC-E
+二維條碼Aztec Codablock Code 49 Data Matrix MaxiCode QR Code PDF417 MicroPDF417 RSS / GS1 DataBar family (12 barcodes)
+安規認證BSMI、IEC60950-1、EN55024                           
+下載專區:軟體名稱適用機型下載Zebra Printer Driver │Zebra 全系列條碼機│2.7MBZebra Designer│Zebra 全系列條碼機│9.42MBZebra Seagull Driver v7.1.9 (WinXP)│Zebra 全系列條碼機│14.05MBZebra Seagull Driver v7.3.1 (Win7) │Zebra 全系列條碼機 │18.56MB
+URL:http://www.jumping.tw/upload/prd_pic1/341_acdc97b75ff141664fc39fd66928b750_2.jpg
+NAME:一維光罩式高速掃描器 AR-3000
+注意事項:線材不保固
+商品詳細介紹:一維高速掃描器 AR-3000 是今年 Argox 的最新力作。
+規格說明:有無線USB 線類型光罩式解碼速度300 次/秒解析度3 mil解碼種類一維條碼條碼種類Code 39, Full ASCII Code 39, Code 32, Code 128, Code 93,Code 11, Codabar/NW7, All UPC/EAN/JAN code (EAN-13,EAN-8, UPC-A, UPC-E, EAN-128), Interleave 2 of 5, Industrial 2of 5, matrix 2 of 5, Chinese Postage Code, IATA, MSI/PLESSYItalian Pharmacy Code, Telepen.RSS-14, RSS Limited, RSS Expanded                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/125_55f48b09fc1653f1073afa5394c128f2_2.jpg
+NAME:一維光罩式掃描器JS-200
+注意事項:保固一年
+商品詳細介紹:JS-200接觸式一維條碼掃描器，堅固耐用且符合人體工學，方便操作且設計輕巧。
+
+JS-200接觸式一維條碼掃描器讀取窗口80mm，精確快速的高解碼性能，掃描速率達每秒10次。
+
+JS-200接觸式一維條碼掃描器支援多種常用一維條碼與三合一介面快速換線設計。
+
+JS-200接觸式一維條碼掃描器以平實的價格與優良的品質絕對可滿足零售業收銀系統、商業辦公室及醫療院所等產業需求。
+規格說明:有無線有線類型光罩式解碼速度200 次/秒解析度4 mil解碼種類一維條碼條碼種類 Code 39, Full ASCII Code 39, Code 32, Code 128, Code 93,Code 11, Codabar/NW7, All UPC/EAN/JAN code (EAN-13,EAN-8, UPC-A, UPC-E, EAN-128), Interleave 2 of 5, Industrial 2of 5, matrix 2 of 5, Chinese Postage Code, IATA, MSI/PLESSYItalian Pharmacy Code, Telepen.RSS-14, RSS Limited, RSS Expanded                           
+下載專區:軟體名稱適用機型下載JP 掃描器 JP-200 機器型錄│JP-200│0.05MB
+URL:http://www.jumping.tw/upload/prd_pic1/71_f159bfeff498c4b90488e8adad61dbed_2.jpg
+NAME:光罩式條碼掃描器 ARGOX AS-8310
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8310一維條碼掃描器為長距離條碼掃描器。AS-8310一維條碼掃描器提供快速、準確、具成本效益的長距掃描器方案。其堅固的機體設計，適用於惡劣的工作環境。AS-8310一維條碼掃描器具有業界同等級產品中最快的掃瞄速度(可達到每秒450次)，加上優越的掃描景深(可達業界最長距離60公分以上)，可提供媲美雷射掃瞄器的掃描效果。高性價比以及高耐用度的表現，完全符合工業環境的使用需求。AS-8310一維條碼掃描器若搭配取代手持的座匣，則非常適合零售業的應用。AS-8310一維條碼掃描器具備出色的性能與品質，可滿足多樣化的應用需求。
+規格說明:有無線有線類型光罩式解碼速度450 次/秒解析度4mil解碼種類一維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSS                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8310 & AS-8312 機器型錄│ AS-8310 & AS-8312 │0MB
+URL:http://www.jumping.tw/upload/prd_pic1/70_276d1d1a43e9ee8df200cc0b937b4689_2.jpg
+NAME:光罩式條碼掃描器 ARGOX AS-8250
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8250為中長距離一維條碼掃描器，AS-8250一維條碼掃描器具有媲美雷射掃瞄器的性能及更經濟的價格。
+
+AS-8250為中長距離一維條碼掃描器採行高強度的瞄準射線，使AS-8250一維條碼掃描器有效掃描距離提高為25公分。
+
+AS-8250為中長距離一維條碼掃描器藉由Argox的專利“Digi-Decode”，使條碼影像的擷取速度，提升為每秒200次的掃瞄，並且在任何光線環境下，皆可有效讀取，隨取隨讀，AS-8250一維條碼掃描器具備相當的便利性是一款特別適合零售業及相關產業使用的條碼掃描器。
+
+
+AS-8250一維條碼掃描器可支援PDF
+codes, Micro-PDF codes,Code 16K，與所有標準的一維編碼系統。使用方式除傳統手持操作外，並可選購合適的腳架，置於固定位置，啟動自動掃瞄功能，滿足自動化操作的需求。
+規格說明:有無線有線類型光罩式解碼速度200 次/秒解析度4mil解碼種類一維條碼/堆疊式二維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSSPDF-417, Micro-PDF417, Code 16K                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8150 & AS-8250 機器型錄│ AS-8150 & AS-8250 │1.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/69_cf3b4e02fa9de9f6c6f925425d81f296_2.jpg
+NAME:光罩式條碼掃描器 ARGOX AS-8150
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8150為中長距離一維條碼掃描器，AS-8150一維條碼掃描器具有媲美雷射掃瞄器的性能及更經濟的價格。AS-8150為中長距離一維條碼掃描器採行高強度的瞄準射線，使AS-8150一維條碼掃描器有效掃描距離提高為25公分。AS-8150為中長距離一維條碼掃描器藉由Argox的專利“Digi-Decode”，使條碼影像的擷取速度，提升為每秒200次的掃瞄，並且在任何光線環境下，皆可有效讀取，隨取隨讀，AS-8150一維條碼掃描器具備相當的便利性是一款特別適合零售業及相關產業使用的條碼掃描器。
+規格說明:有無線有線類型光罩式解碼速度200 次/秒解析度4mil解碼種類一維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSS                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8150 & AS-8250 機器型錄│ AS-8150 & AS-8250 │1.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/68_08973438b7971072d79fe27f18a9792a_2.jpg
+NAME:光罩式條碼掃描器 ARGOX AS-8120
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8120一維條碼掃描器是ARGOX新推出的一款中距離紅光掃一維條碼掃描器，不僅可以在長達15公分距離內準確識讀各種一維條碼，更可以貼近式的讀取。
+
+AS-8120一維條碼掃描器相當輕巧堅固耐用，AS-8120一維條碼掃描器具自動掃描專利當其CCD偵測到物品時，將啟動自動掃瞄、搭配置放架使用，可使工作更有效率。
+
+AS-8120一維條碼掃描器掃瞄前以紅光對準掃瞄的物體，有助於對準條碼，使工作更加便利不需額外的訓練，隨取隨讀，具備相當的便利性，AS-8120一維條碼掃描器絕對是零售通路應用上最佳的助手。
+規格說明:有無線有線類型光罩式解碼速度100 次/秒解析度4mil解碼種類一維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSS                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8000 & AS-8120 機器型錄│AS-8000 & AS-8120│0.76MB
+URL:http://www.jumping.tw/upload/prd_pic1/67_0387cc3d6624db5094b62769a97130d8_2.jpg
+NAME:光罩式條碼掃描器 ARGOX AS-8000
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8000一維條碼掃描器擁有輕巧、易握的手柄設計，AS-8000一維條碼掃描器流線的造型非常符合人體工學設計。AS-8000一維條碼掃描器掃描距離可達15公分，可讀取任何一種一維編碼系統。即插即用，不需暖機。AS-8000一維條碼掃描器具自動掃描專利當其CCD偵測到物品時，將啟動自動掃瞄、搭配置放架使用，可使工作更有效率。AS-8000一維條碼掃描器掃瞄前以紅光對準掃瞄的物體，有助於對準條碼，使工作更加便利不需額外的訓練，隨取隨讀，具備相當的便利性是一款特別適合零售業及相關產業使用的條碼掃描器。
+規格說明:有無線有線類型光罩式解碼速度100 次/秒解析度4mil解碼種類一維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSS                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8000 & AS-8120 機器型錄│AS-8000 & AS-8120│0.76MB
+URL:http://www.jumping.tw/upload/prd_pic1/289_829249f8ac96c8614054e3bf2cd5ef42_2.jpg
+NAME:無線條碼掃描器 DC-2000
+注意事項:一年保固
+商品詳細介紹:*32位MCU*讀取距離從10到400mm*掃描速度每秒270次*輕工作環境*支持GS1的DataBar*32 bit&nbsp; MCU*Reading&nbsp; distance&nbsp; from&nbsp; 10&nbsp; to&nbsp; 400mm*Scan&nbsp; rate&nbsp; 270&nbsp; scans&nbsp; per&nbsp; second*For&nbsp; light&nbsp; industrial&nbsp; environment*Support&nbsp; GS1&nbsp; DataBar&nbsp; 
+規格說明:有無線有線類型光罩式解碼速度270  次 / 秒解析度3 mil解碼種類一維條碼條碼種類UPC / UPC-E，EAN，Codabar，Code 39，Code 32，Code 93，Code 11，Code 128，Interleaved 2 of 5，Industrial 2 of 5，Matrix，MSI / Plessey，Telepen，GS1 DataBar                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/126_a5a792c3c2a6d9f12bdeca90a45b40af_2.jpg
+NAME:雷射式條碼掃描器 MS-300
+注意事項:
+商品詳細介紹:MS-300一維雷射條碼掃描器掃描速度可達每秒48次，把手小巧，手感舒適，特別適合女性操作員。
+
+MS-300一維雷射條碼掃描器提供了所有從結帳櫃臺到倉庫的運作效率所需的功能、特性和可靠性， 寬廣的掃描角度，快速的掃描速度，MS-300一維雷射條碼掃描器將會是使用者的最佳選擇。
+規格說明:有無線有線類型雷射式解碼速度110次/秒解析度5mil(PCS=90%)解碼種類一維條碼條碼種類    Code 39, Full ASCII Code 39, Code 32, Code 128, Code 93,Code 11, Codabar/NW7, All UPC/EAN/JAN code (EAN-13,EAN-8, UPC-A, UPC-E, EAN-128), Interleave 2 of 5, Industrial 2of 5, matrix 2 of 5, Chinese Postage Code, IATA, MSI/PLESSYItalian Pharmacy Code, Telepen.RSS-14, RSS Limited, RSS Expanded                           
+下載專區:軟體名稱適用機型下載MS 掃描器 MS-300 機器型錄│MS-300│2.85MB
+URL:http://www.jumping.tw/upload/prd_pic1/100_aae1b85a23e09bdd707686a1e0c6b346_2.jpg
+NAME:雷射式條碼掃描器  MS-7120
+注意事項:
+商品詳細介紹:Honeywell公司的Honeywell Ms7120 Orbit 全向多線式雷射條碼掃描器掃描性能卓越,外形設計優雅美觀,價格經濟實惠,是專賣店零售商追求高性價比的理想之選。自上市以來,Honeywell Ms7120 Orbit 全向多線式雷射條碼掃描器就成為市場上的熱賣品, 獨特的外形設計讓人一見傾心。小巧的底座解決了便利店櫃檯空間有限的難題。Honeywell Ms7120 Orbit 全向多線式雷射條碼掃描器體積緊湊輕巧,堅固耐用,配備20條掃描線專利技術,方便尋找最佳掃描點,掃描速度達到每秒1120次。Honeywell Ms7120 Orbit 全向多線式雷射條碼掃描器可以通過Honeywell的免費設置軟件MetroSe®2進行系統升級,當P0s系統或軟件發生變化時可以保護投資者長期利益.曾榮獲多頂優秀設計大獎,Honeywell Ms7120 Orbit 全向多線式雷射條碼掃描器精巧的外形也適於手持操作,方便掃描大件與笨重物品.為增加靈活性,它的頭部可做上下30度的旋轉以易於掃描不同尺寸和形狀的物體.作為產品的標準特徵, Honeywell Ms7120 Orbit 全向多線式雷射條碼掃描器使用可替換式連接線和MetroSelect®手冊以及MetroSet®2軟件進行簡易設置或數據編輯,和市場上的OPOS/JPOS系統兼容。
+規格說明:有無線有線類型多維雷射解碼速度1200 次/秒解析度5.2 mil解碼種類一維條碼條碼種類Code 39，Code 93，Code 128，UPC/EAN/JAN，Code 2 of 5，Code 11 ，Codabar， MSI Plessey，GS1 DataBar，Telepen，Trioptic                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS7120 機器型錄│MS7120│0.26MB
+URL:http://www.jumping.tw/upload/prd_pic1/99_4f6eadac5d2324c55ecb74e25db1053c_2.jpg
+NAME:雷射式條碼掃描器 HONEYWELL MS-5145
+注意事項:
+商品詳細介紹:Honeywell公司的Honeywell
+MS5145Ec|ipse 一維雷射掃描器是一款價格低廉、可取代CCD產品的雷射條碼掃描器。它設計緊湊,特徵豐富,使用簡便,能滿足大多數場合日常掃描的需求.
+
+Honeywell
+MS5145Ec|ipse 一維雷射掃描器是一種手持式雷射掃描器。配備了CodeGate®和CodeSense®的專利技術Honeywell MS5145Ec|ipse 一維雷射掃描器可廣泛地應用於系列場合。 CodeSense®的雷射閃爍模式是用戶能準確對準待掃條碼,用戶在輕鬆按下CodeGate按鈕後,數據便可以在頃刻之間完成傳輸。這樣的技術組合使 Eclipse成為菜單式掃描、商業零售、文件處理和庫存控制等應用場合的最佳選擇。
+
+由於採用了Honeywell公司最先進的掃描技術,與傳統的CCD掃描器相比,Honeywell
+MS5145Ec|ipse 一維雷射掃描器的掃描景深更長,掃描區域更寬.掃描器距離條碼越遠,掃描線的寬度越寬。
+
+Honeywell
+MS5145Ec|ipse 一維雷射掃描器與使用紅外目標感應器的掃描器不同, Ms5145的Code-Sense將它的雷射正常工作狀態便設置在脈衝閃爍式。當掃描器對準條碼時,雷射線會自動切換到長亮模式以方便用戶掃描,既簡化 了操作,又提高了效率.此外雷射閃爍模式由於縮短了雷射頭的連續工作時間,因此掃描器的工作時間更長,可靠性更高。
+規格說明:有無線有線類型雷射式解碼速度72±2 次/秒解析度5 mil解碼種類一維條碼條碼種類Code 39，Code 93，Code 128，UPC/EAN/JAN，Code 2 of 5，Code 11 ，Codabar， MSI Plessey，GS1 DataBar，Telepen，Trioptic                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS5145 機器型錄│MS5145│0.27MB
+URL:http://www.jumping.tw/upload/prd_pic1/75_850a2120f8b659d0d9716fe23cdb5e80_2.jpg
+NAME:雷射式條碼掃描器 CHAMPTEK LG-163
+注意事項:Champtek掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:CHAMPTEK LG-163一維雷射條碼掃描器，可以解碼所有一維條碼。
+
+CHAMPTEK LG-163一維雷射條碼掃描器掃描速度可達每秒48次，把手小巧，手感舒適，特別適合女性操作員，可搭配專屬支架配合使用。
+
+CHAMPTEK LG-163一維雷射條碼掃描器提供了所有從結帳櫃臺到倉庫的運作效率所需的功能、特性和可靠性，
+寬廣的掃描角度，快速的掃描速度，快速鬆開的電纜設計，加入了獨特的軟件配置和ISP功能，使得CHAMPTEK LG-163一維雷射條碼掃描器將會是使用者的最佳選擇。
+規格說明:有無線有線類型雷射式解碼速度100 次/秒解析度4mil解碼種類一維條碼條碼種類UPC/EAN/JAN, Code 39, Full Beige /Black ASCII, Code 128, Inteleave 25, Industrial 25, Matrix 25, CODABAR/NW7, Code 11, MSI/PLESSEY, Code 93, China Postage, Code 32 / Italian Pharmacy , EAN128                           
+下載專區:軟體名稱適用機型下載Champtek掃描器 LG163 機器型錄│LG163│6.44MB
+URL:http://www.jumping.tw/upload/prd_pic1/89_71b9ef5e607bb3a2d7714d57e70daebb_2.jpg
+NAME:雷射式條碼掃描器 CIPHERLAB 1502
+注意事項:
+商品詳細介紹:CipherLab 1502雷射條碼掃瞄器非常適合零售業應用。
+
+CipherLab 1502雷射條碼掃瞄器可以快速準確的讀取距離較遠的條碼，讓使用者在工作上更得心應手。
+
+CipherLab 1502雷射條碼掃瞄器尺寸小重量輕。
+
+CipherLab 1502雷射條碼掃瞄器通過1.2公尺防摔落測試，符合人體工學的設計足以讓使用者簡單舒適的全天候使用。
+規格說明:有無線有線類型雷射解碼速度100次/秒解析度4mil解碼種類一維條碼條碼種類Codabar, Code 39, Code 128, Code 93, Italian and French Pharmacodes, Industrial 2 of 5, Interleave 2 of 5, Matrix 2 of 5, MSI, Plessey, GS1 DataBar (RSS), Telepen, UPC/EAN/GS1-128, and more                           
+下載專區:軟體名稱適用機型下載Cipherlab 掃描器 1500 & 1502 & 1504 機器型錄│ 1500 & 1502 & 1504│0.78MB
+URL:http://www.jumping.tw/upload/prd_pic1/88_aa13d8cc3c4ab556e12a82ec4c903dc4_2.jpg
+NAME:一維雷射式掃描器 CIPHERLAB 1200
+注意事項:
+商品詳細介紹:CipherLab 1200雷射條碼掃瞄器非常適合零售業應用，CipherLab 1200雷射條碼掃瞄器可以快速準確的讀取遠至64公分的條碼，讓使用者在工作上更得心應手。CipherLab 1200雷射條碼掃瞄器尺寸小重量輕，CipherLab 1200雷射條碼掃瞄器通過1.2公尺防摔落測試，符合人體工學的設計足以讓使用者簡單舒適的全天候使用。
+規格說明:有無線有線類型雷射式解碼速度35 ± 5 次掃描 / 秒解析度4 mil解碼種類一維條碼條碼種類Codabar，Code 39，Code 93，Code 128，Industrial 2 of 5，Interleave2 of 5，Matrix 2 of 5，MSI，Pharmacodes，Plessey，RSS14，Telepen，UPC/EAN and More                           
+下載專區:軟體名稱適用機型下載Cipherlab 掃描器 1070&1000&1090+&1100&1200 機器型錄│1070&1000&1090+&1100&1200│0.64MB
+URL:http://www.jumping.tw/upload/prd_pic1/106_8424a381fb6e71152b75fa3ed24422f8_2.jpg
+NAME:雷射式條碼掃描器 HONEYWELL MS-9540
+注意事項:
+商品詳細介紹:Honeywell公司的一維雷射掃描器Honeywell MS9540一維雷射掃描器能夠快速精確掃描所有標準一維條碼。作為一款高性能手持掃描器, Honeywell MS9540一維雷射掃描器以出色的性能和優越的的性價比成為行業內的標竿產品。Honeywell MS9540一維雷射掃描器的外觀優美,特徵豐富,具有IR紅外自感應專利技術,識讀所有標準一維條碼,包括Gs1 Databar® (即Rss碼制) 。Honeywell MS9540一維雷射掃描器還具備CodeGate專利技術,用戶只需對準條碼輕輕按下按鈕,數據即刻傳輸到主機系統.當Honeywell MS9540一維雷射掃描器被放在支座中, CodeGate就自動失效,這是VoyagerCG也可以作為一款全自動的固定式掃描器使用。Honeywell一維雷射掃描器系列還有高密度型號MS9541 VoyagerHD可選,可以快速精確識讀低至3mil"的一維條碼。
+規格說明:有無線有線類型雷射解碼速度72次/秒解析度5mil解碼種類一維條碼條碼種類Code 39，Code 93，Code 128，UPC/EAN/JAN，Code 2 of 5，Code 11 ，Codabar， MSI Plessey，GS1 DataBar，Telepen，Trioptic PDF: PDF417，MicroPDF417(MS-9544 only)                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS9540 機器型錄│MS9540 │0.38MB
+URL:http://www.jumping.tw/upload/prd_pic1/107_9ac42e24b56495ea5a003bdccbfb1fef_2.jpg
+NAME:雷射式條碼掃描器 HONEYWELL MS-9590
+注意事項:
+商品詳細介紹:Honeywell公司的MS9590 VoyagerGS手持式一維雷射條碼掃描器是一款性能優越的手持式一維雷射條碼掃描器,為所有標準一維條碼的掃描提供了一種功能強大的解決方案.作為Honeywell最受歡迎的Voyager家族系列的最新成員, Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器採用扳機式觸發模式,設計新穎,手感舒適,最大限度減輕客戶使用時的疲勞感。 Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器適用於零售、辦公自動化和醫療保健等一系列行業。可選EAS電子防盜系統配置可以讓 Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器在掃描條碼的同時解除電子防盜標籤,省時又省力,由於VoyagerGS具備IR紅外雷射自感應專利技術和比一般Voyager系列產品更長的景深,因此它的掃描速度更快,掃描更精確, VoyagerGS同樣具備CodeGate®專利技術,當雷射對準條碼時只需輕輕一按,數據傳輸即刻完成.使用免費贈送的MetroSelect®單線設置手冊或MetroSet2®軟件 Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器可以透過Rs232和UsB連接埠輕鬆實現系統設置.&nbsp; Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器也可以將條碼數據格式化以滿足不同主機系統的特殊要求.Honeywell同時為 Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器設計了具有自動探測功能的支座以實現固定式掃描。 Honeywell MS9590 VoyagerGS手持式一維雷射條碼掃描器同時有高密度版本Ms9591可選,可以識讀低至4mil的一維條碼。
+規格說明:有無線有線類型雷射解碼速度100次/秒解析度5mil解碼種類一維條碼條碼種類Code 39，Code 93，Code 128，UPC/EAN/JAN，Code 2 of 5，Code 11 ，Codabar， MSI Plessey，GS1 DataBar，Telepen，Trioptic                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS9590 機器型錄│MS9590│0.21MB
+URL:http://www.jumping.tw/upload/prd_pic1/98_f97c5fba18c58f6bc2da401e99a8ffd4_2.jpg
+NAME:光罩式條碼掃描器 I-1608 GHD
+注意事項:&nbsp;
+商品詳細介紹:BONGO I-1608GHD高解析影像式一維條碼掃瞄器採用先進影像擷取及光學技術，解析度更高達3mil(code 39,PCS0.9)讀取條碼萬無一失，ISO9002品質認證合格廠商產製，獲多項設計獎賞。
+規格說明:有無線有線類型光罩式解碼速度500 次/秒解析度3 mil解碼種類一維條碼/堆疊式二維條碼條碼種類Code 39, Code 39 Full ASCII, Code 32, Code 39 Trioptic Code 128, UCC/EAN-128, Codabar, Code 11, Code 93 Standard & Industrial 2 of 5, Interleaved & Matrix 2 of 5 German Postal Code, China Postal Code, IATA UPC/EAN/JAN, UPC/EAN/JAN with Addendum Telepen, MSI/Plessey & UK/Plessey GS1 DataBar (formly RSS) Linear, Linear-stackedPDF417, Micro PDF417, Codablock, Composite                           
+下載專區:軟體名稱適用機型下載HTZ 掃描器 I-1608 機器型錄│I-1608 HD GHD│0.75MB
+URL:http://www.jumping.tw/upload/prd_pic1/72_17b870f8693f6482a66fb1cd642b57c0_2.jpg
+NAME:光罩式條碼掃描器 ARGOX AS-8312
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8312一維條碼掃描器為長距離條碼掃描器，AS-8312一維條碼掃描器提供快速、準確、具成本效益的長距掃描器方案。其堅固的機體設計，適用於惡劣的工作環境。
+
+AS-8312一維條碼掃描器具有業界同等級產品中最快的掃瞄速度(可達到每秒450次)，加上優越的掃描景深(可達業界最長距離60公分以上)，可提供媲美雷射掃瞄器的掃描效果。高性價比以及高耐用度的表現，完全符合工業環境的使用需求。
+
+AS-8312一維條碼掃描器若搭配取代手持的座匣，則非常適合零售業的應用。除了涵蓋全部種類的一維條碼讀取，AS-8312也支援堆疊式二維條碼的掃瞄，包括PDF-417, Code 16K與Micro-PDF417。
+
+AS-8312一維條碼掃描器具備出色的性能與品質，可滿足多樣化的應用需求。
+規格說明:有無線有線類型光罩式解碼速度450 次/秒解析度4mil解碼種類一維條碼/堆疊式二維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSSPDF-417, Micro-PDF417, Code 16K                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8310 & AS-8312 機器型錄│ AS-8310 & AS-8312 │0MB
+URL:http://www.jumping.tw/upload/prd_pic1/324_98120283668bdadafea89e908597b334_2.jpg
+NAME:二維影像式掃描器 Argox-9500
+注意事項:掃描器保固一年 ; 線材不保固
+商品詳細介紹:AS-9500是立象科技首度針對2D條碼應用所推出的新型掃瞄器，可辯讀市場上所有標準二維條碼格式，亦具備所有一維條碼的讀取功能。AS-9500具備綠光指引功能，讓使用者掃描條碼時更精確，流明度更高達100,000 Lux，支援戶外、或強光環境下的操作使用，掃描距離部份則視讀取的條碼種類而有不同的性能表現。
+規格說明:有無線有線類型二維影像式掃描器解碼速度--解析度8mil解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/137_d3d0873db747de3832e0e405a946eb6f_2.jpg
+NAME:二維影像式掃描器 Honeywell  1900GHD
+注意事項:
+商品詳細介紹:Honeywell Xemon 1900GHD二維影像掃描器採用霍尼韋爾第六代二維影像技術製成，開創了手持式掃描器的新標準。
+
+Honeywell Xemon 1900GHD二維影像掃描器配備專為條形碼掃描而優化的定製傳感器，具備行業領先的性能和可靠性，可廣泛用於需要實現二維影像技術靈活多樣功能的場合。
+
+Honeywell Xemon 1900GHD二維影像掃描器採用創新的AdaptusR&nbsp;6.0影像技術，Honeywell Xemon 1900GHD二維影像掃描器具備出眾的條形碼掃描和數字圖像捕獲功能。
+
+Honeywell Xemon 1900GHD二維影像掃描器採用革命性的解碼架構，集Adaptus5.5影像技術和Omniplanar的SwiftDecoder™軟件以及定製傳感器等設計於一身，確保即使對於打印質量較差的條碼也具有延長的景深、快速的識讀和增強的性能。
+
+Honeywell Xemon 1900GHD二維影像掃描器幾乎可以輕鬆解讀所有條碼，包括高密度的線性條碼以及手機二維碼。
+
+全新的緊湊型設計將內部關鍵部件都集中安裝在一個母板上，不再需要使用連接器，因此部件越少，設計越可靠，最大限度地減少了故障時間並提高了維修的方便性，從而提高生產率。小巧的外形設計適用於任何手型，握感舒適，消除操作人員的疲勞感。
+
+處於耐用性的考慮，Honeywell Xemon 1900GHD二維影像掃描器可以承受從1.8米高的地方到混凝土地面的50次反覆跌落。IP41工業等級也為產品提供額外的保護。結實的構造和5年質保確保Honeywell Xemon 1900GHD二維影像掃描器可以實現多年無間斷操作的卓越性能。
+規格說明:有無線有線類型影像式解碼速度--解析度2D 838*640 pixel解碼種類一維條碼/二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 1900 機器型錄│1900│1.45MBHoneyWell 掃描器 1902 機器型錄│1902│0.35MB
+URL:http://www.jumping.tw/upload/prd_pic1/102_e45af7969125dcd376cf5bc42e8a4e11_2.jpg
+NAME:二維影像式掃描器 HONEYWELL MS-7580
+注意事項:
+商品詳細介紹:Honeywell公司的Honeywell MS7580固定影像式二維條碼掃描器是世界上第一款能夠解讀所有一維、 PDF和二維條碼的固定式影像掃描器。它集強大的掃描性能、先進的影像掃描技術、優美的外形設計和牢固的機體構造於一身,堪稱自動識別領域條形碼掃描器產品的巔峰之作。Honeywell MS7580固定影像式二維條碼掃描器的誕生注定要顛覆自動識別行業對影像式掃描器的傳統定義.頗具突破性的掃描性能和靈活的外觀設計使Honeywell MS7580固定影像式二維條碼掃描器適用於製造、醫療、零售等一系列廣泛的應用場合.配備CodeGate®專利技術和触發式按鈕, Honeywell MS7580固定影像式二維條碼掃描器也適用於菜單式掃描和其它目標鎖定式掃描。同樣具有多種連接埠一體化設計, Honeywell MS7580固定影像式二維條碼掃描器仍然不同於其它競爭對手產品,它具有4個獨立的記憶功能庫,分別儲存串口、盤口、 USB和46xx Rs485四種不同的連接埠設置。這使得不同連接埠間的轉換變得異常快速簡單,無需掃描任何設置條碼,機器會自動探測接口電纜並轉換到相應連接埠設置。此外, Honeywell MS7580固定影像式二維條碼掃描器還配備另外3種專利技術並具有以下優點:First Flash紅光拍照掃描技術,隱藏式LED照明設計將刺眼的閃光程度降至最低,有效提高操作舒適度並優於競爭對手。&nbsp;CodeSelect®條碼選讀功能最多可以一次性讀取7個條碼並按照所需順序排列輸出。&nbsp;TotalFreedomTM軟件二次開發功能使加載客戶化軟體模組成為可能,Honeywell MS7580固定影像式二維條碼掃描器本身即可以崁入而無需在主機端實現。
+規格說明:有無線有線類型影像式解碼速度--解析度4 mil解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS7580 機器型錄│MS7580│0.12MB
+URL:http://www.jumping.tw/upload/prd_pic1/79_46d0f7d627ae6621fcf43c9b7ce3596f_2.jpg
+NAME:二維影像式掃描器 CHAMPTEK IG-300
+注意事項:Champtek掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:CHAMPTEK IG300二維條碼掃描器，強大的圖像感測器使掃描與解碼更加快速精確，CHAMPTEK IG300二維條碼掃描器支援識別大多數一維與二維條碼。
+
+CHAMPTEK IG300二維條碼掃描器最大讀取距離為 430 mm ，一維模式解碼速度為每秒 200 次，二維模式解碼速度為每秒 56 影像。
+
+CHAMPTEK IG300二維條碼掃描器適用於零售業、餐飲業、運輸業、倉儲業、運輸業等各種產業應用，優異電子與結構設計，任何環境皆容易操作。
+
+CHAMPTEK IG300二維條碼掃描器支援
+RS232 / USB介面，使用者可依需求更換線材，CHAMPTEK IG300二維條碼掃描器為用戶最有效最經濟的解決方案。
+規格說明:有無線有線類型影像式解碼速度200次/秒(線性)解析度5mil解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載Champtek掃描器 IG-300 機器型錄│IG-300 │1.57MB
+URL:http://www.jumping.tw/upload/prd_pic1/90_992d271aa7e3a4e48610681cffdf3436_2.jpg
+NAME:二維影像式掃描器 CIPHERLAB 1704
+注意事項:
+商品詳細介紹:CipherLab 1704工業型二維條碼掃描器堅固耐用的設計，讓您低成本的投資，就可以得到長期使用的價值。
+
+符合IP54工業級規格並且通過1.8公尺的重複落摔測試，在各種嚴苛的環境都能持續正常使用。透過CipherLab
+1704工業型二維條碼掃描器，您可以輕易的進行進階驗證。
+
+CipherLab 1704工業型二維條碼掃描器的130萬畫素、高解析的讀頭，可以擷取簽名來進行更高層級的授權，或是將例如受損的出貨書面化的確認，另可選配能擷取A4文件的功能。
+
+堅固耐用的CipherLab 1704工業型二維條碼掃描器，可擷取二維條碼和小至3Mil的一維條碼，CipherLab 1704工業型二維條碼掃描器的高解析度讀頭非常適合用於小尺寸、高密度或是印刷不良的條碼，既使對於刮傷或受損的條碼也能讀取。
+規格說明:有無線有線類型影像式解碼速度30次/秒解析度3mil 1D   6.67mil 2D解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載Cipherlab 掃描器 1704 機器型錄│1704│0.37MB
+URL:http://www.jumping.tw/upload/prd_pic1/112_870c2260744975bd9e677b0f236640eb_2.jpg
+NAME:HONEYWELL MS-1690
+注意事項:
+商品詳細介紹:Honeywell公司的全新升級過的Honeywell
+MS1690Focus二維影像式掃描器採用高分辨率的圖像掃描系統,支持窗口處近距離掃描,是所有一維、二維、打印質量差或者破損條碼等識讀場合的理想選擇,掃描高效且價格具有競爭力.
+
+Honeywell
+MS1690Focus二維影像式掃描器是一款高性能的手持式圖像掃描器.它的全向掃描模式能從各個角度掃描當前市場上所有標準碼製的條碼,包括所有的一維條碼、 GS1 DATABAR、 PDF417、 mícroPDF、
+EAN/UCC複合碼、 MatriX和各國郵政碼°
+
+多 年來,Honeywell一直致力於工業固定式圖像掃描系統的設計和生產,產品己被世界領先的包裹快遞公司、分揀中心和郵政服務機構所使用。現在,這些核
+心技術在光學系統設計專長又在Honeywell MS1690Focus二維影像式掃描器上得以體現,使它成為一款當今市場上能夠承受高強度應用的手持式二維圖像掃描器,特徵 豐富而又使用簡單,外形時尚而又持久耐用。
+
+Honeywell
+MS1690Focus二維影像式掃描器可以運用在一系列應用場合中,包括商業零售、醫療、物流收發貨和供應鏈管理。它的紅光瞄準線可以像激光掃描器一樣瞄準並識讀一維條碼,即使在菜單式掃描等應用場合也可以準確無誤地發揮出色性能.
+
+升級後的Honeywell MS1690Focus二維影像式掃描器還具有高密度版本MS1691可選, MS1691可以準確并快速地識讀低至3.5mil的一維條碼和5mil的二維條碼。
+規格說明:有無線有線類型影像式解碼速度--解析度5.2 mil解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS1690 機器型錄│MS1690│0.22MB
+URL:http://www.jumping.tw/upload/prd_pic1/103_315ea77edfc39f2d7dc2a598e582e774_2.jpg
+NAME:二維影像式掃描器 HONEYWELL MS-1890
+注意事項:
+商品詳細介紹:Metrologic公司的MS-1890影像式二維條碼掃描器是一款經久耐用的掌上型工業級圖像條碼掃描器。
+
+獨有的FirstFlash專利技術使得它在即使是最嚴酷的重工業環境
+下也具有無與倫比的掃描性能。MS-1890影像式二維條碼掃描器具有市面上其他同類型的產品所不具備一系列的豐富特徵，因而可以最大化生產力。
+
+符合IP54工業防水防塵等級並具有高達2米的高度抗摔性能，MS-1890影像式二維條碼掃描器能輕鬆應對生產車間、運輸、物流以及零售業倉庫等一般應用場合下的條碼掃描任務，更能肩負起粉塵嚴重的倉庫、潮濕悶熱的儲藏室、風雨
+交加的碼頭以及冰冷嚴寒的物流中心等惡劣環境下的條碼掃描重任。
+規格說明:有無線有線類型影像式解碼速度--解析度4 mil解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 MS1890 機器型錄│MS1890│0.78MB
+URL:http://www.jumping.tw/upload/prd_pic1/113_87cdfd8a071864f650fe8bee94f62dda_2.jpg
+NAME:二維影像式掃描器 HONEYWELL 4206
+注意事項:
+商品詳細介紹:Honeywell的Honeywell 4206影像式二維條碼掃描器完美地將區域影像的多功能性和無線操作便利與速度結合在一起,適合零售和商業用途。採用了Adaptus影像技術,是您值得信賴的快速、經濟的解決方案產品。在當今和未來的製造業、零售業和商業等領域,將不僅僅只有一維條碼的存在。食品店中開始出現EAN-UCC複合碼,身份證件上採用了PDF417碼,供應鏈中則通過Data Matrix碼追蹤零件。Honeywell 4206影像式二維條碼掃描器的全向讀取能力可準確、快速的讀取所有這些條碼種類。使用時只要簡單地按下開關,不需要像其他掃描器一樣調整位置或移動裝置.無論是拍攝簽名作為送達憑證、拍照識別還是電子數據存儲,圖像捕捉功能都是當前和未來最重要的解決方案之一。採用Adaptus影像技術5.0的Honeywell 4206影像式二維條碼掃描器擁有Honeywell第五代影像頭,為您帶來業界最佳畫質和最快圖像傳送速度,而且價格非常經濟.圖像捕捉正在成為當前的一種主流應用需求.信賴Honeywell,我們將為您提供行業中最優秀的影像解決方案。由於沒有任何可移動部件, Honeywell 4206影像式二維條碼掃描器的耐用性和它的多功能性一樣出色。Honeywell的產一向以高質量與高可靠性而著稱, Honeywell 4206影像式二維條碼掃描器也不例外,它能以低成本為您提供多年的可靠服務。
+規格說明:有無線有線類型影像式解碼速度--解析度8.3 mil解碼種類一維條碼/堆疊式二維條碼/矩陣式二維條碼條碼種類Codabar、Code 11、Code 39、Code 93、Code 128、Discrete 2 of 5、 Interleaved 2 of 5、MSI、RSS、UPC/EAN128 Autodiscriminates all standard 1D, GS1 DataBarTM, PDF417, microPDF, MaxiCode, Data Matrix, QR Code, UCC, EAN Composites, Postals, Aztec                           
+下載專區:軟體名稱適用機型下載HoneyWell 掃描器 4206 機器型錄│4206│0.1MB
+URL:http://www.jumping.tw/upload/prd_pic1/74_dbd409d98bdd90d10439b2117eddbc35_2.jpg
+NAME:無線條碼掃描器 ARGOX AS-8520
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8520長距離一維藍芽無線條碼掃描器具有業界同等級產品最快的掃描速度( 4 5 0 次/ 秒) ，&nbsp;以及卓越的掃描距離(40mil的條碼可以在達110公分遠的距離外成功讀取)，AS-8520一維藍芽無線條碼掃描器提供高標準的掃描表現。
+
+AS-8520一維藍芽無線條碼掃瞄器可以無線方式進行資料傳輸，通訊範圍達100公尺距離，有效發揮Argox特有的無線傳輸技術。
+
+AS-8520一維藍芽無線條碼掃描器高持久性的鋰電池以及IP42等級的防塵防水設計，
+AS-8520一維藍芽無線條碼掃描器讓條碼掃描具備相當自由的移動性，
+在各種不同產業應用展現卓越性能。
+規格說明:有無線無線類型無線光罩式解碼速度450 次/秒解析度4 mil解碼種類一維條碼/堆疊式二維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSS,PDF-417, Micro-PDF417, Code 16K                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8020CL & AS-8520 機器型錄│AS-8020CL & AS-8520│1.85MB
+URL:http://www.jumping.tw/upload/prd_pic1/73_d14f39b693ad9c7275a9e65855ffd508_2.jpg
+NAME:無線條碼掃描器 ARGOX AS-8020CL
+注意事項:Argox掃描器保固一年，線材不在保固範圍。
+商品詳細介紹:AS-8020CL一維藍芽無線條碼掃瞄器是暢銷產品AS-8000一維條碼掃描器的無線進階版本。AS-8020CL一維藍芽無線條碼掃瞄器擁有較AS-8000一維條碼掃描器更高的掃描速度，更佳景深及可信賴度。AS-8020CL一維藍芽無線條碼掃瞄器具有無線傳輸能力，能帶給條碼讀取上更便利、更具行動性的操作。AS-8020CL一維藍芽無線條碼掃瞄器對於零售業的應用是相當理想的一個機種。它流線型的外觀，設計輕巧且方便操作。可以識讀所有一般性的條碼種類，不論是接觸式或是27公分掃描距離內的讀取， AS-8020CL一維藍芽無線條碼掃瞄器都有相當卓越的表現，絕對是一款無可匹敵的高性價比產品。
+規格說明:有無線無線類型無線光罩式解碼速度300次/秒解析度4mil解碼種類一維條碼/堆疊式二維條碼條碼種類UPC-A, UPC-E, EAN-13, EAN-8, Code-39, Interleaved 2 of 5, Code-128, Code-93, Code-11, MSI/Plessy, UK/Plessy, Standard 2 of 5, RSS,PDF-417, Micro-PDF417, Code 16K                           
+下載專區:軟體名稱適用機型下載Argox 掃描器 AS-8020CL & AS-8520 機器型錄│AS-8020CL & AS-8520│1.85MB
+URL:http://www.jumping.tw/upload/prd_pic1/323_bb17b5c3e71f146aa490cb22e719c799_2.jpg
+NAME:無線條碼掃描器 DL-6000ZB
+注意事項:
+商品詳細介紹:•2.4 GHz ZIGBEE無線技術(IEEE 802.15.4)距離可達100M
+•掃瞄速度達到270 scans/sec. 讀取距離可達20cm
+•充飽電可連續讀取60,000 次以上,適合長期使用場所
+•安裝簡易,即插即用, USB直接充電,不需要另外充電座介      面：USB ComPort emulation / HID USB傳輸方式：Zigbee IEEE 802.15.4
+工作範圍：100M
+光學感應器：Laser
+發  光  源：Laser diode (650nm)
+解  析  度：3 mil
+讀取距離：10mm ~ 200mm (13mil)
+掃瞄速度：100 scans / second
+PCS(黑白對比)：=&gt; 45%
+輸入電壓：+ 5V ± 5%
+操作電流：&lt; 220mA
+Standby電流：&lt; 200 mA
+操作溫度：0℃ to 40℃ ( 32℉ to 104℉)
+儲存溫度：-20℃ to 60℃ / -4℉ to 140℉
+濕      度：10% ~ 90%
+掉落測試：1.5m drops
+重      量：195 g
+尺      寸：160mm (L) x 68mm (W) x 88mm (H)
+外觀材質：ABS plastic
+電池型式：Lithium-ion
+2200mAh, 充滿電可觸發讀取 50,000
+充電方式：USB傳輸線直接充電
+充電時間：約4小時
+規格說明:有無線無線類型雷射式解碼速度100  scans / second解析度3 mil解碼種類一維條碼條碼種類UPC/UPC-E, EAN, Codabar, Code39, Code32, Code93, Code11, Code128,Interleaved 2 of 5, Industrial 2 of 5, Matrix 2 of 5, MSI/Plessey,Telepen, GS1 DataBar                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/322_803a25af5bed931b4b24da63f1ffd9d9_2.jpg
+NAME:無線條碼掃描器 KC-3200ZB
+注意事項:
+商品詳細介紹:3Mil 超高解析度，可信任的雙向傳輸，確保資料安全。2.4GHz ZIGBEE無線技術(IEEE 802.15.4)距離可達100M，掃瞄速度達到270 scans/sec.讀取距離可達20cm，充飽電可連續讀取65,000次以上，適合長期使用場所。安裝簡易、即插即用，USB直接充電，不需要另外充電座。市面上無線產品使用前仍需軟體配對才能使用，KC-3200ZB提供即插即用，而且提供USB鍵盤模擬介面(HID USB)。工作範圍：100M
+光學感應器：2500pixels
+發光源：Red LED(660nm)
+解析度：3mil
+讀取距離：30mm~200mm(13mil)
+掃瞄速度：270scans/second
+PCS(黑白對比)：=&gt;45%
+輸入電壓：+5V±5%
+操作電流：&lt;110mA
+Standby電流：&lt;90mA
+操作溫度：0℃ to 40℃ (32℉ to104℉)
+儲存溫度：-20℃ to 60℃ / -4℉ to 140℉
+濕度：10%~90%
+掉落測試：1.5m drops
+重量：140g
+尺寸：190mm(L) x 60mm(W) x 54mm (H)
+外觀材質：ABS plastic
+電池型式：Lithium-ion 1620mAh，充滿電可觸發讀取65,000 次
+充電方式：USB傳輸線直接充電
+充電時間：約4小時
+規格說明:有無線無線類型雷射式解碼速度270  scans / second解析度3 mil解碼種類一維條碼條碼種類UPC / UPC-E，EAN，Codabar，Code 39，Code 32，Code 93，Code 11，Code 128，Interleaved 2 of 5，Industrial 2 of 5，Matrix，MSI / Plessey，Telepen，GS1 DataBar                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/207_27d6a7fa744e69cb30a23268d7a94bdc_2.jpg
+NAME:無線條碼掃描器 HoneyWell 1902
+注意事項:&nbsp; 
+商品詳細介紹:
+
+
+
+Honeywell Xenon 1902是霍尼韋爾公司領先的第六代二維影像掃描器，採用專為條碼掃描而製感測器。
+
+Xenon 1902在二維影像技術應用中均有行業領先的性能與可靠性表現，具備藍牙無線連接功能。
+
+Adaptus 6.0影像處理技術使得 Xenon 1902 系列在條碼掃描和數位影像捕捉方面具有一流的性能。
+
+集成Adaptus 5.5 影像處理技術革命性創新解碼機制、並配備特製感測器，Xenon 1902掃描破損條碼的能力方面顯著增強。
+
+規格說明:有無線無線類型二維無線條碼掃描器解碼速度610次/秒解析度解碼種類1D 2D 條碼條碼種類1D 2D 條碼                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/81_7a729f3192b06702e8c7fdad9d0701f5_2.jpg
+NAME:無線條碼掃描器 CIPHERLAB 1660
+注意事項:
+商品詳細介紹:可連接 平板電腦 (Android/IOS 系統皆適用) 的無線條碼掃描器。CipherLab 1660BT攜帶式無線藍芽條碼掃瞄器讓生產力就在您的口袋中，CipherLab 1660BT攜帶式無線藍芽條碼掃瞄器體積小、重量輕，CipherLab
+1660BT攜帶式無線藍芽條碼掃瞄器攜帶容易並且隨處可用。
+
+BT通訊可連接至PDA或移動計算機。如此可在掃描時即時更新訊息，讓CipherLab 1660BT攜帶式無線藍芽條碼掃瞄器成為低成本、高機動性數據擷取解決方案的理想選擇。
+
+藉由便利的尺寸及條碼掃描快速的能力，CipherLab
+1660BT攜帶式無線藍芽條碼掃瞄器用途獨一無二地廣泛，讓您可在更多地方完成更多工作。&nbsp;
+規格說明:有無線無線類型無線光罩式解碼速度100 次/秒解析度3 mil解碼種類一維條碼條碼種類Codabar, Code 39 , Code 93, Code128 , ISBT-128 , GS1 DataBar (RSS) , Industrial 2 of 5 , Italian and French Pharmacodes , Interleave 2 of 5 , Matrix 2 of 5 , MSI, Plessey , Telepen , UPC/EAN/GS1-128, and more                           
+下載專區:軟體名稱適用機型下載Cipherlab 掃描器 1660 機器型錄│1660│0.34MB
+URL:http://www.jumping.tw/upload/prd_pic1/91_036fac18285d6b80b34a6b75ef2f2cae_2.jpg
+NAME:無線條碼掃描器 CIPHERLAB 1166
+注意事項:
+商品詳細介紹:CipherLab 1166 BT無線條碼掃描器與傳輸座的傳輸範圍是可視距離90公尺，如果應用時超出傳輸範圍，或需要外出工作時，CipherLab 1166 BT無線條碼掃描器的緩存可儲存約256次掃描，並在您回到通訊範圍內自動上傳。或者，預先使用批次模式，可儲存8192筆條碼數據至Flash內在上傳至電腦 ，CipherLab 1166 BT無線條碼掃描器一次充電可工作長達45小時或32,000 次掃描。
+CipherLab 1166 BT無線條碼掃描器傳輸座可連接7 支CipherLab 1166 BT無線條碼掃描器，並提供電池充電、或連結您的資料伺服器。此時CipherLab 1166 BT無線條碼掃描器將讓使用者不受任何通訊範圍的限制。
+規格說明:有無線無線類型影像式解碼速度100次/秒解析度4mil解碼種類一維條碼條碼種類Codabar, Code39,Code93,Code128,GS1 Databar,Industrial 2 of 5 , interleave 2 of 5 , ISBT-128 , Italian and French Pharmacodes, Matrix 2 of 5 , MSI, Plessey , Telepen , UPC-A,UPC-E,EAN-8,EAN-13,GS1-128                           
+下載專區:軟體名稱適用機型下載Cipherlab 掃描器 1166 & 1266 機器型錄│1166 & 1266 │0.42MB
+URL:http://www.jumping.tw/upload/prd_pic1/80_a0c0ae0abcb9a46468ecfb9098473106_2.jpg
+NAME:無線條碼掃描器 CINO F680BT
+注意事項:
+商品詳細介紹:F680BT無線藍芽條碼掃描器，採用全新研發最新一代條碼影像掃描，解碼演算法處理器，讀取條碼效能快速，內建藍芽 Bluetooth HID Keyboard Profile，能模擬鍵盤裝置，搭配F680BT無線藍芽條碼掃描器基座兼充電座，能支援多點藍芽條碼掃描器輸入，最多可連接七支 F680BT無線藍芽條碼掃描器。
+
+F680BT無線藍芽條碼掃描器支援 3mil 高解析度度條碼的讀取，不論是受損條碼，列印品質不清析的條碼，使用者將能感受到
+F680BT 所帶來的讀取效能，適應多種場合應用，F680BT無線藍芽條碼掃描器具豐富讀取條碼特色集於一身，不僅僅只是一般藍芽條碼掃描器的功能，特別延伸支援批次讀取的離線讀取與資料記憶收集功能，啟用特殊應用之記憶功能之後(BatchScanning / Out of range scanning)，在超出藍芽無線功率含蓋範圍外時，F680BT無線藍芽條碼掃描器依舊讓用戶，可以繼續維持能讀取20,000(兩萬筆)之EAN13條碼資料次數，然後儲存在記憶體裡，在無線範圍自動回復連線後，F680BT無線藍芽條碼掃描器將離線所讀取的資料，自動傳出回主機端，F680BT無線藍芽條碼掃描器藍芽掃描器從此，不再有無線功率距離的限制了，除此之外，F680BT無線藍芽條碼掃描器具備盤點資料收集器功能，能支援適用在一般Inventory盤點的場合。
+規格說明:有無線無線類型無線影像式解碼速度500 次/秒解析度3 mil解碼種類一維條碼條碼種類Code 39, Code 39 Full ASCII, Code 32, Code 39 Trioptic,Code 128, UCC/EAN-128, Codabar, Code 11, Code 93,Standard & Industrial 2 of 5, Interleaved & Matrix 2 of 5,German Postal Code, China Postal Code, IATA,UPC/EAN/JAN, UPC/EAN/JAN with Addendum,Telepen, MSI/Plessey & UK/Plessey,GS1 DataBar (formly RSS) Linear & Linear Stacked                           
+下載專區:軟體名稱適用機型下載CINO 掃描器 F680BT 機器型錄│F680BT│0.45MB
+URL:http://www.jumping.tw/upload/prd_pic1/319_8367626422d62d17e489650dcc6dcb91_2.jpg
+NAME:RJS D4000 L
+注意事項:保固一年&nbsp; ; 交期需 2~4週工作天
+商品詳細介紹:RJS D4000具有兩種不同的讀取頭可以供連接，Auto-Optic掃描頭和Laser（雷射描頭，共有九種不同的光學配制，安裝方便，可以適用於各種場合的需求。
+
+*光罩式: RJS D4000 SP
+
+Auto-Optic：Auto-Optic是美國RJS公司專爲ANSI條形碼等級分析開發研制的，它是一款工業級的ANSI檢測儀，具有四種孔徑尺寸，兩種波長可進行八種光學排列。適合所有的 ANSI X3.182 條形碼需求。
+
+*雷射式: RJS D4000 L
+
+Laser：配備雷射掃描頭的D4000是一款極其容易使用的點射掃描器，不需要進行任何的培訓，可分析許多基本的條形碼參數，進行解碼率和解碼百分比的計算。
+
+規格說明:有無線有線類型雷射式/光罩式解碼速度解析度解碼種類一維條碼條碼種類EAN/UPC with addenda, Code 39, Interleaved 2 of 5, Codabar, Code 128, Regular 2 of 5 (Discrete/Industrial 2 of 5)                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/342_2c7e9dbdda116a1ee6e5d8128cd2c9f1_2.jpg
+NAME:盤點機 Argox  PT-20
+注意事項:保固 2 年
+商品詳細介紹:PT-20是一款無線手持資料收集器，內建高性能CCD掃描器，以及4MB RAM與8MB ROM儲存空間，採用2.4吋彩色穿透式螢幕，29個白色背光防水按鍵，使您在陰暗的環境下可以輸入自如，在吵雜的環境中也可以打開震動提示。 PT-20具有藍芽傳輸功能，通訊範圍為30公尺，可連接外部設備如行動印表機，也可使用高速USB進行資料傳輸，是一款開發靈活簡單、性能優良穩定，使用便利的條碼數據採集器。 PT-20的外殼不僅符合人體工學，確保長時間操作的舒適度，其重量輕、體積小，方便操作，適用各種惡劣環境。它更提供了高度耐磨的鍵盤(一百萬次)，其中，專業按鍵部分可讓使用者自行定義其按鍵的功能；超長的供電時間則可確保數據的安全性，PT-20的機身符合IP54的防水、防塵標準，抗靜電，包覆強化橡膠可承受1.2公尺的落摔高度，達到業界高標準。 PT-20備有一般款及槍型款以滿足不同的應用，長效的操作電力以及完備的周邊提升使用上的便利性。PT-20可廣泛應用於商業POS系統、圖書館、餐飲業、銀行業、保險業、進銷存管理生產流程管理等多個領域。&nbsp;●彩色螢幕&nbsp;●輕巧設計，符合人體工學設計&nbsp;●符合IP54防塵防水工業等級&nbsp;●1.2 公尺自由落體耐摔防護&nbsp;●內建藍芽介面&nbsp;●電池的持久性
+規格說明:作業系統Proprietary CPUARM9 核心 266MHz 處理器記憶容量RAM  4MB / ROM  8MBLCD藍色、綠色、紅色鍵盤29 KEY 掃描方式長距離式 CCD掃描次數400次/秒掃描光源通訊介面可辨讀條碼1D: Code 11, Code 39, Code 93, Code 128, Codabar, EAN 8, EAN 13, Industrial 2/5, Interleaved 2/5, Standard 2/5, MSI/Plessey, UK/Plessey, Telepen test, UPCA, UPCE, Matrix 2/5, China Post, RSS-14, RSS-Limited, RSS-Expanded, Italian Pharmacy testLED喇叭工作電源電源供應: DC 5V 3A充電方式充電及通訊傳輸線、充電及通訊用底座睡眠狀態工規防護IP 54尺寸169.0毫米 (L) x 70.1毫米 (W) x 34.0毫米 (H) 重量235公克 (含電池) 工作溫度-10℃ ~  60℃儲存溫度-20℃ ~  70℃相對溼度操作狀態: 10% ~ 90% (不結霧) /待機狀態: 5% ~ 95% (不結霧)擴充能力軟體開發工具C 語言                            
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/205_f27e50bd34e36edee984ed48e3293f9e_2.jpg
+NAME:盤點機 CIPHERLAB CPT-8200
+注意事項:CPT-8200為一款體積輕巧之手持式資料收集器，手機數位按鍵排列。
+採用鋰電池的高效能電路設計，資料可長時間保存。內建SD slot with SDHC 之擴充性(可支援到8GB)
+通過1.2公尺防震防摔自由落體測試。
+獨具顯示螢幕手機式鍵盤設計背光照明，畫面更清晰容易辨識。有雷射 , 紅外線 , 2維讀取頭 多種選擇。
+商品詳細介紹:體積小，重量輕，可輕鬆方便地放在口袋內隨身攜帶，以便隨時用於工作。
+8200系列為最便利輕巧的便攜式終端機，外型僅有口袋大小，但仍舊能夠實現實時或批次數據更新與存取應用。耗電量低使得電池耐用持久，充電一次就可維持多次輪班操作，並且容易學習以及使用。
+8200系列提供無線局域(802.11b/g)和BT通訊選擇可伴隨員工隨時隨地執行數據蒐集。8200系列是與您一起長時間工作，蒐集行動數據的最佳
+伙伴。可提高票據發放、按單揀貨和路線規劃等工作的效率。掃描和批量上傳的步驟簡單迅速，可加速訂購和庫存管理過程。還可精簡貨架貼標等多種運營流程。
+規格說明:作業系統DOSCPU32-Bit記憶容量程式記憶體 8MB Flash Memory 資料記憶體 4MB/8MB SRAMLCD 160*160，有LED背光功能的LCD鍵盤有LED背光功能的24鍵橡膠鍵盤 掃描方式CCD/雷射/2D掃描次數掃描光源通訊介面通訊傳輸座(RS232/USB) / WIFI / BLUETOOTH可辨讀條碼LED紅綠 / 藍綠 雙色喇叭工作電源充電式鋰電池3.7V，1200 mAh充電方式睡眠狀態工規防護通過 1.2 公尺落地測試(各面5次)尺寸重量150g工作溫度-10°-60°C / 10%-90%儲存溫度-20°C-70°C / 5%-95%相對溼度/ 10%-90%擴充能力通訊傳輸座(RS232/USB)，四槽充電座，槍把軟體開發工具C，BASIC與以Windows為基礎的應用程式產生器                           
+下載專區:軟體名稱適用機型下載Cipherlab 8200系列盤點機型錄│8200│0.86MB
+URL:http://www.jumping.tw/upload/prd_pic1/134_fd5fb2707e039c2afcaeb148a928fcbb_2.jpg
+NAME:CIPHERLAB CPT-8062L
+注意事項:選購配件 :
+通訊傳輸座
+充電與通訊傳輸座
+數據機乙太網路傳輸座
+GSM/GPRS傳輸座 (GSM900/1800)
+四槽電池充電座
+商品詳細介紹:
+8062 &nbsp;小型便攜型藍芽行動資料收集器
+
+CPT-8062 為一款藍芽無線資料收集器，體積輕巧，手機數位按鍵排列。
+
+完全符合國際標準藍芽規範設計(BT Class 2)，可與其它藍芽設備互相搭配使用。
+
+無線傳輸距離可達直線距離50公尺，一個AP(Access Point)或搭配USB Dongle 可對應七支藍芽無線資料收集器。
+
+8062 內建雷射或CCD條碼掃瞄。
+
+採用獨特低電源省電管理技術，利用鋰離子充電電池的高效能電路設計，可連續操作36小時，並附有一個可充電式備用鋰電池，資料可長時間保存。
+
+通過1.2公尺防震防摔自由落體測試，內建硬體自我檢測功能。
+
+獨具顯示螢幕手機式鍵盤設計背光照明，畫面更清晰容易辨識。
+
+8062 內建2MB SRAM資料儲存記憶體及2MB備份記憶體
+
+8062含電池只有135公克，體積輕巧容易攜帶，攜帶使用輕鬆方便，皆適用於零售商店、物流、倉儲管理、產線追縱、賣場即時管理等。
+規格說明:作業系統DOSCPU低耗電16位元CMOS記憶容量程式記憶體 2MB Flash Memory 2MB SRAMLCD100*64，有LED背光功能的LCD鍵盤有LED背光功能的21鍵橡膠鍵盤 掃描方式雷射掃描次數掃描光源Red LED:650nm(8061C) / Laser 可見雷射光(8061L)通訊介面Blue Tooth可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED紅綠雙色喇叭工作電源充電式鋰電池3.7V，700mAh充電方式睡眠狀態工規防護通過 1.2 公尺落地測試(各面5次)尺寸122mm*56mm*23mm(長x寬x高)重量120g含電池工作溫度-10℃~60℃儲存溫度-20℃~70℃相對溼度-20°C-70°C / 5%-95%擴充能力充電傳輸座(RS232/USB)，數據機傳輸座(56k)，乙太網路傳輸座(10/100 Base T)，四槽充電座軟體開發工具C，BASIC與以Windows為基礎的應用程式產生器                           
+下載專區:軟體名稱適用機型下載Cipherlab 8000系列盤點機型錄│Cipherlab 8000系列│4.3MB
+URL:http://www.jumping.tw/upload/prd_pic1/132_f18a7ad7c21123059aeca0bd2502d104_2.jpg
+NAME:盤點機 CIPHERLAB CPT-8000L
+注意事項:選購配件 :
+通訊傳輸座
+充電與通訊傳輸座
+數據機乙太網路傳輸座
+GSM/GPRS傳輸座 (GSM900/1800)
+四槽電池充電座
+商品詳細介紹:CPT-8000為一款體積輕巧之手持式資料收集器，手機數位按鍵排列。
+規格說明:作業系統DOSCPU低耗電16位元CMOS記憶容量2MB SRAMLCD100*64，有LED背光功能的LCD鍵盤有LED背光功能的21鍵橡膠鍵盤 掃描方式雷射掃描次數掃描光源Laser 可見雷射光(8001L)通訊介面紅外線可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED雙色LED喇叭蜂鳴器工作電源兩個AAA鹼性電池充電方式可更換電池睡眠狀態待機狀態工規防護通過 1.2 公尺落地測試(各面5次)尺寸122mm*56mm*23mm(長x寬x高)重量120g含電池工作溫度-10℃~60℃儲存溫度-20℃~70℃相對溼度-20°C-70°C / 5%-95%擴充能力充電傳輸座(RS232/USB)，數據機傳輸座(56k)，乙太網路傳輸座(10/100 Base T)，四槽充電座軟體開發工具C，BASIC與以Windows為基礎的應用程式產生器                           
+下載專區:軟體名稱適用機型下載Cipherlab 8000系列盤點機型錄│Cipherlab 8000系列│4.3MB
+URL:http://www.jumping.tw/upload/prd_pic1/127_222930b693eb53f2ff144ef96606c088_2.jpg
+NAME:UNITECH HT-580
+注意事項:產品特色
+
+‧極緻輕巧，簡約的風格設計
+
+‧內建雷射式一維條碼掃描器
+
+‧內建藍芽介面
+
+‧簡單操作介面
+
+‧方便的程式開發工具
+
+商品詳細介紹:Unitech HT580
+針對需求簡易資料收集與盤點用途的企業設計，產品內建2MB記憶容量，
+規格說明:作業系統DOSCPU8 BIT記憶容量2 MBLCD128X64點螢幕鍵盤18鍵 掃描方式CCD或雷射一維條碼掃瞄器掃描次數100次/秒掃描光源650±10nm	通訊介面RS232、Bluetooth Class 2可辨讀條碼UPC-A/E、 EAN-8/13、Code39、Code3、Code11 Delta、I 2 of 5、Toshiba Code、Standard 2 of 5、EAN-128、MSI/Plessey Code128、Codabar Code39、Code39 full ASCIILED紅綠雙色LED指示喇叭可軟體控制音量大小及警示功能工作電源充電式鋰電池3.7v 730mAH充電方式充電: 4小時以內/使用8小時以上睡眠狀態具有省電功能，可自動關機進入睡眠狀態工規防護1.2公尺自由落體至地面/具IP42防塵及防潑水功能尺寸123mm*55mm*25mm(長x寬x高)重量150公克(含電池)工作溫度0℃~50℃儲存溫度-20℃~70℃相對溼度20%~85%RH non-condensing擴充能力USB/RS232接頭資傳輸線、電池、充電變壓器與馭套、RS232、MODEN介面傳輸座軟體開發工具UNITECH HT-580 EZ JOB                           
+下載專區:軟體名稱適用機型下載Unitech HT-580 盤點機型錄│Unitech HT-580│0.67MB
+URL:http://www.jumping.tw/upload/prd_pic1/136_cb5e2d6cea40aca01c72ee6aaa1a0440_2.jpg
+NAME:CIPHERLAB CPT-8071L
+注意事項:選購配件 :
+通訊傳輸座
+充電與通訊傳輸座
+數據機乙太網路傳輸座
+GSM/GPRS傳輸座 (GSM900/1800)
+四槽電池充電座
+商品詳細介紹:CPT-8071 為一款IEEE802.11b無線資料收集器，體積輕巧，手機數位按鍵排列。
+
+無線傳輸距離可達直線距離350公尺，市面上販售的AP(Access Point)都可搭配，相容性絕佳。
+
+8071內建雷射或CCD條碼掃瞄。採用獨特低電源省電管理技術，利用鋰離子充電電池的高效能電路設計，可連續操作22小時，並附有一個可充電式備用鋰電池，資料可長時間保存。
+
+通過1.2公尺防震防摔自由落體測試，內建硬體自我檢測功能。
+
+獨具顯示螢幕手機式鍵盤設計背光照明畫面更清晰容易辨識。
+
+8071內建1MB SRAM資料儲存記憶體及2MB備份記憶體
+
+8071含電池只有166公克，體積輕巧容易攜帶，獨家搭配專用皮套，攜帶使用輕鬆方便，皆適用於零售商店、物流、倉儲管理、產線追縱、賣場即時管理等。
+規格說明:作業系統DOSCPU低耗電16位元CMOS記憶容量程式記憶體 2MB Flash Memory 2MB SRAMLCD100*64，有LED背光功能的LCD鍵盤有LED背光功能的21鍵橡膠鍵盤 掃描方式雷射掃描次數掃描光源Red LED:650nm(8071C) / Laser 可見雷射光(8071L)通訊介面WIFI可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED紅綠雙色喇叭工作電源充電式鋰電池3.7V，700mAh充電方式睡眠狀態工規防護通過 1.2 公尺落地測試(各面5次)尺寸122mm*56mm*23mm(長x寬x高)重量120g含電池工作溫度-10℃~60℃儲存溫度-20℃~70℃相對溼度-20°C-70°C / 5%-95%擴充能力充電傳輸座(RS232/USB)，數據機傳輸座(56k)，乙太網路傳輸座(10/100 Base T)，四槽充電座軟體開發工具C，BASIC與以Windows為基礎的應用程式產生器                           
+下載專區:軟體名稱適用機型下載Cipherlab 8000系列盤點機型錄│Cipherlab 8000系列│4.3MB
+URL:http://www.jumping.tw/upload/prd_pic1/135_29a3ad8c27f29f49f9edd5f7cde33a2c_2.jpg
+NAME:CIPHERLAB CPT-8071C
+注意事項:選購配件 :
+通訊傳輸座
+充電與通訊傳輸座
+數據機乙太網路傳輸座
+GSM/GPRS傳輸座 (GSM900/1800)
+四槽電池充電座
+商品詳細介紹:CPT-8071 為一款IEEE802.11b無線資料收集器，體積輕巧，手機數位按鍵排列。
+
+無線傳輸距離可達直線距離350公尺，市面上販售的AP(Access Point)都可搭配，相容性絕佳。
+
+8071內建雷射或CCD條碼掃瞄。
+&nbsp;
+採用獨特低電源省電管理技術，利用鋰離子充電電池的高效能電路設計，可連續操作22小時，並附有一個可充電式備用鋰電池，資料可長時間保存。
+
+通過1.2公尺防震防摔自由落體測試，內建硬體自我檢測功能。
+
+獨具顯示螢幕手機式鍵盤設計背光照明畫面更清晰容易辨識。
+
+8071內建1MB SRAM資料儲存記憶體及2MB備份記憶體
+
+8071含電池只有166公克，體積輕巧容易攜帶，獨家搭配專用皮套，攜帶使用輕鬆方便，皆適用於零售商店、物流、倉儲管理、產線追縱、賣場即時管理等。
+規格說明:作業系統DOSCPU低耗電16位元CMOS記憶容量程式記憶體 2MB Flash Memory 2MB SRAMLCD100*64，有LED背光功能的LCD鍵盤有LED背光功能的21鍵橡膠鍵盤 掃描方式CCD掃描次數掃描光源Red LED:650nm(8071C) / Laser 可見雷射光(8071L)通訊介面WIFI可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED紅綠雙色喇叭工作電源充電式鋰電池3.7V，700mAh充電方式睡眠狀態工規防護通過 1.2 公尺落地測試(各面5次)尺寸122mm*56mm*23mm(長x寬x高)重量120g含電池工作溫度-10℃~60℃儲存溫度-20℃~70℃相對溼度-20°C-70°C / 5%-95%擴充能力充電傳輸座(RS232/USB)，數據機傳輸座(56k)，乙太網路傳輸座(10/100 Base T)，四槽充電座軟體開發工具C，BASIC與以Windows為基礎的應用程式產生器                           
+下載專區:軟體名稱適用機型下載Cipherlab 8000系列盤點機型錄│Cipherlab 8000系列│4.3MB
+URL:http://www.jumping.tw/upload/prd_pic1/133_44bf645d80c465c19b4877ca84d7cbf3_2.jpg
+NAME:CIPHERLAB CPT-8062C
+注意事項:選購配件 :
+通訊傳輸座
+充電與通訊傳輸座
+數據機乙太網路傳輸座
+GSM/GPRS傳輸座 (GSM900/1800)
+四槽電池充電座
+商品詳細介紹:
+8062 &nbsp;小型便攜型藍芽行動資料收集器
+
+CPT-8062 為一款藍芽無線資料收集器，體積輕巧，手機數位按鍵排列。
+
+完全符合國際標準藍芽規範設計(BT Class 2)，可與其它藍芽設備互相搭配使用。
+
+無線傳輸距離可達直線距離50公尺，一個AP(Access Point)或搭配USB Dongle 可對應七支藍芽無線資料收集器。
+
+8062 內建雷射或CCD條碼掃瞄。
+
+採用獨特低電源省電管理技術，利用鋰離子充電電池的高效能電路設計，可連續操作36小時，並附有一個可充電式備用鋰電池，資料可長時間保存。
+
+通過1.2公尺防震防摔自由落體測試，內建硬體自我檢測功能。
+
+獨具顯示螢幕手機式鍵盤設計背光照明，畫面更清晰容易辨識。
+
+8062 內建2MB SRAM資料儲存記憶體及2MB備份記憶體
+
+8062含電池只有135公克，體積輕巧容易攜帶，攜帶使用輕鬆方便，皆適用於零售商店、物流、倉儲管理、產線追縱、賣場即時管理等。
+規格說明:作業系統DOSCPU低耗電16位元CMOS記憶容量程式記憶體 2MB, Flash Memory 2MB SRAMLCD100*64，有LED背光功能的LCD鍵盤有LED背光功能的21鍵橡膠鍵盤 掃描方式CCD掃描次數掃描光源Red LED:650nm(8061C) / Laser 可見雷射光(8061L)通訊介面Blue Tooth可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED紅綠雙色喇叭工作電源充電式鋰電池3.7V，700mAh充電方式睡眠狀態工規防護通過 1.2 公尺落地測試(各面5次)尺寸122mm*56mm*23mm(長x寬x高)重量120g含電池工作溫度-10℃~60℃儲存溫度-20℃~70℃相對溼度20°C-70°C / 5%-95%擴充能力充電傳輸座(RS232/USB)，數據機傳輸座(56k)，乙太網路傳輸座(10/100 Base T)，四槽充電座軟體開發工具C，BASIC與以Windows為基礎的應用程式產生器                           
+下載專區:軟體名稱適用機型下載Cipherlab 8000系列盤點機型錄│Cipherlab 8000系列│4.3MB
+URL:http://www.jumping.tw/upload/prd_pic1/344_3380cef75c15d88c8b52bed35dfd5b69_2.jpg
+NAME:盤點機 Argox PT-90
+注意事項:
+商品詳細介紹:立象科技為滿足更多元的應用需求，PT-90掌上型電腦內建高性能CPU並採用Microsoft WinCE 6.0作業系統，同時整合Bluetooth, WiFi, GPRS/EDGE無線傳輸技術，提供企業更好的作業效能與即時的資料傳輸需求。此外，PT-90掌上型電腦針對不同應用功能與戶外環境需求，成功導入圖像擷取與GPS功能以及工業等級IP65防塵防水與1.8公尺耐摔，充分提供企業多樣的與可靠的應用需求。PT-90掌上型電腦展現優越的性能與高度可靠的產品品質，讓企業更有效地提升效率與競爭力。PT-90讓您在不需變動原本作業系統平台的前提下，依使用需求選擇合適的按鍵種類與資料擷取方式，適用產業包括倉儲管理, 運輸流通業, 連鎖零售業, 製造流程管理, &nbsp;行動業務 及公共事業等，以最精簡的預算、更快更精煉的演算技術助您達成高效率的日常工作!
+規格說明:作業系統Microsoft Windows CE .NET 6.0 Professional 繁體中文版CPUMARVELL CPU PXA310 806 MHz記憶容量256MB \ 256MB FLASH ROMLCD3.5英吋 QVGA 彩色LCD, 240 x 320像素觸控式螢幕鍵盤29 鍵 或 44 鍵 (LED背光), 含0~9數字鍵, A~Z字母鍵, 功能鍵, 方向鍵, ESC及Enter鍵 掃描方式雷射式一維條碼掃瞄器 / 影像式二維條碼掃瞄器掃描次數掃描光源通訊介面USB 2.0 client and RS-232可辨讀條碼一維條碼:GS1 databar, Code 39, Code 93, Codabar, Code 128, UPC A, UPC E, Interleaved 2/5,Matrix 2/5, MSI/Plessey, UK/Plessey, Telepen, UPCA,UPCE , Code 11,EAN-8,EAN-13,Industrial 2/5
+二維條碼: Matrix symbologies included Data Matrix , Maxicode, QR code
+OCR: OCR-A、OCR-BLED喇叭工作電源Rechargeable Li-polymer Battery 3900mAH, 3.7V充電方式睡眠狀態工規防護IP65/ ±15kV 空氣放電, ±8kV 接觸放電 / 1.8 公尺 (掌上型電腦), 0.9 公尺 (充電座)尺寸159 毫米(L) * 80.8毫米(W) * 36毫米 (H)重量380 公克 (含電池)工作溫度-10~50℃儲存溫度-20~70℃相對溼度Max 80% RH at ≦ 30℃擴充能力標準Micro SD記憶卡擴充插槽\ 軟體開發工具Embedded Visual C++ 4.0, Visual Studio. NET, Visual Studio 2005, Windows CE SDK                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/343_0f1d6ffe599fe47cbca299b422983cae_2.jpg
+NAME:盤點機 Argox PT-60
+注意事項:
+商品詳細介紹:PT-60為一款功能強大的掌上型電腦，具高度靈活性和絕佳的環境適應性，是提高資料讀取效率的理想工具。PT-60搭載Windows CE的作業系統及Samsung處理器，內建高效能CCD條碼掃描器，記憶體為128MB ROM/RAM，並配備SD記憶卡擴充插槽，方便儲存資料及程式。PT-60具有2.4吋TFT(320x240) QVGA彩色觸控式螢幕以及震動確認讀取功能，當環境吵雜時，使用者可透過震動來確認資料讀取成功。PT-60內建藍芽及Wi-Fi 802.11b/g，提供室內、室外即時的無線通訊特與數據存取；通訊介面包括USB與RS-232通訊介面；應用程式方面，PT-60整合SDK環境，可支援多種I/O驅動程式，包括通訊、自動ID識讀及多種資料登錄模式。PT-60包覆強化橡膠的外殼可承受1.2公尺的落摔高度，高度耐磨的鍵盤及超長的供電電池則確保長時間使用以及數據安全性，鍵盤白色背光功能可解決環境照明不足問題。除上述特點之外，PT-6機身輕巧堅固、設計更符合人體工學，亦符合IP54的防塵、防水標準，能在惡劣的環境中操作使用。PT-60備有一般款及槍型款以滿足不同需求，完備的周邊提升使用的便利性，配件包括旅充、單槽充電座、四槽充電座。PT-60可廣泛應用於商業POS系統、圖書館、餐飲業、銀行業、保險業、進銷存管理生產流程管理等多個領域。
+規格說明:作業系統WinCE 5.0CPUARM9 核心 266MHz處理器記憶容量128MB Mobile DDRAM / 128MB Nand FlashLCD2.4英吋,320 x 240像素 QVGA 65000色觸控式螢幕鍵盤29 個按鍵 掃描方式長距離CCD掃描器( 2048 pixels)掃描次數每秒400次掃描光源通訊介面USB / RS-232(4 Wires)可辨讀條碼一維條碼: Code 11, Code 39, Code 93, Code 128, Codabar, EAN 8, EAN 13, Industrial 2/5, Interleaved 2/5, Standard 2/5, MSI/Plessey, UK/Plessey, Telepen test, UPCA, UPCE, Matrix 2/5, China Post, RSS-14, RSS-Limited, RSS-Expanded, Italian Pharmacy test
+堆疊式二維條碼: UCC/EAN-Composite, Code 16K, PDF 417, Micro PDF 417 for PT-6300, PT-6310 and PT-6320LED藍色、綠色、紅色喇叭擴音器、震動器工作電源1) +/- 15 KV 空氣放電 2) +/- 8 KV 接觸放電充電方式睡眠狀態工規防護尺寸169.0毫米 (L) x 70.1毫米 (W) x 34.0毫米 (H)重量250公克 (含電池)工作溫度-10℃ to 60℃ / 14℉ to 140℉儲存溫度-20℃ to 70℃ / -4℉ to 158℉相對溼度操作狀態:: 10-90% (不結霧) 待機狀態: 5-95%(不結霧)擴充能力1) 1.2公尺(掌上型電腦)/ 0.9公尺 (充電座) 2) IP54防塵、防潑水功能軟體開發工具embedded Visual C++ 4.0, Visual Studio.NET, Visual Studio 2005, Windows CE SDK Scanner Configuration Utility                           
+下載專區:軟體名稱適用機型下載
+URL:http://www.jumping.tw/upload/prd_pic1/129_0f1919112a00d7ce6acbabea656deee3_2.jpg
+NAME:UNITECH HT-680
+注意事項:產品特色
+‧採用微軟WinCE .NET 5.0繁體中文作業系統
+‧2.8吋全彩觸控式螢幕
+‧30°角度條碼掃瞄器人體工學設計，極致順手
+‧ 一維與二維條碼掃描器選擇
+‧ 整合藍芽、WiFi、GPRS行動通訊系統
+‧大容量記憶體設計
+‧ 高容量電池與省電設計
+商品詳細介紹:跟傳統DOS作業系統說Bye Bye
+HT680是一款兼具體積輕巧與堅固耐用設計的手持式行動電腦，它適用於企業不同使用環境之中，具備了耐摔、防塵與防水功能。HT680同時也整合了藍
+芽、無線網路、GPRS行動通訊技術，提供企業無間隙的資料傳輸功能，在資料輸入介面的設計，HT680可選購一維或二維條碼掃瞄器，讓企業資料收集應用
+可更加有效率。HT680具備單手操作的使用特點，充分保障設備應用與系統的穩定性，完全符合企業用戶的需求。
+
+HT680搭載微軟WinCE 作業平台，應用程式開發採用微軟Visual
+Studio軟體開發工具，它兼具了軟體開發標準化與開放性的絕佳特點，讓程式開發人員能夠更快速、更輕鬆執行系統整合，解決傳統DOS作業平台軟體開發
+不易與應用受限的不便，協助企業M化效率加分，輕鬆轉型為行動化企業的管理目標，幫助企業競爭力加分。
+
+應用範圍 
+資產盤點、倉儲入出管理、物流運輸、外勤業務或維修服務…等。
+規格說明:作業系統WinCE.NET 5.0 中文版CPU520MHZ記憶容量Flash ROM:512MB ; RAM:128MBLCD2.8英吋QVGA彩色觸控螢幕鍵盤22鍵, 方向、英、數與功能鍵 掃描方式內建雷射一維/二維條碼掃描器掃描次數掃描光源通訊介面標準：USB 1.1,藍芽2.0, 選購：IEEE802.11b+g,GSM/GPRS ,GPRS Edge可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED喇叭可軟體控制音量大小及警示功能工作電源充電方式充電 :3.5小時 /使用: 8小時睡眠狀態具有省電功能，可自動關機進入睡眠狀態工規防護1.8公尺(自由落體)尺寸170mm*55mm*30mm(長x寬x高)重量290G含電池工作溫度-10℃~50℃儲存溫度-20℃~60℃相對溼度5%~95% RH Non-Condensing擴充能力1個Mini SD擴充槽，支援SDHC記憶體擴充軟體開發工具Visual Studio.NET 2005、HT680 SDK                           
+下載專區:軟體名稱適用機型下載Unitech HT-680 盤點機型錄│Unitech HT-680│2.04MB
+URL:http://www.jumping.tw/upload/prd_pic1/130_a1a670eab6832ec42c42b5be84e7762d_2.jpg
+NAME:UNITECH PA-600
+注意事項:產品特色
+‧整合性動電話無線通訊系統 , 藍芽與無線網路 , 無 "線" 延伸企業行動力
+‧一維, 二維條碼與RFID資料收集 , 適合企業不同資料讀取來源
+‧防爆 , 抗菌 , 防水與防塵材質 , 多樣化選擇 , 適用企業作業環境需求
+‧ 輕巧美觀 人性化人體工學設計
+‧ 全中文化介面 , 使用者操作容易
+‧多樣化配件設計 , 提升使用者效率
+‧完整豐富的SDK軟體開發工具資源
+商品詳細介紹:unitech
+PA600 整合行動運算、無線通訊與條碼掃瞄資料輸入等功能，同時它也是最輕巧具 IP64 工業等級 PDA。PA600
+設計是以高運算效能與保護資料安全為重點，採用微軟最新 Windows Mobile 6.1 Classic中文版，且使用 Intel
+X-Scale 624MHZ 處理器， 呈現極佳的系統效能表現，另外雙 FLASH 設計，用以存放系統、應用程式與資料庫，100%
+保障資料安全不遺失。
+
+PA600 具符合人體工學的外觀造型，使用者介面的親和性高，非常適合女性使用者及長時間操作者應用。&nbsp;PA600 系統功能與擴充能力強大，能有效減低企業行動資訊系統建置複雜度與成本，完全針對企業使用環境設計，是一個極優質的 M 化資訊工具。
+規格說明:作業系統Windows Mobile 6.1 Professional中文版CPU624MHZ記憶容量ROM:576MB  RAM:128MBLCD3.5吋,240x320 QVGA彩色觸控螢幕鍵盤20鍵,具LED背光 掃描方式一維雷射式  or  ISO 14443 A/B &ISO15693(二選一)掃描次數掃描光源通訊介面USB Client/Host、RS232可辨讀條碼UPC-A/E、EAN-8/13、Codabar、Code39、Code39 full ASCII、Code93、Code32、Std 2of5、EAN128、Code11、Delta、MSI/Plessey、Code128、Toshiba CodeLED喇叭工作電源3.7V 2200mAh (可選購3.7V 3300mAh)充電方式睡眠狀態具有省電功能，可自動關機進入睡眠狀態工規防護1.2公尺自由落體至地面/具IP64防塵及防潑水功能尺寸49.5*85*35.5mm(長x寬x高)重量320g含電池工作溫度-10℃~50℃儲存溫度-20℃~60℃相對溼度擴充能力USB傳輸座、四槽Ethernet 傳輸座、四槽電池充電器、皮套、車充軟體開發工具                           
+下載專區:軟體名稱適用機型下載Unitech PA-600 盤點機型錄│Unitech PA-600│1.01MB
+URL:http://www.jumping.tw/upload/prd_pic1/206_8cb27e1a8098d64239b88d0a8c7be773_2.jpg
+NAME:CIPHERLAB CP-30
+注意事項:
+Windows Mobile® 6.5 作業系統
+商品詳細介紹:多功能設計且易於上手的工業型多功能行動電腦 (PDA)
+Windows Mobile® 6.5 作業系統
+集3.5G無線廣域網路 (WWAN) 、無線區域網路 (WLAN)及無線個人區域網 (WPAN)等多合一無線通訊於一身
+
+CipherLab Smart Shell提供更簡單且靈活的應用操作
+一維及二維條碼讀頭選擇內設320萬像素自動對焦相機GPS/AGPS導航功能
+多樣性的軟體工具，來提供簡單快速的客制化設定
+規格說明:作業系統Windows Mobile® 6.5 作業系統CPUQualcomm MSM7225 @ 528Mhz記憶容量512MB Flash 256MB DDRLCD3.2” 240*400鍵盤有LED背光功能的數字鍵盤 掃描方式雷射/2D掃描次數掃描光源通訊介面可辨讀條碼LED喇叭工作電源3.7V 2200mAh 鎳氫電池充電方式睡眠狀態工規防護尺寸重量255g工作溫度-10°~55°C儲存溫度-20°C-70°C相對溼度保存5%-95%/工作 10%-90%擴充能力座充，車充(選配配件)軟體開發工具vc++,.net 2005 , 2008                           
+下載專區:軟體名稱適用機型下載Cipherlab CP-30系列盤點機型錄│CP-30│1.23MB

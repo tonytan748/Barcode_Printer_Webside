@@ -1,0 +1,258 @@
+產品簡介
+
+型號
+
+
+
+
+
+
+Symbol
+Symbol美國訊寶為客戶提供的產品和解決方案能夠實時採集、移動和管理不同業務端之間...
+
+  LS1203, LS2208AP, 
+  LS2208標準版, DS4208, DS4208HD, DS6707...
+
+
+
+
+
+
+
+Metrologic
+Metrologic 條碼掃描器是全球激光條碼掃描器的專業製造商，從1969年推出世界上第一個 ...
+
+
+
+
+
+
+Central
+Central專營條碼標籤掃瞄設備，條碼標籤打印設備。central提供條碼標簽設計軟件，讓您輕鬆設計...
+
+
+
+
+
+
+CipherLab
+ CipherLab 的技術專長將掃描、移動計算和商務流程設計等方面融於一體。我們的產品可...
+
+
+
+
+
+
+
+Opticon
+Opticon 公司成立於1976年，已經從一個條技術首創者成長為一個能為許多應用領域提供...
+
+
+
+
+
+
+Argox
+Metrologic 條碼掃描器是全球激光條碼掃描器的專業製造商，從1969年推出世界上第一個 ...
+
+
+
+
+
+
+UROVO
+ i60是一款輕便耐用的移整個企業都部署高質量的無線數據採集解決方案，以滿足高強度掃描環境需...
+
+
+
+
+
+
+ZEBEX
+ 1986年起, ZEBEX就投身於條碼掃描業的最前線，致力於研發和推廣全系列的條碼掃描設備及解決方...
+
+
+
+
+
+
+Datalogic
+ Datalogic是歐洲最大的工業條碼閱讀器、無線採集器和RFID系統設備的製造商Datalogic的股票...
+
+
+
+
+
+
+AITGM
+AITGM高速高精工業級激光掃描器產品類別,手感舒適，防震抗摔性能良好，能夠快速掃描常用的一維...
+
+
+
+
+
+
+條碼檢定器
+在過去的三十年中，條碼符號的質量檢驗技術有了比較大的發展。最初並沒有專門的條碼檢測設備 ...
+
+
+
+
+
+
+
+
+    
+
+TSC
+TSC于全球條形碼周邊產品市場潛力雄厚，積極研發熱感式條 形碼打印機。1994年熱轉式條形碼打印機相...
+
+  TTP-244 Plus, TTP-243E , TTP-245, TTP-342E...
+    
+
+
+
+
+
+
+Zebra
+Zebra公司的條碼打印機可提供最全面的富于創新的技術解決方案，以幫助客戶高效識別、...
+TLP2844, GK-420, GT-800, ZM400, ZM600, 105SL...
+
+
+
+
+
+Citizen
+西鐵城精電科技(香港)有限公司建立於1989年(前稱為冠潤電子實業有)專業從事健康電子產品...CLP-621, CL-S631,CL-S700...
+
+
+
+
+
+Intermec
+Intermec公司是自動識別行業的領導者，也是世界上唯一的一家在自動識別領域提供全面解方決案的公司...
+PC4,PM4i...
+
+
+
+
+
+
+Datamax
+Datamax 公司門從事條形碼和無線射頻識別(RFID)標籤製作產品的設計、製造和銷售，包...
+
+  E-CLASS, H-CLASS,
+I-CLASS, W-CLASS,
+A-CLASS 
+      LP3, RL3, RL4...
+
+
+
+
+
+
+Godex
+Godex創立於1993年，致力於設計及生產標籤印製機，包含實用性設計和多功能的熱感/熱轉印表機...
+
+  RT700I, EZ-1200, G530
+      RT Series, G Series, EZ Series, 
+      G Series
+
+
+
+
+
+
+Postek
+博思得公司自1998年成立之時就潛心致力於滿足國內市場需求的條碼標籤打印機的研發與生...
+
+
+
+
+
+
+Avery
+Avery打印系統部為全球最大條碼機生產商之一，一直帶領條碼應用技術。打印系統部的總部及工廠...
+AP2, AP3...
+
+
+
+
+
+Sato
+SATO公司創建於1940年，總部在日本東京。1990年上市日本證券市場,是東京證券交易所唯一的專...
+CX400, CG408...
+
+
+
+
+          
+
+
+TEC是國際條碼打印業界之權威性公司,生產的條碼產品包括條碼標籤打印機,掃描器等。 TEC打印...
+
+          
+          
+
+
+Label Rewinder
+BSC_U8 標籤回捲器配有自動同步回卷功能,可調整回卷速度適合各大小卷芯,適合各...
+
+          
+         
+      
+
+    
+    
+scanner/Symbol.html">Motorola (Symbol)
+<a href="scanner/Metrologic.html">Honeywell (Metrologic)
+<a href="scanner/central.html">Central
+<a href="scanner/Cipherlab.html">CipherLab
+
+
+<a href="scanner/Symbol.html
+labelprinter/tsc.html">TSC</a></div>
+<a href="labelprinter/zebra.html">Zebra</a>
+<a href="labelprinter/Datamax.html">Datamax</a>
+<a href="labelprinter/citizen.html">Citizen</a>
+<a href="labelprinter/Intermec.html">Intermec</a>
+<a href="labelprinter/Godex.html">Godex</a>
+<a href="labelprinter/Postek.html">Postek</a>
+<a href="labelprinter/Avery.html">Avery</a>
+<a href="labelprinter/Sato.html">Sato</a>
+<a href="labelprinter/TEC.html">TEC</a>
+
+<a href="cardprinter/zenius.html">Evolis Zenius</a></div>
+<a href="cardprinter/pebble4.html">Evolis Pebble 4</a></div>
+<a href="cardprinter/dualys.html">Evolis Dualys</a></div>
+<a href="cardprinter/primacy.html">Evolis Primacy</a></div>
+<a href="cardprinter/badgy.html"> Evolis Badgy</a></div>
+<a href="cardprinter/tattoorw.html">Evolis Tattoo RW</a></div>
+<a href="cardprinter/quantum.html">Evolis Quantum</a></div>
+<a href="cardprinter/P110i.html">Zebra P110i</a></div>
+<a href="cardprinter/P420.html">Zebra P420</a></div>
+<a href="cardprinter/P520.html">Zebra P520</a></div>
+<a href="cardprinter/P720.html">Zebra P720</a></div>
+<a href="cardprinter/P640i.html">Zebra P640i</a></div>
+<a href="cardprinter/P430i.html">Zebra P430i</a></div>
+<a href="cardprinter/P330i.html">Zebra P330i</a></div>
+<a href="cardprinter/P310i.html">Zebra P310i</a></div>
+<a href="cardprinter/P120i.html">Zebra P120i</a></div>
+<a href="cardprinter/ZXP7.html">Zebra ZXP7</a></div>
+<a href="cardprinter/ZXP8.html">Zebra ZXP8</a></div>
+<a href="cardprinter/ZXP3.html">Zebra ZXP3</a></div>
+
+
+<img src="images/banner_CardPriner.jpg">
+<a href="http://www.card-label.com" >www.card-label.com</a></span>
+
+<a href="CardPrinter.html">證卡打印機
+
+<img src="images/image_CardPriner1.jpg" align="right">
+<iframe width=380" height="290" src="//www.youtube.com/embed/w_26Xl1jNVg" frameborder="0" allowfullscreen></iframe>
+
+<img src="jpg/cardprinter/Zenius-Profile.jpg">
+<a href="http://centrallinktech.com/cardprinter/zenius.html">Zenius
+
+<a href="cardprinter/primacy.html
