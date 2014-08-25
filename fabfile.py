@@ -1,9 +1,9 @@
 from fabric.api import local
 
-def deploy():
+def update():
 	local('git add .')
-	comment=raw_input('please key in some words:')
+	comment=raw_input('Please key in some commend:')
 	local('git commit -m "%s"' % comment)
 	local('git push origin master')
 
-#fab deploy
+
