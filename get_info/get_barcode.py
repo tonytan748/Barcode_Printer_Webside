@@ -26,10 +26,12 @@ product_desc_re=''
 
 
 def get_info(url,re_content):
-	a=urllib2.urlopen(url).read()
-	a=a.strip('\n').strip('\r').replace('	','').replace('\n','').strip('\r\n').replace('\r\n','')
+	a=urllib2.urlopen(url)
+	x=''
+	for i in a.readlines():
+		x=x+i.strip().strip('\n').strip()
 	geta=re.compile(re_content)
-	get_all=geta.findall(a)
+	get_all=geta.findall(x)
 	return get_all
 
 def get_classify():
@@ -108,7 +110,61 @@ def clear_html(path):
 				f1.write(i)
 				f1.write('\n')
 				
+def get_company_list_url():
+	url_re=re.compile('<a href="(.*?)">(.*?)</a>')
+	s=''
+	with open(company_list_file,'r') as f:
+		for i in f.readlines():
+			s = s + i
+	print s
+	g=url_re.findall(s)
+	with open(os.path.join(file_path,'company_url_list.txt'),'w') as f1:
+		for j in g:
+			if j:
+				f1.write('URL:' + main_html + j[0] + '\n')
+				f1.write('NAME:' + j[1] + '\n')
+				f1.write('\n')
+	
+def get_product_list():
+	pro_re_1='<div class="div1"><a href="(.*?)">(.*?)</a>'
+	pro_re_2='<div class="div1"><p><a href="(.*?)">(.*?)</a>'
+	m=[]
+	with open(os.path.join(file_path,'company_url_list.txt'),'r') as f:
+		s=f.readlines()
+#		print s
+		for k,i in enumerate(s):
+			print k
+			if i.startswith('TYPE:1'):
+				title_list={}
+				u=s[k+1][4:]
+				name=(s[k+2].strip())[5:]
+				print u
+				head_url='/'.join((u.split('/'))[:-1])
+				g1=get_info(u,pro_re_1)
+				g2=get_info(u,pro_re_2)
+				g1.extend(g2)
+				title_list['name']=name
+				x=[]
+				for i in g1:
+					b=list(i)
+					b[0]=head_url + '/' + b[0]
+					x.append(b)
+				title_list['content']=x
+					
+				m.append(title_list)
+#	print m
+	with open(os.path.join(file_path,'company_content_list.txt'),'w') as z:
+		for i in m:
+			z.write(i['name']+'\n')
+			z.write('\n')
+			for j in i['content']:
+				z.write('\t')
+				z.write(j[1] + '\t' + j[0]+'\n')
+	
+	
 if __name__=='__main__':
 #	get_classify()
 #	get_classify_content()
-	get_content(company_list_file,company_list_re)
+#	get_content(company_list_file,company_list_re)
+#	get_company_list_url()
+	get_product_list()

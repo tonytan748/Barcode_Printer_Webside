@@ -1,0 +1,120 @@
+Motorola (Symbol)
+
+	LS1203	http://centrallinktech.com/scanner/LS1203.html
+	LS2208AP	http://centrallinktech.com/scanner/LS2208AP.html
+	LS2208�зǪ�	http://centrallinktech.com/scanner/LS2208.html
+	LS4208	http://centrallinktech.com/scanner/LS4208.html
+	LS7708	http://centrallinktech.com/scanner/LS7708.html
+	LI4278	http://centrallinktech.com/scanner/LI4278.html
+	LS3578FZ	http://centrallinktech.com/scanner/LS3578FZ.html
+	DS4208	http://centrallinktech.com/scanner/DS4208.html
+	DS4208HD	http://centrallinktech.com/scanner/DS4208HD.html
+	DS6707	http://centrallinktech.com/scanner/DS6707.html
+	DS6708	http://centrallinktech.com/scanner/DS6708.html
+	DS9808	http://centrallinktech.com/scanner/DS9808.html
+	DS9208	http://centrallinktech.com/scanner/DS9208.html
+	DS457	http://centrallinktech.com/scanner/DS457.html
+	DS6878	http://centrallinktech.com/scanner/DS6878.html
+	DS3578	http://centrallinktech.com/scanner/DS3578.html
+	TDP-342E	http://centrallinktech.com/labelprinter/TSC/342E.html
+	MC1000	http://centrallinktech.com/scanner/MC1000.html
+	MC3100	http://centrallinktech.com/scanner/MC3100.html
+	MC3190	http://centrallinktech.com/scanner/MC3190SI3.html
+	DS4800	http://centrallinktech.com/scanner/DS4800.html
+	MC55	http://centrallinktech.com/scanner/MC55.html
+	MC65	http://centrallinktech.com/scanner/MC65.html
+	MC75	http://centrallinktech.com/scanner/MC75.html
+	AP6521	http://centrallinktech.com/scanner/AP6521.html
+Honeywell (Metrologic)
+
+	MS9535	http://centrallinktech.com/scanner/MS9535.html
+	MS9540	http://centrallinktech.com/scanner/MS9540.html
+	MS9590	http://centrallinktech.com/scanner/MS9590.html
+	MS5145	http://centrallinktech.com/scanner/MS5145.html
+	YJ3300	http://centrallinktech.com/scanner/YJ3300.html
+	MS7120	http://centrallinktech.com/scanner/MS7120.html
+	MS7180	http://centrallinktech.com/scanner/MS7180.html
+	MS7600	http://centrallinktech.com/scanner/MS7600.html
+	MS7820	http://centrallinktech.com/scanner/MS7820.html
+	MS2300	http://centrallinktech.com/scanner/MS2300.html
+Central
+
+	Central V6	http://centrallinktech.com/scanner/v6.html
+	Central U-I6000	http://centrallinktech.com/scanner/ui6000.html
+	Central 8100	http://centrallinktech.com/scanner/8100.html
+	Central T2008 	http://centrallinktech.com/scanner/t2008.html
+	Central T2009	http://centrallinktech.com/scanner/t2009.html
+	Central 1660	http://centrallinktech.com/scanner/c1660.html
+	FL 2800	http://centrallinktech.com/scanner/fl2800.html
+CipherLab
+
+	Cipherlab8000	http://centrallinktech.com/scanner/8000.html
+	CipherLab 1660	http://centrallinktech.com/scanner/1660.html
+	CipherLab 1500 	http://centrallinktech.com/scanner/1500.html
+	Cipherlab1166/1266	http://centrallinktech.com/scanner/1166.html
+	CipherLab 1000	http://centrallinktech.com/scanner/1000.html
+Symbol
+
+	LS1203	http://centrallinktech.com/scanner/LS1203.html
+	LS2208AP	http://centrallinktech.com/scanner/LS2208AP.html
+	LS2208�зǪ�	http://centrallinktech.com/scanner/LS2208.html
+	LS4208	http://centrallinktech.com/scanner/LS4208.html
+	LS7708	http://centrallinktech.com/scanner/LS7708.html
+	LI4278	http://centrallinktech.com/scanner/LI4278.html
+	LS3578FZ	http://centrallinktech.com/scanner/LS3578FZ.html
+	DS4208	http://centrallinktech.com/scanner/DS4208.html
+	DS4208HD	http://centrallinktech.com/scanner/DS4208HD.html
+	DS6707	http://centrallinktech.com/scanner/DS6707.html
+	DS6708	http://centrallinktech.com/scanner/DS6708.html
+	DS9808	http://centrallinktech.com/scanner/DS9808.html
+	DS9208	http://centrallinktech.com/scanner/DS9208.html
+	DS457	http://centrallinktech.com/scanner/DS457.html
+	DS6878	http://centrallinktech.com/scanner/DS6878.html
+	DS3578	http://centrallinktech.com/scanner/DS3578.html
+	MC1000	http://centrallinktech.com/scanner/MC1000.html
+	MC3100	http://centrallinktech.com/scanner/MC3100.html
+	MC3190	http://centrallinktech.com/scanner/MC3190SI3.html
+	DS4800	http://centrallinktech.com/scanner/DS4800.html
+	MC55	http://centrallinktech.com/scanner/MC55.html
+	MC65	http://centrallinktech.com/scanner/MC65.html
+	MC75	http://centrallinktech.com/scanner/MC75.html
+	AP6521	http://centrallinktech.com/scanner/AP6521.html
+TSC
+
+	244 Plus	http://centrallinktech.com/labelprinter/TSC/244plus.html
+	247	http://centrallinktech.com/labelprinter/TSC/247.html
+	2404	http://centrallinktech.com/labelprinter/TSC/2404.html
+	342E	http://centrallinktech.com/labelprinter/TSC/342E.html
+	Alpha-3R	http://centrallinktech.com/labelprinter/TSC/Alpha-3R.html
+	Alpha-4L	http://centrallinktech.com/labelprinter/TSC/Alpha-4L.html
+Zebra
+
+	GT800	http://centrallinktech.com/labelprinter/zebra/GT800.html
+	2824plus	http://centrallinktech.com/labelprinter/zebra/2824plus.html
+	110xi4	http://centrallinktech.com/labelprinter/zebra/110xi4.html
+	140xi4	http://centrallinktech.com/labelprinter/zebra/140xi4.html
+	170xi4	http://centrallinktech.com/labelprinter/zebra/170xi4.html
+	220xi4	http://centrallinktech.com/labelprinter/zebra/220xi4.html
+	105SL Plus	http://centrallinktech.com/labelprinter/zebra/105SLPlus.html
+	ZM400	http://centrallinktech.com/labelprinter/zebra/ZM400.html
+	ZM600	http://centrallinktech.com/labelprinter/zebra/ZM600.html
+	ZT220	http://centrallinktech.com/labelprinter/zebra/ZT220.html
+	ZT230	http://centrallinktech.com/labelprinter/zebra/ZT230.html
+Datamax
+
+	I-4212E	http://centrallinktech.com/labelprinter/Datamax/I-4212e.html
+	I-4212	http://centrallinktech.com/labelprinter/Datamax/I-4212.html
+	I-4310E	http://centrallinktech.com/labelprinter/Datamax/I-4310e.html
+	I-4606E	http://centrallinktech.com/labelprinter/Datamax/I-4606e.html
+	E-4204B	http://centrallinktech.com/labelprinter/Datamax/E-4204B.html
+	E-4304B	http://centrallinktech.com/labelprinter/Datamax/E-4304B.html
+	H-6308	http://centrallinktech.com/labelprinter/Datamax/H-6308.html
+	I-4208	http://centrallinktech.com/labelprinter/Datamax/I-4208.html
+	I-4308	http://centrallinktech.com/labelprinter/Datamax/I-4308.html
+	I-4406	http://centrallinktech.com/labelprinter/Datamax/I-4406.html
+	I-4604	http://centrallinktech.com/labelprinter/Datamax/I-4604.html
+Citizen
+
+	CLP631	http://centrallinktech.com/labelprinter/citizen/clp631.html
+	CLP621	http://centrallinktech.com/labelprinter/citizen/clp621.html
+	CLS700	http://centrallinktech.com/labelprinter/citizen/cls700.html

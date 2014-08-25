@@ -1,0 +1,147 @@
+TYPE:1
+URL:http://centrallinktech.com/scanner/Symbol.html
+NAME:Motorola (Symbol)
+
+TYPE:1
+URL:http://centrallinktech.com/scanner/Metrologic.html
+NAME:Honeywell (Metrologic)
+
+TYPE:1
+URL:http://centrallinktech.com/scanner/central.html
+NAME:Central
+
+TYPE:1
+URL:http://centrallinktech.com/scanner/Cipherlab.html
+NAME:CipherLab
+
+TYPE:1
+URL:http://centrallinktech.com/scanner/Symbol.html
+NAME:Symbol
+
+TYPE:1
+URL:http://centrallinktech.com/labelprinter/tsc.html
+NAME:TSC
+
+TYPE:1
+URL:http://centrallinktech.com/labelprinter/zebra.html
+NAME:Zebra
+
+TYPE:1
+URL:http://centrallinktech.com/labelprinter/Datamax.html
+NAME:Datamax
+
+TYPE:1
+URL:http://centrallinktech.com/labelprinter/citizen.html
+NAME:Citizen
+
+TYPE:2
+URL:http://centrallinktech.com/labelprinter/Intermec.html
+NAME:Intermec
+
+TYPE:2
+URL:http://centrallinktech.com/labelprinter/Godex.html
+NAME:Godex
+
+TYPE:2
+URL:http://centrallinktech.com/labelprinter/Postek.html
+NAME:Postek
+
+TYPE:2
+URL:http://centrallinktech.com/labelprinter/Avery.html
+NAME:Avery
+
+TYPE:2
+URL:http://centrallinktech.com/labelprinter/Sato.html
+NAME:Sato
+
+TYPE:2
+URL:http://centrallinktech.com/labelprinter/TEC.html
+NAME:TEC
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/zenius.html
+NAME:Evolis Zenius
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/pebble4.html
+NAME:Evolis Pebble 4
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/dualys.html
+NAME:Evolis Dualys
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/primacy.html
+NAME:Evolis Primacy
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/badgy.html
+NAME: Evolis Badgy
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/tattoorw.html
+NAME:Evolis Tattoo RW
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/quantum.html
+NAME:Evolis Quantum
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P110i.html
+NAME:Zebra P110i
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P420.html
+NAME:Zebra P420
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P520.html
+NAME:Zebra P520
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P720.html
+NAME:Zebra P720
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P640i.html
+NAME:Zebra P640i
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P430i.html
+NAME:Zebra P430i
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P330i.html
+NAME:Zebra P330i
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P310i.html
+NAME:Zebra P310i
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/P120i.html
+NAME:Zebra P120i
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/ZXP7.html
+NAME:Zebra ZXP7
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/ZXP8.html
+NAME:Zebra ZXP8
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/ZXP3.html
+NAME:Zebra ZXP3
+
+TYPE:2
+URL:http://centrallinktech.com/CardPrinter.html
+NAME:證卡打印機
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/zenius.html
+NAME:Zenius
+
+TYPE:2
+URL:http://centrallinktech.com/cardprinter/primacy.html
+NAME:primacy
